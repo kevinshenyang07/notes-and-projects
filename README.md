@@ -4,6 +4,8 @@ Hi, its kevin.
 
 Data Science is huge yet fascinating, let's see how far we can go.
 
+Never stop learning, get better everyday.
+
 **Notes:**
 
 The articles that I translated in my spare time.  I hope more people in China can know how data science is evolving all around the world.
@@ -14,7 +16,7 @@ The articles that I translated in my spare time.  I hope more people in China ca
 
 [Creating a Data-Driven Organization- Two Years On](https://github.com/kevinshenyang07/notes-and-projects/blob/gh-pages/Notes/Creating%20a%20Data-Driven%20Organization-%20Two%20Years%20On.pdf)
 
-
+[CS183C-11-Technology-enabled Blitzscaling By Patrick Collison](https://github.com/kevinshenyang07/notes-and-projects/blob/gh-pages/Notes/CS183C-11-Technology-enabled%20Blitzscaling.md)
 
 **Projects:**
 
