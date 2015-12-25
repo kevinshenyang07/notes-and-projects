@@ -2,12 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87296e9a-e45f-4fe9-b759-166f3edfd784" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Projects/OpenStreetMap/handle.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Projects/WF_Text_Anlysis/.ipynb_checkpoints/Analysis_Hashtags_TFIDF_LDA_Word2Vec-checkpoint.ipynb" afterPath="$PROJECT_DIR$/Projects/WF_Text_Anlysis/.ipynb_checkpoints/Analysis_Hashtags_TFIDF_LDA_Word2Vec-checkpoint.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Projects/WF_Text_Anlysis/Analysis_Hashtags_TFIDF_LDA_Word2Vec.ipynb" afterPath="$PROJECT_DIR$/Projects/WF_Text_Anlysis/Analysis_Hashtags_TFIDF_LDA_Word2Vec.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/Define_Data_Analyst/README.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Projects/Open_Street_Map/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Projects/Open_Street_Map/audit.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Projects/Open_Street_Map/example.osm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Projects/Open_Street_Map/example.osm.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Projects/Open_Street_Map/handle.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Projects/Open_Street_Map/res.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Projects/Open_Street_Map/reshape.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Projects/WF_Text_Anlysis/.ipynb_checkpoints/Analysis_Hashtags_TFIDF_LDA_Word2Vec-checkpoint.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Projects/WF_Text_Anlysis/.ipynb_checkpoints/Analysis_Watson-checkpoint.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Projects/WF_Text_Anlysis/2015+Wells+Fargo+Campus+Analytic+Challenge+Dataset.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Projects/WF_Text_Anlysis/Analysis_Hashtags_TFIDF_LDA_Word2Vec.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Projects/WF_Text_Anlysis/Wells+Fargo+Campus+Analytic+Challenge+Metadata.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Projects/WF_Text_Anlysis/stopwords.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="notes-and-projects.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,46 +38,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="reshape.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Projects/OpenStreetMap/reshape.py">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/projects/Define_Data_Analyst/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="95" column="34" selection-start-line="95" selection-start-column="34" selection-end-line="95" selection-end-column="34" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="res.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Projects/OpenStreetMap/res.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="2541" column="0" selection-start-line="2541" selection-start-column="0" selection-end-line="2541" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="audit.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Projects/OpenStreetMap/audit.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7480916">
-              <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#29#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="handle.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Projects/OpenStreetMap/handle.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="82" column="28" selection-start-line="82" selection-start-column="28" selection-end-line="82" selection-end-column="28" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -91,6 +67,11 @@
         <option value="$PROJECT_DIR$/Projects/OpenStreetMap/test.py" />
         <option value="$PROJECT_DIR$/Projects/OpenStreetMap/audit.py" />
         <option value="$PROJECT_DIR$/Projects/OpenStreetMap/handle.py" />
+        <option value="$PROJECT_DIR$/Projects/What's_Data_Analyst/raw.py" />
+        <option value="$PROJECT_DIR$/Projects/What's_Data_Analyst/scape_indeed.py" />
+        <option value="$PROJECT_DIR$/Projects/What's_Data_Analyst/scrape_indeed_glassdoor.py" />
+        <option value="$PROJECT_DIR$/Projects/Open_Street_Map/reshape.py" />
+        <option value="$PROJECT_DIR$/Projects/What's_Data_Analyst/scrape_indeed.py" />
       </list>
     </option>
   </component>
@@ -153,7 +134,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Projects" />
+              <option name="myItemId" value="projects" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -167,11 +148,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Projects" />
+              <option name="myItemId" value="projects" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="OpenStreetMap" />
+              <option name="myItemId" value="Define_Data_Analyst" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -197,7 +178,12 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Python.handle">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Projects/What's_Data_Analyst" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.scrape_indeed_glassdoor">
     <configuration default="false" name="handle" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -215,36 +201,70 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="raw" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Projects/OpenStreetMap" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Projects/What's_Data_Analyst" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="notes-and-projects" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Projects/OpenStreetMap/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Projects/What's_Data_Analyst/raw.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="audit" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="scrape_indeed_glassdoor" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Projects/OpenStreetMap" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Projects/What's_Data_Analyst" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="notes-and-projects" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Projects/OpenStreetMap/audit.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Projects/What's_Data_Analyst/scrape_indeed_glassdoor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="scrape_indeed" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Projects/What's_Data_Analyst" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="notes-and-projects" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Projects/What's_Data_Analyst/scrape_indeed.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="reshape" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Projects/Open_Street_Map" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="notes-and-projects" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Projects/Open_Street_Map/reshape.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -371,16 +391,20 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="3">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.handle" />
-      <item index="1" class="java.lang.String" itemvalue="Python.test" />
-      <item index="2" class="java.lang.String" itemvalue="Python.audit" />
+      <item index="1" class="java.lang.String" itemvalue="Python.raw" />
+      <item index="2" class="java.lang.String" itemvalue="Python.scrape_indeed_glassdoor" />
+      <item index="3" class="java.lang.String" itemvalue="Python.scrape_indeed" />
+      <item index="4" class="java.lang.String" itemvalue="Python.reshape" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.handle" />
-        <item index="1" class="java.lang.String" itemvalue="Python.test" />
-        <item index="2" class="java.lang.String" itemvalue="Python.audit" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.scrape_indeed_glassdoor" />
+        <item index="1" class="java.lang.String" itemvalue="Python.scrape_indeed" />
+        <item index="2" class="java.lang.String" itemvalue="Python.reshape" />
+        <item index="3" class="java.lang.String" itemvalue="Python.raw" />
+        <item index="4" class="java.lang.String" itemvalue="Python.handle" />
       </list>
     </recent_temporary>
   </component>
@@ -395,15 +419,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="773" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="773" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -444,49 +468,19 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Projects/OpenStreetMap/reshape.py">
+    <entry file="file://$USER_HOME$/anaconda/lib/python2.7/site-packages/bs4/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="95" column="34" selection-start-line="95" selection-start-column="34" selection-end-line="95" selection-end-column="34" />
+        <state vertical-scroll-proportion="5.143979">
+          <caret line="198" column="0" selection-start-line="198" selection-start-column="0" selection-end-line="198" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Projects/OpenStreetMap/res.csv">
+    <entry file="file://$PROJECT_DIR$/projects/Define_Data_Analyst/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="2541" column="0" selection-start-line="2541" selection-start-column="0" selection-end-line="2541" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projects/OpenStreetMap/handle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="82" column="28" selection-start-line="82" selection-start-column="28" selection-end-line="82" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projects/OpenStreetMap/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48091602">
-          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projects/OpenStreetMap/audit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7480916">
-          <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

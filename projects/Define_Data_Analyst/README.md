@@ -1,0 +1,1 @@
+Many of us are learning all kinds of algorithms and techniques hoping one day himself or herself can become a unicorn named data scientist. But setting aside what we picture the work of data analyst, let's take a look at how the companies expect and define our work.

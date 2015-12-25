@@ -118,7 +118,7 @@ def shape_element(element):
                 else:
                     node[k] = v
                 ''' since tableau use these two number separately,
-                # the lon and lat is going to be keeped
+                # the lon and lat are going to be kept
                 elif k == "lat" and isfloat(v):
                     node["pos"][0] = float(v)
                 elif k == 'lon' and isfloat(v):

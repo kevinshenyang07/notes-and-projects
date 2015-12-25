@@ -1,11 +1,11 @@
 
 
-# Exploring OpenStreetMap Austin:
+# Geo-austin:
 ##Data Wrangling with BeautifulSoup and MongoDB
                                                 
 Map Area: Austin, TX, United States
 
-I love Austin and I choose it, but you can retrieve the original osm file around the world from the official source: 
+I love Austin and I choose it, but you can retrieve the original osm file of the cities around the world from the official source: 
 
 [https://mapzen.com/data/metro-extracts](https://mapzen.com/data/metro-extracts).                                              
 
@@ -144,7 +144,8 @@ And, the results, edited for readability:
 
                                                 
 #### Number of users appearing only once (having 1 post)
-                                                
+
+                                              
 > db.austin.aggregate(
 > 
 > [{"$group":{"_id":"$created.user",
