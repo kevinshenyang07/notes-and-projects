@@ -1,0 +1,2541 @@
+lat,amenity,lon,name
+30.2915028,atm,-97.734911,University Federal Credit Union
+30.2925357,pub,-97.735633,Crown and Anchor
+30.2778151,pub,-97.7363223,Schultz's Beer Garden
+30.141048,post_office,-97.8275752,Post Office
+30.6653739,fire_station,-97.9107804,Liberty Hill Fire Department
+30.2834107,place_of_worship,-97.7400756,University Catholic Center
+30.5361798,veterinary,-97.8359183,Block House Veterinary Hospital
+30.2656956,pub,-97.7434073,The Elephant Room
+30.268574,cafe,-97.7423667,The Hideout
+30.2682668,cafe,-97.7429695,Starbucks Coffee
+30.271876,cafe,-97.7411784,Starbuck's
+30.4435595,fuel,-97.7417023,Exxon
+30.1670069,fast_food,-97.7926409,Chik-Fil-A
+30.1638137,fast_food,-97.7905315,Subway
+30.1661438,fast_food,-97.7879823,Whataburger
+30.1741875,pharmacy,-97.8228982,Walgreens
+30.2420102,place_of_worship,-97.763337,San Jose
+30.2401193,place_of_worship,-97.7549513,St. Ignatius, Martyr
+30.0879912,grave_yard,-97.8377827,Allen Cemetery
+30.3052068,nursing home,-97.7605618,Austin State Supported Living Center
+30.3310392,grave_yard,-97.7516732,Austin Memorial Park
+30.3040961,school,-97.7355612,Baker School
+30.2743149,hospital,-97.7324471,Brackenridge Hospital
+30.2677105,grave_yard,-97.5088876,Brown Cemetery
+30.2690992,grave_yard,-97.5230548,Brown Cemetery
+30.0310501,place_of_worship,-97.7025013,Center Union Church
+30.0779917,place_of_worship,-97.8300046,Center Union Church
+30.2818744,school,-97.7641726,Clarksville School
+30.1446599,school,-97.3741608,Colorado School
+30.161603,place_of_worship,-97.5052755,Cottonwood Church
+30.2629869,school,-97.7050041,Daughters of Saint Joseph School
+30.2927073,school,-97.7636172,Dill School
+30.1652066,grave_yard,-98.185847,Dye Cemetery
+30.2829848,school,-97.811118,Eanes School
+30.2668772,grave_yard,-97.509721,Easley Cemetery
+30.1054943,school,-97.4286063,Elm Grove School
+30.336875,school,-97.4444422,Elm Grove School
+30.2474274,grave_yard,-98.0272327,Fitzhugh Cemetery
+30.1824354,grave_yard,-97.539721,Fowler Cemetery
+30.1590983,place_of_worship,-97.9544524,Friendship Church
+30.1188201,grave_yard,-98.1325117,Gatlin-Garrett Cemetery
+30.2532664,grave_yard,-97.5322214,Glasscock Cemetery
+30.1621596,school,-97.3199927,Grimes School
+30.1907683,grave_yard,-97.5583327,Haynie Cemetery
+30.3052099,grave_yard,-97.3849957,Hog Eye Cemetery
+30.1068829,place_of_worship,-97.4697185,Hopewell Church
+30.0985498,school,-97.4605516,Hopewell School
+30.2632645,school,-97.7222268,Huston Tillotson College
+30.1619266,grave_yard,-97.5552016,Ingram Cemetery
+30.0254905,grave_yard,-98.1291771,Jacobs Well Cemetery
+30.1563205,grave_yard,-97.9583414,Johnson Cemetery
+29.9629948,grave_yard,-97.8966714,Kyle Cemetery
+30.3729846,school,-97.4733324,Kimbro School
+29.9702168,grave_yard,-97.8952826,Kyle Cemetery
+29.949663,grave_yard,-97.7902804,Live Oak Cemetery
+30.2821544,grave_yard,-97.5030544,Lockwood Cemetery
+30.0779952,school,-97.4213837,Long Branch School
+30.3440959,school,-97.5727794,Manor High School
+30.224371,grave_yard,-98.1802921,Martin Cemetery
+30.032716,place_of_worship,-97.7786141,Martin Church
+30.1863173,grave_yard,-98.1425128,McKellar Cemetery
+30.1838173,grave_yard,-98.1558465,Middlebrooks Cemetery
+30.22826,grave_yard,-98.1555693,Moore Cemetery
+30.3390983,grave_yard,-97.2783263,Morgan Chapel Cemetery
+30.3552083,grave_yard,-97.3530508,Mount Moriah Cemetery
+30.1052165,place_of_worship,-97.4294397,Mount Olive Church
+30.0349406,place_of_worship,-97.5069411,Mount Pleasant Church
+30.3513201,school,-97.2672148,Mount Pleasant School
+30.1004868,grave_yard,-98.2075133,Mount Sharp Cemetery
+30.0785507,place_of_worship,-97.4191614,Mount Woodrow Church
+30.0232726,grave_yard,-97.7077792,Niederwald Cemetery
+29.9499416,grave_yard,-97.7155566,Ohlendorf Cemetery
+30.2668792,place_of_worship,-97.7272287,Our Lady of Guadalupe Convent
+30.3035423,place_of_worship,-97.5258331,Park Springs Church
+30.266042,school,-97.738894,Pasteur Institute
+30.3138214,school,-97.2816595,Pelee School
+30.254656,place_of_worship,-97.4094403,Pentecostal Church
+30.2788141,grave_yard,-98.1055688,Peryear Cemetery
+30.1677075,grave_yard,-98.0866778,Phillips Cemetery
+30.0282747,grave_yard,-97.4091608,Pleasant Chapel Cemetery
+30.0263303,school,-97.4111053,Pleasant Chapel School
+30.3727575,grave_yard,-97.8070876,Preece Cemetery
+30.2481267,grave_yard,-97.5686585,Puckett Cemetery
+30.1313193,grave_yard,-98.1666794,Pursley Cemetery
+30.3207654,school,-97.3127715,Ramsey School
+30.3043744,school,-97.6747261,Sacred Heart School
+30.3526801,school,-97.7209525,Redeemer Lutheran School
+30.3318731,school,-97.7005607,Sain Johns School
+30.2896522,hospital,-97.7261162,Saint Davids Hospital
+29.9868865,school,-97.5294413,Saint Lytton School
+30.3004852,school,-97.7225052,Saint Marys Academy
+30.0663274,place_of_worship,-97.6244443,Saint Marys Church
+30.2938188,school,-97.7236162,Saint Pauls School
+30.3301109,school,-97.8185931,St. Stephen's Episcopal School
+30.1196584,place_of_worship,-97.6944466,San Francisco Church
+30.254376,school,-97.712782,San Juan School
+29.9863274,grave_yard,-97.8927826,San Vincente Cemetery
+29.9482743,place_of_worship,-97.7905582,San Miguel Church
+30.0802139,place_of_worship,-97.8213933,Santa Cruz Church
+30.0935504,school,-97.3841607,Shiloh School
+30.371041,grave_yard,-97.3591623,Smith Cemetery
+30.2718776,grave_yard,-97.4144406,Speir Cemetery
+30.2165938,grave_yard,-98.1558469,Sprouse Cemetery
+30.2515985,school,-97.6897257,Texas Blind- Deaf and Orphan School
+30.3268729,school,-97.7416728,The Brown School
+30.2715982,school,-97.6369469,Travis State School
+30.3143734,school,-97.7402837,Trinity School
+30.1888248,school,-97.4216623,Union Hill School
+30.2557667,place_of_worship,-97.4811089,Union Lee Church
+30.039383,grave_yard,-97.7283354,Vasquez Cemetery
+30.1882625,grave_yard,-98.0730666,Wallace Mountain Cemetery
+30.2768747,swimming_pool,-97.7575057,West Austin Park
+30.253545,grave_yard,-97.3911064,Wilson Cemetery
+30.2254897,grave_yard,-97.513054,Woods Cemetery
+30.2910436,grave_yard,-97.3997181,Youngs Prairie Cemetery
+29.9663314,place_of_worship,-97.5491639,Zion Church
+30.4807586,grave_yard,-97.4444439,Avery Cemetery
+30.576584,grave_yard,-97.8697302,Bagdad Cemetery
+30.5185356,grave_yard,-97.3408298,Beyersville Cemetery
+30.6176923,grave_yard,-97.88307,Cedar Grove Cemetery
+30.6669427,place_of_worship,-97.9066498,Highway 29 Church of Christ
+30.4715832,grave_yard,-98.1886295,Fowler Cemetery
+30.3827052,grave_yard,-97.6088921,Gregg Cemetery
+30.5552009,place_of_worship,-97.3149959,Christ Church
+30.6326978,grave_yard,-97.2444387,Hanks Cemetery
+29.9766097,grave_yard,-97.414994,Hendrix Cemetery
+30.4632514,grave_yard,-98.1027944,Haynie Flat Cemetery
+30.5090837,grave_yard,-98.0441831,Hensel Cemetery
+30.461584,place_of_worship,-98.1608511,Highway Seventyone Church
+30.3796499,grave_yard,-97.5863914,Hill Cemetery
+30.4935272,grave_yard,-98.1580738,Holloway Cemetery
+30.4060357,school,-97.7888974,Hope House School
+30.5524221,place_of_worship,-97.4522228,Immanuel Church
+30.5774168,school,-97.8552915,Leander ISD Administration
+30.472975,school,-97.9769588,Lago Vista School
+30.4343665,place_of_worship,-97.8941782,Lakeview Church
+30.412707,grave_yard,-97.2549927,Lawhon Springs Cemetery
+30.4068739,school,-97.253326,Lawhon Springs School
+30.3885395,place_of_worship,-97.4713881,Kimbro Church
+30.4888155,school,-97.2380484,Lawrence School
+29.9718875,grave_yard,-97.4413835,Lentz Cemetery
+30.5251929,grave_yard,-98.1364073,Lewis Cemetery
+30.6326913,place_of_worship,-97.9066819,Liberty Chapel
+29.9988311,grave_yard,-97.4283278,Meridith Cemetery
+30.589642,school,-97.5336149,Montadale School
+30.5851987,school,-97.4266668,Northside School
+30.4196462,place_of_worship,-97.7941756,Oak Grove Church
+30.5226023,place_of_worship,-97.6463033,Palm Valley Church
+30.3832632,school,-97.3144388,Pleasant Grove School
+30.4411863,grave_yard,-97.5025256,Prairie Hill Cemetery
+30.4340903,grave_yard,-97.7769532,Jollyville Cemetery
+30.5699218,school,-97.3983323,Price School
+30.6359585,grave_yard,-97.4453606,Gardner Cemetery
+30.579912,grave_yard,-98.193354,Richland Cemetery
+30.3954848,school,-97.3313839,Red Town School
+30.4229822,place_of_worship,-97.5338904,Richland Church
+30.5018597,grave_yard,-98.1972413,Rockvale Cemetery
+29.9341117,grave_yard,-97.3111024,Rosanky Cemetery
+30.393535,place_of_worship,-97.8750103,Saint Lukes Church
+30.4954777,school,-97.6919518,Saint Williams School
+30.4132552,grave_yard,-97.9694573,Simpson Cemetery
+30.561311,school,-97.4102771,Southside School
+30.4813084,place_of_worship,-97.9427914,South Jonestown Church
+30.4988129,place_of_worship,-97.5063906,Swanson Grove Church
+30.5718661,hospital,-97.4172218,The Johns Clinic
+30.5779769,school,-97.4163886,Twelfth Street School
+30.4365756,place_of_worship,-97.3314657,Type Church
+30.6354706,place_of_worship,-97.7894568,Union Chapel
+30.5732548,place_of_worship,-97.4291667,Trinity Church
+30.6451914,place_of_worship,-97.8639032,Union Hall Church
+30.6140821,grave_yard,-97.8264018,Upchurch Cemetery
+30.6226927,grave_yard,-97.8383467,Wells Cemetery
+30.3943728,school,-97.4552766,Willow Ranch School
+30.6426971,place_of_worship,-97.2927738,Zion Church
+30.5693661,school,-97.4238887,West End School
+30.1374341,place_of_worship,-97.822783,Bethel Church
+30.2190997,place_of_worship,-97.6841697,Boulevard Church
+30.1307678,grave_yard,-97.8227829,Brown Cemetery
+30.2318769,school,-97.6975035,Dolores School
+30.2016006,school,-97.6377794,La Mar School
+30.2163487,place_of_worship,-97.7296527,Saint Peter the Apostle Catholic Church
+30.2407968,school,-97.7630928,San Jose School
+30.1382671,school,-97.8538947,The Marbridge School
+30.2021544,place_of_worship,-97.8061167,Mimosa Place Church
+30.4946468,school,-97.4552777,Rices Crossing School
+30.1173467,school,-97.3155689,Bastrop High School West Campus
+30.3543748,school,-97.3811072,Elgin Elementary School
+30.3490972,school,-97.3794405,Elgin High School
+30.3490972,school,-97.3797182,Elgin Primary School
+30.117755,school,-97.3112774,Bastrop High School
+30.106606,school,-97.3099921,Emile Elementary School
+30.1132763,school,-97.3153569,Mina Elementary School
+30.3479862,school,-97.3774959,Phoenix Learning Center
+30.1096614,school,-97.3105478,Pine Street Alternative School
+30.3421531,school,-97.3647176,B T Washington Middle School
+30.028546,school,-98.1016765,Bowen Intermediate School
+30.0841024,school,-97.8444494,Buda Elementary School
+30.1210439,school,-97.9677855,Dahlstrom Intermediate School
+30.1946486,school,-98.0953456,Walnut Springs Elementary School
+30.2156799,school,-98.0822346,Dripping Springs Elementary School
+30.1207663,school,-97.9577853,Hays Alternative Impact Center
+30.2012484,school,-98.1157381,Dripping Sprins Middle School
+29.9907697,school,-98.1116763,Scudder Primary School
+30.0060468,school,-98.1161209,Wimberley High School
+30.2659899,school,-97.745891,American Institute for Learning High School
+30.3035405,school,-97.735839,Robbins Academy
+30.4083489,school,-97.6871674,River Oaks Elementary School
+30.2849303,school,-97.7175048,Texas Academy of Excellence
+30.2689915,school,-97.7273264,Texas Empowerment Academy
+30.4327942,school,-97.6709349,Star Charter School
+30.4432582,school,-97.6288935,Timmerman Elementary School
+30.4643851,school,-97.642333,Windermere Elementary School
+30.4166565,school,-97.6894928,Westview Middle School
+30.4425947,school,-97.6409398,Pflugerville Middle School
+30.4813079,school,-97.9783479,Lago Vista High School
+30.4732528,school,-97.9736253,Lago Vista Middle School
+30.3276823,school,-97.9686837,Lake Travis High School
+30.3038161,school,-97.8913978,West Ridge Middle School
+30.3440948,school,-97.7027831,Nyos Charter School
+30.3708573,school,-97.9461515,Lake Travis Elementary School
+30.4327026,school,-97.6766726,Northwest Elementary School
+30.252726,school,-97.7299327,Martin Junior High School
+30.1655781,school,-97.7290534,Hillcrest Elementary School
+30.4465913,school,-97.6369494,Pflugerville Alternative Learning Center
+30.4148338,school,-97.6915635,Parmer Lane Elementary School
+30.4463135,school,-97.6358383,Pflugerville High School
+30.2721519,school,-97.8030621,Hill Country Middle School
+30.3090964,school,-97.6713928,Andrews Elementary School
+30.3040941,school,-97.8747307,Barton Creek Elementary School
+30.339927,school,-97.8038966,Bridge Point Elementary School
+30.4607574,school,-97.6486166,Brookhollow Elementary School
+30.2690965,school,-97.8050065,Cedar Creek Elementary School
+30.3882506,school,-97.6601419,Copperfield Elementary School
+30.4180749,school,-97.7419999,Davis Elementary School
+30.1707685,school,-97.6244454,Del Valle Junior High School
+30.3998598,school,-97.6451015,Dessau Elementary School
+30.1764112,school,-97.6124634,Del Valle Opportunity Center
+30.2927073,school,-97.7644506,Dill Special Programs School
+30.2771517,school,-97.8041733,Eanes Elementary School
+30.1529893,school,-97.8161163,Eden Park Academy
+30.5771435,school,-97.4174997,Williamson County Academy
+30.5707503,school,-97.8533463,Williamson County Academy
+30.498962,school,-97.6739555,Xenia Voigt Elementary School
+30.5239096,school,-97.8457059,Lois F Giddens Elementary School
+30.5876986,school,-97.4286113,Naomi Pasemann Elementary School
+30.5854765,school,-97.4277779,Northside Elementary School
+30.5732549,school,-97.4138884,Taylor Middle School
+30.5939545,school,-97.4151867,Taylor High School
+30.5889445,school,-97.2955876,Thrall Elementary School
+30.588642,school,-97.2952362,Thrall High School
+30.6663183,school,-97.8942013,Westwood Special Education
+30.4707088,school,-97.7818289,Forest North Elementary School
+30.4979781,school,-97.643617,Gattis Elementary School
+30.6368854,school,-97.6727745,Georgetown Alternative Center
+30.6140671,school,-97.7011261,James Tippit Middle School
+30.5737425,school,-97.8532209,Leander Middle School
+30.5376542,school,-97.8514971,Leander High School
+30.4884453,school,-97.8310559,Ada Mae Faubion Elementary School
+30.5399185,school,-97.8322341,Block House Creek Elementary School
+30.4896446,school,-97.6911183,Bluebonnet Elementary School
+30.5213361,school,-97.8541221,C C Mason Elementary School
+30.5115707,school,-97.7372771,Brushy Creek Elementary School
+30.5111105,school,-97.6814521,C D Fulkes Middle School
+30.4352007,school,-97.8244544,Canyon Creek Elementary School
+30.4283276,school,-97.7843694,Canyon Vista Middle School
+30.628216,school,-97.6864885,Carver Elementary School
+30.4924269,school,-97.7339814,Cedar Valley Middle School
+30.6629708,school,-97.6691758,Chip Richarte Learning Center
+30.5103222,school,-97.6840407,Claude Berkman Elementary School
+30.4543711,school,-97.390553,Coupland Elementary School
+30.4653081,school,-97.8359858,Cypress Elementary School
+30.5421427,school,-97.6563958,Double File Trail Elementary School
+30.6136239,school,-97.698637,Dell Pickett Elementary School
+30.6338659,school,-97.6724638,Everett Williams Elementary School
+30.5110908,hospital,-97.7137064,Round Rock Medical Center
+30.6265616,hospital,-97.6881279,Georgetown Hospital
+30.2115988,hospital,-97.7916722,The Oaks Treatment Center
+30.2709189,hospital,-97.7958328,Renaissance Womens Center of Austin
+30.3121512,hospital,-97.7430616,The Specialty Hospital of Austin
+30.3382619,hospital,-97.6772267,Summit Hospital of Central Texas
+30.363375,place_of_worship,-97.3751845,Cornerstone Baptist Church
+30.1079948,place_of_worship,-97.3111033,Macedonia First Baptist Church
+30.1149389,place_of_worship,-97.3199924,First Baptist Church
+30.1082726,place_of_worship,-97.3122144,New Faith Missionary Baptist Church
+30.1096566,place_of_worship,-97.3184818,Ascension Catholic Church
+30.134659,place_of_worship,-97.5613878,Blessed Juan Diego Catholic Church
+30.1071146,place_of_worship,-97.3171627,Church of Christ
+30.1235498,place_of_worship,-97.3202703,Church of the Nazarene
+30.1096613,place_of_worship,-97.3197146,Prince of Peace Lutheran Church
+30.0860463,place_of_worship,-97.8747277,Hays Hill Baptist Church
+30.1974276,place_of_worship,-98.1730693,Sunset Canyon Baptist Church
+30.0535451,place_of_worship,-98.0944544,Wimberley Church of Christ
+30.1968739,place_of_worship,-98.0194542,Holy Spirit Episcopal Church
+30.031046,place_of_worship,-98.1013987,The Chapel in the Hills Community Church
+29.9892836,place_of_worship,-97.8788078,First Baptist Church
+30.2090942,place_of_worship,-98.1441798,Dripping Springs Community Church
+29.9896586,place_of_worship,-98.1119541,Trinity Chapel Church
+30.2463162,place_of_worship,-98.0386219,Womens Aglow Fellowship of South Austin Church
+30.3144768,place_of_worship,-97.7171931,Trinity Chapel Church
+30.4563089,place_of_worship,-97.9786251,Rolling Hills Community Church
+30.2482413,place_of_worship,-97.7496071,Grace United Methodist Church
+30.3032582,place_of_worship,-97.731956,Trinity: Hyde Park United Methodist Church
+30.3129801,place_of_worship,-97.7197337,Trinity United Methodist Church
+30.2832635,place_of_worship,-97.7430611,The Church of Jesus Christ of Latter-day Saints
+30.1396585,place_of_worship,-97.5958332,The Church of Jesus Christ of Latter-day Saints
+30.4452533,place_of_worship,-97.8060409,Hope Presbyterian Church
+30.4824231,place_of_worship,-97.6477836,Round Rock Korean Presbyterian Church
+30.2882659,place_of_worship,-97.7505555,Redeemer Presbyterian Church
+30.228264,place_of_worship,-97.8536179,Shepherd of the Hills Presbyterian Church in Oak Hill
+30.3085787,place_of_worship,-97.763381,Westminster Presbyterian Church
+30.2963593,place_of_worship,-97.682802,Alpha Seventh Day Adventist Church
+30.1974327,place_of_worship,-97.7791718,South Austin Seventh Day Adventist Church
+30.2213209,place_of_worship,-97.7777831,The Unitarian Universalist Fellowship Church of Austin
+30.3679816,place_of_worship,-97.7061186,Calvary Chapel of Austin Church
+30.3049255,place_of_worship,-97.7322307,Community Church of God
+30.2265984,place_of_worship,-97.7802832,Cornerstone Deaf Fellowship Church
+30.2340969,place_of_worship,-97.870285,Crossroads Community Church
+30.2318739,place_of_worship,-97.9286194,Fellowship of the Hills Church
+30.2371361,place_of_worship,-97.8446494,Global Missions Fellowship Church
+30.1899349,place_of_worship,-97.5599994,Haynie Chapel United Church
+30.2565984,place_of_worship,-97.6794478,Praise Tabernacle Community Church
+30.3960359,place_of_worship,-97.8002864,Imani Community Church
+30.2629869,place_of_worship,-97.7055597,Saint Julia Catholic Church
+30.1643778,place_of_worship,-97.814172,Saint Pauls Catholic Church
+30.344094,place_of_worship,-97.775285,Saint Theresa Catholic Church
+30.1196584,place_of_worship,-97.6955578,San Francisco Catholic Church
+30.2696545,place_of_worship,-97.7425069,Capital City Church of Christ
+30.2498807,place_of_worship,-97.752442,Church of Christ
+30.2097437,place_of_worship,-97.7750641,Fairview Church of Christ
+30.3235382,place_of_worship,-97.734179,North Loop Church of Christ
+30.2371525,place_of_worship,-97.8555626,Oak Hill Church of Christ
+30.3209177,place_of_worship,-97.6684044,University Hills Church of Christ
+30.3090963,place_of_worship,-97.6802819,Wheless Lane Church of Christ
+30.2579871,place_of_worship,-97.7005595,Springdale Church of God in Christ
+30.31104,place_of_worship,-97.7522284,Mims Chapel Church of God in Christ
+30.2280026,place_of_worship,-97.7015818,United Church of God in Christ
+30.3293688,place_of_worship,-97.7280679,Grace Church of the Nazarene
+30.2966706,place_of_worship,-97.7685878,Good Shepherd Episcopal Church
+30.2393764,place_of_worship,-97.7350046,Holy Trinity Episcopal Church
+30.2049579,place_of_worship,-97.8061536,South Austin Church of the Nazarene
+30.2579846,place_of_worship,-97.888619,Saint Christophers Episcopal Church
+30.2768749,place_of_worship,-97.7591793,Saint Francis Episcopal Church
+30.2829395,place_of_worship,-97.6737187,Saint James Episcopal Church
+30.4589818,place_of_worship,-97.6177848,Saint Pauls Episcopal Church
+30.4343649,place_of_worship,-98.012792,Saint Peters Episcopal Church
+30.2065983,place_of_worship,-97.8338951,Child Evangelism Fellowship Church
+30.5096416,place_of_worship,-97.8630678,Child Evangelism Fellowship Church
+30.162711,place_of_worship,-97.8319501,Jehovahs Witnesses South Spanish Church
+30.2335422,place_of_worship,-97.8080616,Holy Cross Lutheran Church
+30.2953603,place_of_worship,-97.738987,First English Lutheran Church
+30.2252098,place_of_worship,-97.767783,San Lucas Lutheran Church
+30.2718743,place_of_worship,-97.7966731,Shepherd of the Hills Lutheran Church
+30.2474315,place_of_worship,-97.7480607,Christ Lutheran Church
+30.2596536,place_of_worship,-97.6994484,Govalle United Methodist Church
+30.3097753,place_of_worship,-97.6167567,Decker United Methodist Church
+30.222988,place_of_worship,-97.7416713,Korean Baptist Church of Austin
+30.1860439,place_of_worship,-97.8005609,Living Faith Baptist Church
+30.2666198,place_of_worship,-97.7206713,Mount Olive Baptist Church
+30.176071,place_of_worship,-97.7490585,Beautiful Savior Lutheran Church
+30.1925979,place_of_worship,-97.7778278,Pleasant Hill Baptist Church
+30.2718756,place_of_worship,-97.6800036,Macedonia Missionary Baptist Church
+30.2229886,place_of_worship,-97.6700027,Neighborhood Baptist Church
+30.2809118,place_of_worship,-97.6767967,Rehoboth Primitive Baptist Church
+30.5715823,place_of_worship,-97.9489042,Round Mountain Baptist Church
+30.3140915,place_of_worship,-97.7422299,Saint Olives Missionary Baptist Church
+30.2954255,place_of_worship,-97.6824158,Saint Stephens Baptist Church
+30.2829558,place_of_worship,-97.697676,Saint James Baptist Church
+30.2360406,place_of_worship,-97.9108414,Scenic Hills Baptist Church
+30.3229825,place_of_worship,-97.7213988,Sky View Baptist Church
+30.2577094,place_of_worship,-97.6833368,Solid Rock Baptist Church
+30.2293763,place_of_worship,-97.767783,South First Baptist Church
+30.1018813,place_of_worship,-97.6947241,Southeast Baptist Church
+30.1964213,school,-97.8087584,Strickland Christian School
+30.2229883,place_of_worship,-97.6991701,New Jerusalem Baptist Church
+30.2810479,place_of_worship,-97.7616769,Sweethome Missionary Baptist Church
+30.1679888,place_of_worship,-97.8169499,Texas Oaks Baptist Church
+30.2766628,place_of_worship,-97.6803237,True Light Missionary Baptist Church
+30.4335319,place_of_worship,-97.9822358,Travis Oaks Baptist Church
+30.2682646,place_of_worship,-97.6825036,True Vine Baptist Church
+30.2793753,place_of_worship,-97.6833372,Webberville Baptist Church
+30.247163,place_of_worship,-97.7591119,Holy Name of Mary Church
+30.2332658,place_of_worship,-97.6980591,Dolores Catholic Church
+30.2767848,place_of_worship,-97.6804636,Greater Galilee Baptist Church
+30.2640986,place_of_worship,-97.6227797,Greater Swenson Grove Missionary Baptist Church
+30.4207573,place_of_worship,-97.7988979,Hallmark Baptist Church
+30.3026458,place_of_worship,-97.7318291,Hillside Baptist Church
+30.2374299,place_of_worship,-97.8786185,Hill Country Baptist Church of Oakhill
+30.2517306,place_of_worship,-97.7681915,Kinney Avenue Baptist Church
+30.4421472,place_of_worship,-97.6202821,Saint Augustines Anglican Church
+30.3097016,place_of_worship,-97.6659846,Christ Apostolic Church
+30.2367495,place_of_worship,-97.7505432,South Austin Apostolic Church
+30.4452023,place_of_worship,-97.6513942,Greater Life Apostolic Church
+30.189655,place_of_worship,-97.7941719,New Life Assembly of God Church
+30.2488182,place_of_worship,-97.8905634,Oak Hill Assembly of God Church
+30.4532576,place_of_worship,-97.6536166,Shield of Faith Assembly of God Church
+30.1807665,place_of_worship,-97.795283,Beacon Ridge Baptist Church
+30.2032651,place_of_worship,-97.8350062,Dunns Memorial Baptist Church
+30.2038466,place_of_worship,-97.6375067,Cottonwood Baptist Church
+30.2690125,place_of_worship,-97.7307363,Ebenezer Baptist Church
+30.1604885,place_of_worship,-97.8527838,Ephphatha Baptist Church
+30.2073571,place_of_worship,-97.7823927,Fairview Baptist Church
+30.2248654,place_of_worship,-97.8030491,Faith Baptist Church
+30.1732671,place_of_worship,-97.7688935,First Independent Baptist Church
+30.4413138,place_of_worship,-97.6294491,First Baptist Church - Pflugerville
+30.2302066,place_of_worship,-97.9725091,Fitzhugh Baptist Church
+30.2452093,place_of_worship,-97.7547274,Friendly Will Baptist Church
+30.2474243,place_of_worship,-97.7532294,Goodwill Baptist Church
+30.4135371,place_of_worship,-97.6247263,Grace Baptist Church
+30.6465825,place_of_worship,-97.6747312,Harvest Baptist Church
+30.6656909,place_of_worship,-97.6481651,Heritage Baptist Church
+30.4780298,place_of_worship,-97.8337381,Lakehills Free Will Baptist Church
+30.5827679,place_of_worship,-97.4145565,Memorial Baptist Church
+30.5057535,place_of_worship,-97.8269557,Newsong Baptist Church
+30.5096439,place_of_worship,-97.6780627,Primera Iglesia Bautista of Round Rock Church
+30.5650421,place_of_worship,-97.403274,Zion Chapel Baptist Church
+30.5454758,place_of_worship,-97.6738964,Saint John Vianney Catholic Church
+30.5294304,place_of_worship,-97.8484828,Saint Margaret Mary Catholic Church
+30.4943667,place_of_worship,-97.6905629,Saint Williams Catholic Church
+30.5701995,place_of_worship,-97.4024991,First Baptist Church
+30.5679773,place_of_worship,-97.4277777,First Mexican Baptist Church
+30.6290801,place_of_worship,-97.6848492,Gayhill Baptist Church
+30.568201,place_of_worship,-97.8506239,Leander Church of God
+30.5757548,place_of_worship,-97.4138884,Templo Ebenezer Church of God
+30.5092978,place_of_worship,-97.6820308,First Baptist Church of Round Rock
+30.5701995,place_of_worship,-97.4036102,Free Church of God in Christ
+30.5635331,place_of_worship,-97.406388,Taylor Church of God in Christ
+30.5721438,place_of_worship,-97.4149995,Saint James Episcopal Church
+30.5026258,place_of_worship,-97.6897579,Grace Lutheran Church
+30.6374162,place_of_worship,-97.6788979,Cross and Crown Lutheran Church
+30.5113106,place_of_worship,-97.6680624,Trinity Lutheran Church
+30.5732549,place_of_worship,-97.4136106,Saint Paul Lutheran Church
+30.6265834,place_of_worship,-97.6738976,Getzemani United Methodist Church
+30.50742,place_of_worship,-97.8302891,Cedar Park United Methodist Church
+30.6332498,place_of_worship,-97.674731,Saint Johns United Methodist Church
+30.6467436,place_of_worship,-97.6748728,First United Pentecostal Church
+30.5757548,place_of_worship,-97.4138884,Tenth Street United Methodist Church
+30.5493645,place_of_worship,-97.6755632,Grace Temple Pentecostal Church of God
+30.5351977,place_of_worship,-97.7413983,Round Rock Presbyterian Church
+30.4954954,place_of_worship,-97.6590317,Grace Presbyterian Fellowship Church
+30.5763102,place_of_worship,-97.4261111,Christ Fellowship Church
+30.4963116,place_of_worship,-97.6316722,The Church Fellowship - Forest Creek
+30.5015885,place_of_worship,-97.7011188,Crossroads Chapel Church
+30.5778648,place_of_worship,-97.8562004,Leander Presbyterian Church
+30.4873553,place_of_worship,-97.6832682,New Hope Community Church
+30.569644,place_of_worship,-97.3974989,New Testament Holiness Community Church
+30.5146436,place_of_worship,-97.685563,Round Rock Chapel Church
+30.596029,place_of_worship,-97.6888976,Seventh Day Adventist Church
+30.5115883,place_of_worship,-97.6777849,Saint Pauls African Methodist Episcopal Church
+30.5193655,place_of_worship,-97.7013969,Saint Andrews Anglican Church
+30.6407495,place_of_worship,-97.6719533,Harvest Assembly of God Church
+30.5158463,place_of_worship,-97.8420713,Northview Community Church
+30.5158463,place_of_worship,-97.8449294,Carriage Hills Baptist Church
+30.4604161,place_of_worship,-97.8276013,Cypress Creek Baptist Church
+30.5043667,place_of_worship,-97.6516729,Faith Community Baptist Church
+30.5257541,place_of_worship,-97.7088972,Faith Missionary Baptist Church
+30.6321386,place_of_worship,-97.6825091,First Baptist Church
+30.2297496,school,-97.7559857,Saint Edwards University
+30.6401938,place_of_worship,-97.6816758,Wesley Chapel AME Church
+30.6335275,place_of_worship,-97.674731,Saint Johns Methodist Church
+30.2781956,place_of_worship,-97.7393972,Diocese of Austin Chancery
+30.6330864,place_of_worship,-97.6639728,Grace Episcopal Church
+30.6329206,place_of_worship,-97.6736912,First Methodist Church
+30.5167461,post_office,-97.6901899,Round Rock Post Office and William M Owen House
+30.2746527,place_of_worship,-97.7447276,Central Christian Church
+30.3059703,place_of_worship,-97.7316642,First Spiritualist Church
+30.3695982,place_of_worship,-97.758297,First Presbyterian Church
+30.2695101,place_of_worship,-97.6870621,Fontaine Memorial Baptist Church
+30.2747128,place_of_worship,-97.7426335,First United Methodist Church of Austin
+30.3027521,place_of_worship,-97.6600163,God's Power in Christian Fellowship
+30.3073215,place_of_worship,-97.6539983,Gates of Deliverance Word Ministry
+30.2598627,place_of_worship,-97.6992367,Govalle Iglesia Metodista Unida
+30.3027522,place_of_worship,-97.6600163,God's Power Ministry
+30.3675157,place_of_worship,-97.7202221,Grace of the Good Shepherd Church
+30.4534418,place_of_worship,-97.804601,Grace Community Church
+30.3076573,place_of_worship,-97.6796151,Grace Temple Church
+30.2597646,place_of_worship,-97.7332029,Greater Peace Christian Church
+30.2986937,place_of_worship,-97.6825445,Greater Union Baptist Church
+30.2825539,place_of_worship,-97.672266,Greater Works Baptist Church
+30.2182789,place_of_worship,-97.7342517,Heights Assembly of God
+30.2374528,place_of_worship,-97.8785186,Hill Country Baptist Church of Oakhill
+30.3341693,place_of_worship,-97.759851,Highland Park Baptist Church
+30.3735214,place_of_worship,-97.7497966,Hillcrest Baptist Church
+30.2403326,place_of_worship,-97.6952241,Holy Temple Church
+30.3856608,place_of_worship,-97.7043769,Grant African Methodist Episcopal Worship Center
+30.3040437,place_of_worship,-97.7201457,Hope In the City Church
+30.3066743,place_of_worship,-97.7222915,Hyde Park Christian Church
+30.3304457,place_of_worship,-97.7431171,I Am Sanctuary and Reading Room
+30.3088951,place_of_worship,-97.7512056,Inner Light Ministries
+30.368233,place_of_worship,-97.7888182,International Buddhist Progress Society
+30.3675158,place_of_worship,-97.7202255,Gracia de El Buen Pastor
+30.251856,place_of_worship,-97.7000814,Jesus Is Alive Ministries
+30.2995163,place_of_worship,-97.6866386,Islamic Center of Greater Austin
+30.2541444,place_of_worship,-97.7121775,Kingdom Hall of Jehovah's Witnesses
+30.2649736,place_of_worship,-97.7821824,Johnson Institute
+30.3286059,place_of_worship,-97.7264038,Koenig Lane Christian Church
+30.2580232,place_of_worship,-97.9044797,Lake Hills Congregational Church
+30.4885425,place_of_worship,-97.7655524,Lord of Life Lutheran Church
+30.2385851,place_of_worship,-97.6877143,Lord's Vineyard Christian Church
+30.293061,place_of_worship,-97.7258363,Lutheran Church of Saint Paul
+30.315108,place_of_worship,-97.6923256,Memorial United Methodist Church
+30.1766373,place_of_worship,-97.839214,Marshill Church
+30.1990844,place_of_worship,-97.7828921,Monte Horeb Asamblea De Dios
+30.2767056,place_of_worship,-97.6872218,New Hope African Methodist Episcopal Church
+30.176552,place_of_worship,-97.7977573,Metropolitan Community Church of Austin
+30.1512179,place_of_worship,-97.8330504,New Bethel African Methodist Episcopal Church
+30.3016343,place_of_worship,-97.6752228,Nineteenth Street Baptist Church
+30.3076154,place_of_worship,-97.7317328,Northside Church of Christ
+30.3774009,place_of_worship,-97.7101698,North Austin Christian Church
+30.2037865,place_of_worship,-97.7841915,New Hope Wesleyan Church
+30.2286831,place_of_worship,-97.7680366,Oak Meadow Baptist Church
+30.2187702,place_of_worship,-97.684195,Onion Creek Baptist Church
+30.2891647,place_of_worship,-97.6394439,Open Door Bible Fellowship
+30.2672323,place_of_worship,-97.7280197,Our Lady of Guadalupe Catholic Church
+30.410181,place_of_worship,-97.6879613,Parmer Lane Baptist Church
+30.4455326,place_of_worship,-97.831169,Peace Lutheran Church
+30.2281384,place_of_worship,-97.7017074,Pentecostal Tabernacle
+30.1151191,place_of_worship,-97.7482533,Pleasant Valley Baptist Church
+30.2004183,place_of_worship,-97.8379328,Powerhouse of Praise Christian Fellowship Center
+30.2775156,place_of_worship,-97.6866946,Pleasant Grove Baptist Church
+30.2920457,place_of_worship,-97.7378354,Presbyterian Resource Center
+30.3057781,place_of_worship,-97.7013414,Promise Land Church
+30.14424,place_of_worship,-97.8471481,Saint John's Presbyterian Church
+30.3354061,place_of_worship,-97.7413899,Saint John's United Methodist Church
+30.2811369,place_of_worship,-97.7589132,Saint Luke United Methodist Church
+30.2534769,place_of_worship,-97.7855555,Saint Mark's Episcopal Church
+30.374196,place_of_worship,-97.7562833,Saint Matthew's Episcopal Church
+30.3193336,place_of_worship,-97.823144,Saint Michael's Episcopal Church
+30.2936419,place_of_worship,-97.7239274,Saint Paul Lutheran Church
+30.1528278,place_of_worship,-97.833208,Saint Philip Episcopal Church
+30.4200021,place_of_worship,-97.7168612,Saint Stephens Baptist Church
+30.2288363,place_of_worship,-97.7895202,Sunrise Community Church
+30.3005724,place_of_worship,-97.766163,Tarrytown Baptist Church
+30.258035,place_of_worship,-97.7181049,Templo Bethel Pentecostes
+30.2257153,place_of_worship,-97.7039605,Sinai Church
+30.2040098,place_of_worship,-97.754894,Teri Road Baptist Child Care Center
+30.2041056,place_of_worship,-97.7547832,Teri Road Baptist Church
+30.3588783,place_of_worship,-97.8050492,Texas Interfaith Disaster Response Christian Church
+30.2188538,place_of_worship,-97.8555841,The Church of Jesus Christ of Latter-day Saints
+30.4943039,place_of_worship,-97.7352257,St. Philips United Methodist Church
+30.378282,place_of_worship,-97.7414121,The Olde Galatia Church
+30.3782885,place_of_worship,-97.7414186,The Saint Brendan Fellowship Chapel
+30.401655,place_of_worship,-97.6796019,Thien Hau Temple
+30.2371863,place_of_worship,-97.7595306,Trinity Abundant Life Assembly of God Church
+30.3255534,place_of_worship,-97.7333379,Trinity Baptist Church
+30.2135975,place_of_worship,-97.7117099,Trinity Church
+30.3546621,place_of_worship,-97.6735291,Unity Center
+30.3945438,place_of_worship,-97.7558381,Triumphant Love Lutheran Church
+30.2171892,place_of_worship,-97.8462135,Abiding Love Lutheran Church
+30.2227791,place_of_worship,-97.7717561,Agape Christian Ministries
+30.2918451,place_of_worship,-97.739113,Alpha On Campus Church
+30.2918456,place_of_worship,-97.7391229,All Saints Episcopal Church
+30.4563194,place_of_worship,-97.8037723,Anderson Mill Baptist Church
+30.308347,place_of_worship,-97.6757963,Antioch Baptist Church
+30.2924877,place_of_worship,-97.7326255,Archives of the Episcopal Church
+30.3646164,place_of_worship,-97.8160137,Armenian Church of Austin
+30.2584944,place_of_worship,-97.7055857,Austin Area Interreligious Ministries
+30.3454362,place_of_worship,-97.7528901,Ascension Lutheran Church
+30.3655384,place_of_worship,-97.7165485,Austin Brethren Church
+30.3931369,place_of_worship,-97.8454856,Austin Christina Fellowship
+30.2207683,place_of_worship,-97.7736105,Austin Christian Tabernacle
+30.3927203,place_of_worship,-97.8461001,Austin Christian Fellowship Church
+30.2253489,place_of_worship,-97.6796812,Austin First Church
+30.4476034,place_of_worship,-97.7993011,Bethany United Methodist Church
+30.3221602,place_of_worship,-97.7349858,Cameron Grove Baptist Church
+30.2796765,place_of_worship,-97.8080188,Capital Vineyard Church
+30.2237718,place_of_worship,-97.7822375,Capitol City Baptist Church
+30.2640625,place_of_worship,-97.8093205,Cathedral of Praise
+30.2544547,place_of_worship,-97.7132787,Centro Evangelico
+30.2426179,place_of_worship,-97.7817125,Chittamani Buddhist Center
+30.2290166,place_of_worship,-97.8018447,Christian Life Church
+30.1789628,place_of_worship,-97.7807877,Church in Austin
+30.3247188,place_of_worship,-97.7516592,Church of Christ of Highland Village
+30.1943031,place_of_worship,-97.791389,Church of Christ of South Austin
+30.1838549,place_of_worship,-97.8186322,Southwest Church of Christ
+30.3347158,place_of_worship,-97.7478682,Church of Glad Tidings
+30.2975154,place_of_worship,-97.6805266,Church of God Seventh Day Alfa and Omega
+30.2795332,place_of_worship,-97.7052152,Church of the New Testament
+30.2498927,place_of_worship,-97.7756575,Community of Christ Church
+30.3825418,place_of_worship,-97.7465725,Congregation Beth-El
+30.3197152,place_of_worship,-97.71909,Dayspring Chapel
+30.2323377,place_of_worship,-97.6987132,Dolores Catholic Church Family Center
+30.1990485,place_of_worship,-97.8004847,El Buen Samaritano Episcopal Mission
+30.2675909,place_of_worship,-97.7154442,Emmanuel Baptist Church
+30.2099204,place_of_worship,-97.7753213,Fairview Family Center
+30.3451892,place_of_worship,-97.7360044,Episcopal Church of the Resurrection
+30.2631969,place_of_worship,-97.6266629,Faith and Trust Community Bible Church
+30.3098036,place_of_worship,-97.6669148,Faith Cathedral
+30.2649736,place_of_worship,-97.7821824,Faith Partners Church
+30.2347533,place_of_worship,-97.7431343,Faith Presbyterian Church
+30.2851978,place_of_worship,-97.681537,First Baptist Church of Heflin
+30.2296907,place_of_worship,-97.8784479,First Baptist Church of Oak Hill
+30.276389,place_of_worship,-97.743056,First Church of Christ Scientist
+30.2425339,place_of_worship,-97.778112,Unity Church of Austin
+30.2814125,place_of_worship,-97.7394712,University Avenue Church of Christ
+30.2833184,place_of_worship,-97.7392882,University Christian Church
+30.2879454,place_of_worship,-97.7412464,University United Methodist Church
+30.4463725,place_of_worship,-97.8057297,Vineyard Christian Fellowship
+30.2281189,place_of_worship,-97.6971126,Victory Outreach Church
+30.211644,place_of_worship,-97.7287679,Victory Out Reach Church
+30.3704353,place_of_worship,-97.7557848,Virtuous Reality Ministries
+30.2367399,place_of_worship,-97.8554865,Western Hills Church of Christ
+30.2951409,place_of_worship,-97.8211627,Westlake United Methodist Church
+30.3759368,place_of_worship,-97.7553001,Westover Hills Church
+30.3547687,place_of_worship,-97.7553964,Zion Messiaic Church
+30.2079205,place_of_worship,-97.8291544,Zion Rest Baptist Church
+30.3064088,hospital,-97.7462348,Austin Heart Center
+30.3115221,hospital,-97.7427275,Austin American Sleep Diagnostic Center
+30.2743706,hospital,-97.733919,Austin Women's Hospital
+30.2873225,hospital,-97.8269516,Saint Jude Medical Center
+30.2259375,hospital,-97.7745796,St . David's South Austin Medical Center
+30.2742901,hospital,-97.7346834,Seton Southwest-Shivers Center
+30.423633,post_office,-97.7572539,Balcones Post Office
+30.3536628,hospital,-97.7494158,Texan Surgery Center
+30.5223756,post_office,-97.8233655,Cedar Park Post Office
+30.208889,post_office,-97.64944,Del Valle Post Office
+30.3036712,post_office,-97.7437788,Central Park Station Post Office
+30.3535782,post_office,-97.7550206,Chimney Corners Post Office
+30.2618187,post_office,-97.7222636,East Austin Post Office
+30.3548191,post_office,-97.7366119,Northcross Post Office
+30.1982011,post_office,-97.8088505,Mockingbird Post Office
+30.3342011,post_office,-97.6995852,Northeast Austin Post Office
+30.4437831,post_office,-97.6414386,Pflugerville Post Office
+30.2141961,post_office,-97.7341899,Southeast Post Office
+30.297381,post_office,-97.7668596,West Austin Post Office
+30.26603,school,-97.7418557,American Youthworks Charter School
+30.2918407,school,-97.7391202,All Saints Episcopal Day School
+30.4753323,school,-97.8359454,Cedar Park Middle School
+30.3075441,school,-97.7059238,Cedars International Academy
+30.1818075,school,-97.7946496,Christ Community Christian School
+30.1728612,school,-97.6293031,Del Valle Junior High School
+30.2446621,school,-97.7808296,Faith United Methodist Preschool
+30.3695937,school,-97.7583039,First Presbyterian Church Day School
+30.2748668,school,-97.7426086,First United Methodist Church of Austin Preschool
+30.2959346,school,-97.7689936,Good Shepherd Episcopal School
+30.3980542,school,-97.749644,Great Hills Baptist Church Preschool
+30.3907452,school,-97.9344255,Hudson Bend Middle School
+30.419737,school,-97.7694446,Kathy Caraway Elementary School
+30.3851157,school,-97.7032159,McCullough Academy of Excellence
+30.23872,school,-97.8792398,Mount Olive Lutheran Church Preschool
+30.4675249,school,-97.586526,Murchison Elementary School
+30.3741524,school,-97.7561443,Saint Matthews Episcopal Day School
+30.2605728,school,-97.7186294,University Of Texas Elementary Charter School
+30.315108,school,-97.6923256,Wesley School
+30.5480722,school,-97.8698428,Whitestone Elementary School
+30.284921,fountain,-97.7295789,LBJ Fountain
+30.3342662,post_office,-97.66756,USPS Cross Park Post Office
+30.3230437,bank,-97.6965905,A+ Federal Credit Union
+30.322392,fuel,-97.6938947,Exxon Tigermart
+30.3221769,restaurant,-97.6932173,La Palapa
+30.3231224,restaurant,-97.7037688,China Star Buffet
+30.3253747,restaurant,-97.7048159,Pappadeaux
+30.3278596,restaurant,-97.7048896,Chili's
+30.3269188,restaurant,-97.704881,Pappasitos
+30.3288301,restaurant,-97.7049325,Japon Sushi
+30.5565724,place_of_worship,-97.8466471,Leander Church of Christ
+29.9989233,community_centre,-98.0984914,Wimberley Community Center
+30.2860412,arts_centre,-97.7330609,Archer M Huntington Art Gallery
+30.3525,fire_station,-97.678611,Austin Fire Station Number 23
+30.109076,courthouse,-97.3180992,Bastrop County Courthouse
+30.418333,fire_station,-97.742778,Austin Fire Station Number 25
+30.2292699,fire_station,-97.7132294,Austin Fire Station Number 22
+30.1872226,fire_station,-97.7423049,Austin Fire Station Number 24
+30.3172982,fire_station,-97.6903305,Austin Fire Station Number 18
+30.334722,fire_station,-97.758889,Austin Fire Station Number 19
+30.2071424,fire_station,-97.805556,Austin Fire Station Number 20
+30.370556,fire_station,-97.75611,Austin Fire Station Number 21
+30.298889,fire_station,-97.70944,Austin Fire Station Number 14
+30.2535924,fire_station,-97.7673123,Austin Fire Station Number 11
+30.265793,fire_station,-97.739426,Austin Fire Station Number 1
+30.3064663,fire_station,-97.7294719,Austin Fire Station Number 9
+30.2580355,fire_station,-97.6932608,Austin Fire Station Number 15
+30.278056,fire_station,-97.684167,Austin Fire Station Number 5
+30.2581452,fire_station,-97.7241205,Austin Fire Station Number 7
+30.4464326,fire_station,-97.8018727,Austin Fire Station Number 38
+30.3999212,fire_station,-97.76592,Austin Fire Station Number 33
+30.2766606,fire_station,-97.755,Austin Fire Station Number 4
+30.340278,fire_station,-97.7230003,Austin Fire Station Number 16
+30.2100894,fire_station,-97.7245972,Austin Fire Station Number 35
+30.295833,fire_station,-97.741111,Austin Fire Station Number 3
+30.266944,fire_station,-97.790278,Austin Fire Station Number 32
+30.293611,fire_station,-97.6315164,Austin Fire Station Number 26
+30.3948885,kindergarten,-97.7559213,Triumphant Love Lutheran Child Development Center
+30.227778,fire_station,-97.8535259,Austin Fire Station Number 27
+30.2687684,kindergarten,-97.7303971,Ebenezer Baptist Church Child Development Center
+30.335239,kindergarten,-97.7410103,Grace Garden Child Development Center
+30.2986,fire_station,-97.7092,Austin Fire Station Number 10
+30.2883148,kindergarten,-97.7412129,University United Methodist Church Early Childhood Center
+30.2172394,kindergarten,-97.8462595,Abiding Love Lutheran Child Development Center
+30.1299386,library,-97.2905474,Cuero Public Library
+30.2762364,library,-97.741983,Texas State Law Library
+30.4457219,library,-97.6756441,Wells Branch Community Library
+30.309324,library,-97.6669569,University Hills Branch Austin City Library
+30.3119867,library,-97.6905742,Winsor Park Branch Austin City Library
+30.27395,library,-97.8115454,Westbank Community Library
+30.3233724,library,-97.7407732,Yarborough Branch Austin City Library
+30.3080683,place_of_worship,-97.6772052,Faith Christian Center
+30.2318008,place_of_worship,-97.6990787,Dolores Catholic Church Franciscan Convent
+30.4223234,library,-97.7161648,Milwood Branch Austin City Library
+30.3632685,library,-97.6977637,Little Walnut Creek Branch Austin City Library
+30.2176321,library,-97.8550372,Hampton Will Branch at Oak Hill Branch Austin City Library
+30.187603,library,-97.7419349,Southeast Austin Branch Austin City Library
+30.2311,library,-97.7575,Scarborough Phillips Library
+30.3322104,library,-97.6931974,Saint John Branch Austin City Library
+30.2291307,library,-97.7072349,Ruiz Branch Austin City Library
+30.3530883,library,-97.7554098,Old Quarry Branch Austin City Library
+30.264,library,-97.7219,Downs Jones Library
+30.3518579,library,-97.7364843,Austin Independent School District Library Media Center
+30.3404839,public_building,-97.6958384,Texas Highway Department
+30.3263175,public_building,-97.7241723,Texas Department of Public Safety
+30.2654866,public_building,-97.7227824,Huston Tillotson College Administration Building
+30.2649,public_building,-97.7229,Agard Lovinggood Administration Building
+30.282655,public_building,-97.6661295,Austin Fire Headquarters
+30.2294,theatre,-97.753,Mary Moody Northern Theater
+30.2546315,public_building,-97.7506581,Deaf Smith Ranger Center
+30.2879855,public_building,-97.7486168,Texas Federation of Womens Clubs Headquarters
+30.3060828,hospital,-97.7483634,Seton Medical Center H-4 Heliport;Seton Shoal Creek - Daughters of Charity
+30.248631,library,-97.7623072,Twin Oaks Library
+30.2471074,school,-97.7648594,Mainspring School
+30.2478392,cafe,-97.7615443,Cafe Caffeine
+30.2526429,fuel,-97.7631321,7-Eleven
+30.2594637,school,-97.753871,Armstrong Community Music School
+30.6196782,school,-97.6420009,James E. Mitchell Elementary School
+30.3565687,restaurant,-97.7473599,Chinatown
+30.3565169,restaurant,-97.7473856,Musashino Sushi Dokoro
+30.2780903,restaurant,-97.7716979,Magnolia Cafe
+30.2781347,fast_food,-97.7720326,Thundercloud Subs
+30.2946775,restaurant,-97.7844094,Hula Hut
+30.277787,pub,-97.772558,Deep Eddy Cabaret
+30.2769346,sporting goods,-97.7709443,RunTex Lake Austin
+30.2800588,restaurant,-97.7594781,Zocalo
+30.4116126,hospital,-97.7061732,St. David's Hospital
+30.2778528,restaurant,-97.7729085,Mangia Pizza
+30.2828378,restaurant,-97.7755976,Maudie's Tex Mex
+30.4237392,place_of_worship,-97.7092614,United Christian Church
+30.4245459,pharmacy,-97.7145657,Walgreen's
+30.2744656,pub,-97.7649939,Mean Eyed Cat
+30.2835784,place_of_worship,-97.6947577,Friends Meeting of Austin
+30.6190962,bar,-97.693914,Office Lounge
+30.3982312,school,-97.6432561,Dessau Middle School
+30.2638237,restaurant,-97.7632926,Chuy's Barton Springs
+30.262808,restaurant,-97.762057,Shady Grove
+30.1409927,fire_station,-97.8380746,Manchaca Volunteer Fire Department
+30.2794133,restaurant,-97.7600581,Galaxy Cafe
+30.2307132,restaurant,-97.7881368,Dan's Hamburgers
+30.2464698,pharmacy,-97.7774634,Walgreens
+30.24346,fast_food,-97.7831233,Phoenicia Bakery & Deli
+30.2435659,fast_food,-97.7818316,Thundercloud Subs
+30.2459535,restaurant,-97.7782697,Taco Xpress
+30.2316817,restaurant,-97.8001346,Hyde Park Bar & Grill
+30.2314518,restaurant,-97.8008555,Madam Mam's
+30.0828426,library,-97.8421428,Buda Public Library
+30.230688,cafe,-97.7998856,Amy's Ice Creams
+30.2439238,fast_food,-97.7827659,Giovanni Pizza Stand
+30.0812161,townhall,-97.8429324,Buda City Hall
+30.0798792,toilets,-97.8436878,Wheelchair Accessible Public Toilets
+30.2026745,cafe,-97.878824,Starbucks
+30.0297604,theatre,-97.875576,Hays CISD Performing Arts Center
+30.4643757,place_of_worship,-97.8190616,Hill Country Bible Church NW
+30.140174,parking,-97.8380032,McCoy's Building Supply Parking Lot
+30.1393649,place_of_worship,-97.8366214,Manchaca Baptist Church
+30.1395357,parking,-97.8375312,Manchaca Baptist Church Parking Lot
+30.4019522,cafe,-97.7264133,Starbucks
+30.2360627,restaurant,-97.7954282,Fish City Grill
+30.2382873,shop,-97.7975225,Toys R Us
+30.2333041,shop,-97.7914972,Target
+30.6499929,place_of_worship,-97.6751567,Christ Presbyterian Church (meeting at the Chamber of Commerce)
+30.3088816,theatre,-97.8453601,One World Theatre
+30.3071847,place_of_worship,-97.8443215,Church of Conscious Harmony
+30.3157961,library,-97.8714417,Laura Bush Community Library
+30.5469655,fire_station,-97.86837,Fire Station #2
+30.5179715,place_of_worship,-97.836816,Good Shepherd Lutheran Church
+30.5267355,place_of_worship,-97.8433501,Hill Country Church of Nazerene
+30.5325367,place_of_worship,-97.8464126,The Church of Jesus Christ of Latter-day Saints
+30.559769,school,-97.8361328,Pleasant Hill Elementary
+30.515558,school,-97.7870952,Vista Ridge High School
+30.5214214,school,-97.7885028,Henry Middle School
+30.1833866,fire_station,-97.8978426,CircleC Fire Station
+30.4372791,restaurant,-97.6106326,Hakata Sushi & Asian Grill
+30.445382,fast_food,-97.60768,Sonic
+30.4433175,restaurant,-97.6089675,Mexican grille
+30.2988059,place_of_worship,-97.7434452,Austin Zen Center
+30.3346573,pharmacy,-97.7407291,H-E-B Pharmacy
+30.1706399,place_of_worship,-97.6317569,Austin Buddhist Center
+30.3445226,place_of_worship,-97.7344337,Austin Korean Presbyterian Church
+30.3158003,cafe,-97.7416401,Upper Crust Bakery
+30.3173785,cafe,-97.7406015,Pacha
+30.3185788,restaurant,-97.7397518,Blue Star Cafeteria
+30.3183417,restaurant,-97.7399664,Gusto Italian Kitchen
+30.3194531,restaurant,-97.7387991,The Omelettry
+30.3179119,restaurant,-97.7402411,Maru Japanese
+30.3219573,pub,-97.7395201,Billy's on Burnet Road
+30.3255061,restaurant,-97.7433739,Fonda San Miguel
+30.3321885,fast_food,-97.7403355,Phil's Icehouse
+30.3334941,restaurant,-97.7409813,Hangtown Grill
+30.3323515,ice_cream,-97.7403355,Amy's Ice Cream
+30.3399519,fast_food,-97.7386532,Church's Fried Chicken
+30.3417742,restaurant,-97.7383614,Elsie's
+30.3415445,restaurant,-97.7391338,Arandas
+30.340426,bar,-97.7385931,Poodle Dog Lounge
+30.3437964,restaurant,-97.7379751,The Frisco
+30.3446186,bar,-97.736413,Lala's
+30.3502257,restaurant,-97.7350998,El Mercado
+30.3511441,fast_food,-97.7335205,Top Notch
+30.3479814,fast_food,-97.7354088,Hil-Bert's
+30.3577389,fast_food,-97.730982,Thundercloud Subs
+30.3574989,fast_food,-97.7311859,Conan's Pizza
+30.3595133,restaurant,-97.7345247,Madam Mam's
+30.3601799,fast_food,-97.7370396,Zen
+30.3602465,fast_food,-97.7404814,Texadelphia
+30.3540549,cafe,-97.7272892,Genuine Joe Coffeehouse
+30.3145428,fast_food,-97.7419761,Taco Shack
+30.3082256,fast_food,-97.741617,Taco Shack
+30.307639,restaurant,-97.7419161,EZ's Brick Oven & Grill
+30.3073735,restaurant,-97.7421749,Banzai Sushi & Grill
+30.3065679,cafe,-97.7451642,Teo's Gelato and Espresso
+30.3059582,restaurant,-97.7442691,Doc's Motorworks
+30.3082553,restaurant,-97.7503631,Russell's
+30.3080182,restaurant,-97.7504833,Kerbey Lane Cafe
+30.3327051,cafe,-97.7601993,Russell's Bakery
+30.3367185,restaurant,-97.7579163,Chez Zee
+30.3248791,fast_food,-97.7273759,Dan's Hamburgers
+30.3232566,restaurant,-97.7275905,Titaya's Thai Cuisine
+30.337142,fuel,-97.7561549,Shell
+30.3606405,fast_food,-97.7407253,Short Stop
+30.3593074,fuel,-97.738159,Chevron Gas
+30.3571235,place_of_worship,-97.7479569,Congregation Kol Halev
+30.3145527,place_of_worship,-97.7404766,Trinity Lutheran Church
+30.323403,fast_food,-97.739207,Torchy's Tacos
+30.3426218,fast_food,-97.7255181,Little Deli
+30.2770185,pub,-97.7511616,The Tavern
+30.3292049,cinema,-97.7079544,Galaxy Highland 10
+30.2997979,school,-97.6868532,Austin Peace Academy
+30.2951342,fast_food,-97.7425085,Taco Shack
+30.2954158,restaurant,-97.7423368,Ruby's BBQ
+30.295601,restaurant,-97.7423711,Milto's
+30.2953787,restaurant,-97.7432724,Conan's Pizza
+30.2960976,cafe,-97.7439762,Texas French Bread
+30.2957196,restaurant,-97.7441221,Drungo's
+30.2948674,cafe,-97.742826,Ken's Donuts
+30.2937038,fast_food,-97.7417617,Torchy's Tacos
+30.3018243,fast_food,-97.7449855,P. Terry's Burger Stand
+30.3013037,fast_food,-97.7392445,Amy's Ice Cream
+30.2940557,fast_food,-97.7423117,Dirty Martin's
+30.2955231,cafe,-97.741771,Spider House
+30.3015074,fuel,-97.7452894,Shell
+30.2970572,fast_food,-97.7414791,Chango's
+30.2967459,restaurant,-97.7416594,Thai Kitchen
+30.2958121,restaurant,-97.7409556,Trudy's Texas Star
+30.2985171,fast_food,-97.7412732,Boomerang's
+30.2994508,fast_food,-97.7407324,Thundercloud Subs
+30.3010663,fast_food,-97.7390587,Zen
+30.3016888,cafe,-97.7386124,La Tazza Fresca
+30.3018518,bar,-97.7393505,Nast'y
+30.2622549,restaurant,-97.7389741,Iron Works Barbecue
+30.3911344,restaurant,-97.7384912,NXNW North By Northwest
+30.432584,restaurant,-97.7714049,Asia Cafe Sichuan
+30.390988,restaurant,-97.7479611,Cheesecake Factory
+30.141679,cafe,-97.832796,Chuck's Deli
+30.141196,veterinary,-97.832781,Manchaca Village Veterinary Care
+30.1832042,restaurant,-97.8476351,Maudies Hacienda
+30.1832487,restaurant,-97.8477981,Baskin Robins
+30.1833154,fast_food,-97.8479183,Subway
+30.1833377,restaurant,-97.8480556,Galaxy Cafe
+30.1835009,restaurant,-97.848253,Brick Oven
+30.1847771,restaurant,-97.8475149,Tino's Greek Cafe
+30.1849403,post_box,-97.8474205,Mail and More
+30.1851035,dentist,-97.8473432,Smiles by Dentistry
+30.1851332,restaurant,-97.8472917,Wok On Fire
+30.1852296,cafe,-97.8471973,Texenza Coffie
+30.3292044,restaurant,-97.7315134,Dart Bowl Cafe
+30.3253668,pharmacy,-97.7403883,CVS
+30.549027,place_of_worship,-97.7446575,Westside Church of Christ
+30.3185317,cafe,-97.7245043,Epoch Coffee
+30.552156,pharmacy,-97.8555468,Walgreens
+30.5490369,fuel,-97.8528208,Exxon
+30.5178816,fuel,-97.8406071,Valero
+30.5212263,fuel,-97.8333372,Walmart
+30.5448281,fuel,-97.8407455,Texaco
+30.5152603,pharmacy,-97.8507465,Walgreens
+30.5383561,school,-97.8664313,Winkley Elementary School
+30.5087316,fuel,-97.774562,Shell
+30.5208625,restaurant,-97.8307015,La Tapitia
+30.5213143,fast_food,-97.8309922,McDonald's
+30.521766,fast_food,-97.8311168,Pizza Hut
+30.522126,restaurant,-97.8299624,Smokey Mo's Bar-B-Q
+30.5221238,fast_food,-97.8313557,A&W Root Beer
+30.5202188,fast_food,-97.8339875,Panda Express
+30.5225264,fast_food,-97.8315582,Taco Cabana
+30.5197901,fast_food,-97.8353415,Bush's Chicken
+30.5194315,restaurant,-97.832369,J J's Bar-B-Q
+30.544165,fast_food,-97.840539,Pizzeria Rialto
+30.5405288,fast_food,-97.8491544,Subway
+30.5236847,restaurant,-97.832067,Chilis
+30.5499212,restaurant,-97.8533226,Great Wall Express
+30.5660091,fast_food,-97.847788,Snack Shack
+30.5696859,restaurant,-97.8493276,Jardin Del Rey
+30.5802577,fuel,-97.8537747,Exxon
+30.5794726,restaurant,-97.8542092,O'Leander Cafe
+30.221089,restaurant,-97.772538,Casa Maria's
+30.394918,cafe,-97.7525341,Starbucks
+30.3957428,restaurant,-97.7472319,la Madeleine
+30.3955201,restaurant,-97.7503376,P.F. Changs
+30.3951194,fast_food,-97.7483387,Pok-e-Jo's BAR B Q
+30.4002769,post_office,-97.7480171,Mail Depot
+30.4001039,restaurant,-97.748023,Twin Lion
+30.3988329,restaurant,-97.7490667,Brick Oven
+30.3950396,fast_food,-97.7493683,Elevation Burger
+30.4003501,fuel,-97.7485491,Valero
+30.3950324,restaurant,-97.7491981,Tinos Greek Cafe
+30.400368,fast_food,-97.7480055,Subway
+30.4002315,fast_food,-97.7472555,Taco Bell
+30.5413367,community_centre,-97.8205836,Cedar Park Center
+30.224343,post_office,-97.7624277,South Congress Station
+30.2536572,bar,-97.7633983,Saxon Pub
+30.3243636,community_centre,-97.7087159,Monarch Event Center
+30.2664861,pub,-97.7458683,The Gingerman
+30.2024382,fast_food,-97.8066069,Church's Chicken
+30.2032588,fuel,-97.8062153,Valero
+30.2030224,atm,-97.8048581,Wells Fargo Drive Thru ATM
+30.2033005,atm,-97.8071916,Compass Bank ATM
+30.2026839,fast_food,-97.8073257,Short Stop
+30.2029899,restaurant,-97.8054428,Bill Miller BBQ
+30.5326684,hospital,-97.8121948,Cedar Park Medical Center
+30.5036915,school,-97.8054393,Cox Elementary
+30.3352645,restaurant,-97.8072898,Trento Restaurant
+30.6315637,restaurant,-97.6931948,Zio's Italian Restaurant
+30.081007,restaurant,-97.843442,Casa Alde Cafe
+30.3759941,school,-97.747986,Hill Elementary Playground
+30.4125358,fast_food,-97.6904448,McDonald's
+30.0030831,school,-98.1138948,Danforth Junior High
+30.0025442,school,-98.1105903,Scudder Primary School
+30.0054802,school,-98.1140879,Wimberley ISD Annex
+30.0014479,school,-98.1022003,WISD Central Office
+30.0019124,school,-98.1025437,WISD Bowen AEP Campus
+30.0030088,school,-98.1067708,Katherine Ann Porter School
+30.0018283,fire_station,-98.1061388,Wimberley Volunteer Fire Station
+30.1637939,pub,-97.6908665,VFW Post 8925
+30.1223094,place_of_worship,-97.6379604,Elroy Baptist Church
+30.0879824,place_of_worship,-97.5011366,Cedar Creek United Methodist Church
+30.1128363,school,-97.3359322,Bastrop Intermediate School
+30.1129106,school,-97.3421764,Bastrop Middle School
+30.1119268,cinema,-97.3093676,Chestnut Square Family Entertainment Center
+30.1095508,bar,-97.2935426,American Legion
+30.1115648,restaurant,-97.2936177,Roadhouse
+30.1100218,restaurant,-97.5849554,Gary's Grill
+30.1113273,fast_food,-97.4156024,Jack in the Box
+30.1389258,school,-97.4717064,Cedar Creek High School
+30.1096752,place_of_worship,-97.4119227,Foundation Christian Ministries
+30.120863,fast_food,-97.4315618,Sonic Drive-In
+30.1757794,fast_food,-97.5261884,McDonald's
+30.0859914,restaurant,-97.5021607,Las Flores
+30.3245221,fast_food,-97.7266862,KFC/Long John Silver's
+30.2846841,cafe,-97.7324514,Starbucks
+30.291373,pub,-97.7346937,Posse East
+30.2716752,fast_food,-97.697795,Pizza Hut
+30.2723218,fast_food,-97.6968974,McDonald's
+30.2640071,bar,-97.7286588,Rio Rita
+30.2644797,pub,-97.7301822,Sputnik
+30.2723506,restaurant,-97.6907978,Mr. Catfish
+30.2739039,fast_food,-97.6976331,Jack in the Box
+30.2737556,fast_food,-97.6983305,Church's Chicken
+30.2727642,fast_food,-97.6981266,Golden Chick
+30.2832777,fast_food,-97.7039145,Taco Bell
+30.2821242,fast_food,-97.7031114,Popeye's
+30.2817814,fast_food,-97.7029666,Sonic Drive-In
+30.4423357,school,-97.6448665,Springhill Elementary
+30.4458506,place_of_worship,-97.6381288,Calvary
+30.4478854,fast_food,-97.6395665,McDonald's
+30.4431497,restaurant,-97.6287518,Pecan Street Grill
+30.4477374,fast_food,-97.6402317,Popeye's
+30.4424097,library,-97.6285587,Pflugerville Public Library
+30.4774346,school,-97.5626669,Rowe Lane Elementary School
+30.4437891,fast_food,-97.787289,Taco Cabanna
+30.4481065,fuel,-97.7910877,Chevron
+30.4478058,fast_food,-97.7910877,Burger King
+30.4491846,restaurant,-97.7920347,Kobe Japanese Steakhouse
+30.44816,fast_food,-97.7892659,Kentucky Fried Chicken
+30.4458275,fast_food,-97.7901109,Arby's
+30.44163,bank,-97.7741053,Amplify Credit Union
+30.4463358,restaurant,-97.7793674,Jardin Corona Mexican Food
+30.4349765,pub,-97.7668091,Water Tank
+30.4654953,fast_food,-97.8031668,McDonald's
+30.4650322,doctors,-97.8049885,Urgent Care Plus
+30.4697211,fuel,-97.7902718,Shell
+30.4616416,fast_food,-97.7950751,Taco Bell
+30.4612857,fuel,-97.7952652,H-E-B Fuel
+30.4343308,restaurant,-97.7714144,Jim's
+30.4336215,fast_food,-97.7695787,Short Stop
+30.4322698,bank,-97.7669894,Prosperity Bank
+30.4299002,fast_food,-97.7626236,Krispy Cream
+30.42946,bank,-97.7617473,Bank of America
+30.2841763,restaurant,-97.7189427,Mi Madre's
+30.3753066,bank,-97.7327861,Austin Telco Federal Credit Union
+30.3939956,bank,-97.751535,Chase Bank
+30.5108352,restaurant,-97.6899415,Gumbo's
+30.5113569,fast_food,-97.6947164,Short Stop
+30.4481621,fuel,-97.7938403,Valero
+30.3600188,fuel,-97.7170285,Valero
+30.3601793,fuel,-97.7161171,Conoco
+30.4164846,fuel,-97.7481882,brand
+30.4165186,restaurant,-97.7473143,IHOP
+30.4254957,fast_food,-97.7536425,Dunkin' Donuts
+30.4239837,fast_food,-97.755816,Sonic Drive In
+30.4081273,dentist,-97.7481855,Omni Dental Group
+30.4027988,fuel,-97.7462082,Great Hills Shell
+30.3915519,restaurant,-97.7386262,Iron Cactus
+30.399863,fast_food,-97.7450855,Boston Market
+30.4473236,restaurant,-97.8101558,Mesa Rosa
+30.446387,fast_food,-97.8064476,Delaware Subs
+30.4395219,restaurant,-97.6193236,El Ricon
+30.4381099,pharmacy,-97.6121984,H-E-B Pharmacy
+30.4397663,fuel,-97.6201344,Shell Gas Station
+30.460652,fast_food,-97.7948536,Quizno's
+30.4613137,fuel,-97.7926931,Exxon
+30.4506011,restaurant,-97.7900185,Pacific Star
+30.4384898,place_of_worship,-97.6168728,First United Methodist Church
+30.2381148,restaurant,-97.7394025,WhipIn
+30.440994,townhall,-97.619908,Pflugerville City Hall
+30.4294941,kindergarten,-97.6350127,Goddard School
+30.2560943,restaurant,-97.7632178,The Highball
+30.2550216,pub,-97.7618499,Gibson's
+30.2496256,fast_food,-97.7663914,Austin's Pizza
+30.2494309,restaurant,-97.7682259,La Feria
+30.2499685,restaurant,-97.7670565,Sazon
+30.2483698,restaurant,-97.7693524,Olivia
+30.2474893,pharmacy,-97.7701249,CVS
+30.2473865,fast_food,-97.7706834,Lulu B's Sandwiches
+30.2484023,pub,-97.7711763,Black Sheep Lodge
+30.2415436,restaurant,-97.7833214,Chinatown
+30.2414134,restaurant,-97.7589557,Winebelly
+30.2418674,fuel,-97.7594581,Texaco
+30.237152,restaurant,-97.7494097,Curra's Grill
+30.2309461,fast_food,-97.7355266,Whataburger
+30.2371474,restaurant,-97.7496672,Tarbouch Restaurant
+30.2504944,place_of_worship,-97.7609651,Austin Shambhala Meditation Center
+30.2479434,restaurant,-97.7617143,Thai Fresh
+30.2342716,fuel,-97.7421705,Exxon
+30.2458558,restaurant,-97.7571455,La Mexicana Bakery
+30.2461944,restaurant,-97.7560714,Soup Peddler
+30.245295,restaurant,-97.7574567,Polvo's
+30.2522016,cafe,-97.7635001,Starbuck's
+30.2561056,cafe,-97.7462026,Dominican Joe Coffee Shop
+30.2543077,cafe,-97.7476456,Starbucks
+30.2523012,restaurant,-97.7483054,Doc's MotorWorks Bar & Grill
+30.249127,restaurant,-97.7501239,Guerro's
+30.2488397,restaurant,-97.7502205,South Congress Cafe
+30.2499704,restaurant,-97.7500381,Perla's
+30.250962,fast_food,-97.7489491,Amy's Ice Cream
+30.2516594,restaurant,-97.7491342,Snack Bar
+30.2525144,restaurant,-97.740924,Joe's Crab Shack
+30.2493483,atm,-97.7671271,Chase Bank
+30.2439425,cafe,-97.7583643,Fair Bean Coffee
+30.246897,restaurant,-97.7558981,Lenoir
+30.2463014,fast_food,-97.7511384,Wahoo's Tacos
+30.2464589,restaurant,-97.7510901,Woodland
+30.2479272,restaurant,-97.7506887,Vespaio
+30.2397,pharmacy,-97.7524166,CVS
+30.2390691,fast_food,-97.7529198,Subway
+30.246512,cafe,-97.7566288,Bouldin Creek Coffee House
+30.2513434,restaurant,-97.7545812,El Mercado
+30.2482988,pub,-97.7552195,Jovita's Mexican
+30.2477844,restaurant,-97.7551015,Freddy's Place
+30.2468507,restaurant,-97.7564399,El Chile
+30.2448093,cafe,-97.7569898,Once Over Coffee Bar
+30.2430066,restaurant,-97.758921,Little Mexico
+30.2406153,restaurant,-97.7609112,Tacaria Arandas
+30.2367594,fast_food,-97.7627136,Torchy's Tacos
+30.2332092,cafe,-97.7648433,Summermoon Coffee Bar
+30.2233882,fuel,-97.7629748,Chevron
+30.2224982,fuel,-97.7648309,Exxon
+30.2261832,fuel,-97.7700934,7 Eleven Gas
+30.2141108,restaurant,-97.7546182,Furr's Family Restaurant
+30.212365,fuel,-97.7528039,Shell
+30.2392743,atm,-97.7537881,Wells Fargo Bank
+30.223951,fuel,-97.763762,Shell
+30.2276776,pub,-97.7605219,Opal Devine's
+30.2242708,restaurant,-97.7634777,El Borrego de Oro
+30.2216774,fast_food,-97.7641187,Wendy's
+30.2720602,restaurant,-97.7541144,24
+30.2804408,restaurant,-97.7591677,Jeffrey's
+30.2296069,restaurant,-97.819725,La Madelaine
+30.5403187,fast_food,-97.8490592,Marco's Pizza
+30.5092115,Condominium complex,-97.611604,Forest Creek Condos
+30.507825,school,-97.6130363,Kids R Kids
+30.2644346,restaurant,-97.7614257,Casa de Luz
+30.263063,restaurant,-97.762359,Baby Acapulco
+30.285291,post_box,-97.740764,University Station Post Office
+30.274481,school,-97.7809714,Austin Jiu-Jitsu
+30.360786,restaurant,-97.7893806,Waterloo Ice House
+30.2410405,restaurant,-97.7579101,Habanero Mexican Cafe
+30.2471951,restaurant,-97.7775121,Mr. Natural
+30.4612868,fast_food,-97.8174358,Dairy Queen
+30.4613301,fast_food,-97.8172781,Subway
+30.4630994,fuel,-97.8144398,Shell
+30.4632636,restaurant,-97.8149414,North & South China
+30.5340536,fast_food,-97.563371,Golden Chick
+30.5462681,fire_station,-97.5550641,Hutto Fire and Rescue
+30.5408746,pharmacy,-97.5635332,Wallgreens
+30.5413292,restaurant,-97.560321,Chili's Grill & Bar
+30.541655,fast_food,-97.5575972,Taco Bell
+30.5406755,fast_food,-97.5641418,Sonic
+30.5426252,fast_food,-97.5565243,Subway
+30.5414702,fast_food,-97.5594318,McDonald's
+30.5346426,school,-97.5588381,Nadine Johnson Elementary
+30.4054629,restaurant,-97.8745269,Oasis
+30.4602265,bank,-97.794771,Chase Bank
+30.4587481,cinema,-97.7913816,Alamo Drafthouse
+30.4770565,school,-97.830203,Naumann Elementary School
+30.4609108,fuel,-97.8206221,Texaco
+30.4604161,place_of_worship,-97.8276013,Cypress Creek Baptist Church
+30.4629024,amusement_park,-97.6668264,Austin's Park
+30.3754304,fast_food,-97.6761856,Whataburger
+30.0968602,school,-97.8966458,Carpenter Hill Elementary School
+30.1522738,school,-97.8337016,Jackie's Private Education
+30.5423594,restaurant,-97.5565901,Rio grande Tex Mex
+30.6324471,restaurant,-97.6932603,Mama Fu's Asian House
+30.6321863,cafe,-97.6929492,Starbucks Coffee
+30.2731608,school,-97.6723872,Texas Empowerment Academy
+30.4445305,cafe,-97.7436905,Starbucks
+30.5715108,school,-97.8214169,Rouse High School
+30.5669163,school,-97.8194844,Wylie Middle School
+30.6351094,university,-97.6652023,Southwestern University
+30.5663965,veterinary,-97.8085842,Williamson County Humane Society
+30.3909405,doctors,-97.7441028,Lasik Plus
+30.26831,bank,-97.744873,Chase Bank Bldg
+30.4008138,restaurant,-97.721438,Technique
+30.4006694,school,-97.7215599,Le Cordon Bleu College of Culinary Arts Austin
+30.3994579,restaurant,-97.7244842,urban
+30.3950453,restaurant,-97.7269507,Maggiano's Little Italy
+30.3959033,cafe,-97.7275003,Yogurt Planet
+30.400227,restaurant,-97.725989,Gloria's
+30.4015294,restaurant,-97.7272114,Kona Grill
+30.3825751,car_rental,-97.7228796,Enterprise
+30.4024976,restaurant,-97.726251,Jasper's
+30.3924195,fast_food,-97.7451017,Jersey Mike's Subs
+30.3833253,restaurant,-97.7374699,Dave & Buster's
+30.3946629,fast_food,-97.7442192,Promise Pizza
+30.3947997,fast_food,-97.7444977,Jason's Deli
+30.4027966,restaurant,-97.7258494,Daily Grill
+30.4030816,restaurant,-97.7256638,Fleming's
+30.4021467,restaurant,-97.7266617,Joe DiMaggio's
+30.3971917,car_wash,-97.7337067,Shell
+30.304895,restaurant,-97.7262332,Asti
+30.3148586,gym,-97.7352613,Fitness 360
+30.315017,dentist,-97.7355481,Austin Dental Works
+30.3149667,restaurant,-97.7354499,Chedd's
+30.3151724,restaurant,-97.7336577,snap
+30.400199,bank,-97.7408304,Regions
+30.3996275,bank,-97.7396973,Capital One Bank
+30.4036986,fast_food,-97.7448477,Quiznox Classic Subs
+30.3997676,cafe,-97.7450638,Einstein Bros Bagels
+30.402095,bar,-97.7264462,CRÚ Food & Wine Bar
+30.3958149,fast_food,-97.7196383,Bamboo Bistro North
+30.3962282,fast_food,-97.7195503,Freebirds World Burrito
+30.3961024,fast_food,-97.7196012,Ryu of Japan
+30.3961623,bar,-97.7195839,Detour
+30.3957509,fast_food,-97.7196834,Firehouse Subs
+30.3985021,fast_food,-97.7452933,Wendy's
+30.3950774,restaurant,-97.7484716,Bullritos
+30.3957686,bank,-97.7475534,Bank of America
+30.3952181,cafe,-97.7493734,FireBowlCafe
+30.3988286,dentist,-97.7488709,Castle Dental
+30.4002716,car_wash,-97.7470857,Wash'n'Run
+30.3998084,fast_food,-97.746813,Gatti's Pizza
+30.3999414,restaurant,-97.7485126,Fujiyama
+30.3987312,cafe,-97.7490745,Yogertz
+30.398839,cafe,-97.748962,Jamba Juice
+30.3986564,fast_food,-97.7474271,Bombay Bistro
+30.3986443,doctors,-97.7472686,Austin Regional Clinic
+30.4000021,dentist,-97.7480254,Fastbraces
+30.3999342,cafe,-97.7483653,Great Harvest Bread Co.
+30.4001287,cafe,-97.7042179,Cafe Java
+30.4004938,bar,-97.7039848,Canary Roost
+30.4004295,fast_food,-97.7040252,Double Dave's Pizza
+30.4001902,post_office,-97.7041774,Pak Mail
+30.407478,fast_food,-97.7134801,Mangia
+30.4075615,cafe,-97.7134001,sodade
+30.4076999,fast_food,-97.713254,Tacodeli
+30.3942228,pub,-97.7202505,Canary Hut Pub
+30.3945877,fast_food,-97.7201256,Subway
+30.3940521,fast_food,-97.7203169,Golden Lake Chinese Buffet
+30.3941591,fast_food,-97.7202728,Donut-7
+30.3957035,fast_food,-97.7196979,Froots
+30.3871913,restaurant,-97.7333726,Chuck E. Cheese's
+30.3895722,restaurant,-97.7324885,RedBrick Pizza
+30.3888001,restaurant,-97.7329038,how do you roll?
+30.3918676,fast_food,-97.731786,Potbelly Sandwich Works
+30.3898698,fast_food,-97.7332027,Mighty Fine
+30.3918238,cafe,-97.731603,Tinos Greek Cafe
+30.3899093,restaurant,-97.733345,Chipotle Mexican Grill
+30.4083158,school,-97.730049,Hyde Park Baptist High School
+30.4776993,fast_food,-97.7661311,Sonic Drive In
+30.3238607,fire_station,-97.8736721,CE-Bar Volunteer Fire Dept.
+30.6557405,fire_station,-97.684278,Fire Station 2
+30.610338,bus_station,-97.6854913,CARTS Georgetown Station
+30.6678695,bar,-97.6692082,Hard Tails Bar & Grill
+30.2284944,fast_food,-97.8196643,Schlotzsky's Deli
+30.4596708,fast_food,-97.7923848,McDonald's
+30.4615618,fast_food,-97.7921861,Wendy's
+30.1031974,recycling,-97.7500156,Texas Disposal Systems (MRF)
+30.4020038,pharmacy,-97.7477385,Randalls Pharmacy
+30.3138337,cafe,-97.7199873,Flightpath Coffee House
+30.3127083,restaurant,-97.7150011,House Pizzeria
+30.3071695,restaurant,-97.7248904,Juiceland
+30.4527669,fast_food,-97.8263641,Jersey Mike's Subs
+30.6534114,fuel,-97.6781984,Phillips 66
+30.6524661,fuel,-97.6788447,Shell
+30.6425772,restaurant,-97.685373,Chili's
+30.640896,bank,-97.6868876,United Heritage Credit Union
+30.6396752,fast_food,-97.6877219,Schlotzsky's Deli
+30.639235,fast_food,-97.6879107,Burger King
+30.6327793,fuel,-97.6898474,Shell
+30.6204483,fast_food,-97.6909192,Jack in the Box
+30.6218798,fuel,-97.6884025,Exxon
+30.6200658,fuel,-97.6923808,Tetco
+30.619898,fuel,-97.6931421,Chevron
+30.5398312,restaurant,-97.6932152,Mesa Rosa Mexican Restaurant
+30.5380216,restaurant,-97.6943845,Bennigan's Restaurant
+30.5380164,restaurant,-97.6932943,Denny's Restaurant
+30.5371614,restaurant,-97.6937267,Cardonia's Restaurant
+30.5363641,fuel,-97.6937085,Phillips 66
+30.5351786,restaurant,-97.6942261,Cracker Barrel
+30.5385042,restaurant,-97.6932334,Summer Palace
+30.5345754,restaurant,-97.6932761,Chuy's
+30.5338095,restaurant,-97.6930386,Saltgrass Steak House
+30.5291933,restaurant,-97.6918084,IHOP
+30.5284694,fuel,-97.691376,Shell
+30.5296182,restaurant,-97.6901458,Fuddrucker's
+30.524173,fast_food,-97.6889826,Arby's
+30.5164976,fast_food,-97.6893053,Starbucks
+30.5161461,fast_food,-97.6892384,Popeye's Chicken
+30.5173633,fast_food,-97.6893419,Taco Bell
+30.5169698,fast_food,-97.6862055,Dairy Queen
+30.5170585,fast_food,-97.685685,Short Stop
+30.5171797,fast_food,-97.6851824,Long John Silver Seafood
+30.5102915,fuel,-97.687429,BP
+30.5105604,fast_food,-97.6879003,Wendy's
+30.5101333,fuel,-97.6853297,Shell
+30.5161934,fuel,-97.6868571,Shell
+30.517588,fuel,-97.6912817,BP
+30.5174909,fast_food,-97.6916632,Wendy's
+30.4877891,bank,-97.6780044,Wells Fargo Bank
+30.487143,restaurant,-97.6746272,Joe's Crab Shack
+30.4856879,restaurant,-97.674562,Macaroni Grill
+30.4564922,fuel,-97.6675625,Chevron
+30.4566711,fast_food,-97.6679386,McDonald's
+30.4553463,fuel,-97.66504,Texaco
+30.4552065,fast_food,-97.6647482,Subway
+30.4438527,restaurant,-97.6668881,Fish Daddy's Seafood
+30.4445403,restaurant,-97.6667973,Chedder's
+30.4414152,fast_food,-97.6695403,KFC
+30.4404144,fuel,-97.6700137,Shell
+30.4338282,restaurant,-97.6707659,IHOP
+30.4250609,fuel,-97.6721796,Valero
+30.4332244,fast_food,-97.6708178,Whataburger
+30.4246471,fuel,-97.6707724,Citgo
+30.4237189,fuel,-97.6709929,Shell
+30.4232324,restaurant,-97.6704546,Baby Acapulco
+30.4225782,fast_food,-97.6709475,McDonald's
+30.4211187,fast_food,-97.6712847,Arby's
+30.4067665,bank,-97.6737345,Bank of America
+30.4060934,fuel,-97.6740054,H-E-B Gas
+30.4049641,restaurant,-97.6740828,Golden Wok
+30.3764544,fuel,-97.6755728,Valero
+30.3752858,restaurant,-97.6729927,Vazquez Mexican Restaurant
+30.3745401,restaurant,-97.6717349,Pizza Hut
+30.3776508,fuel,-97.6764565,Shell
+30.3775284,fuel,-97.6770177,Citgo
+30.3765378,bank,-97.6771531,Wells Fargo
+30.3581602,fuel,-97.687045,Exxon
+30.3582333,fuel,-97.6891559,Chevron
+30.359026,fuel,-97.6886737,Shell
+30.3568054,restaurant,-97.6900028,Los Potrillos
+30.3597624,fuel,-97.6904654,Texaco
+30.3602347,fuel,-97.6914101,Conoco
+30.3377003,restaurant,-97.7020103,Applebee's
+30.3370761,restaurant,-97.7022969,Antonio's Tex-Mex
+30.3333536,fuel,-97.7047075,Conoco
+30.3327913,fuel,-97.7050333,Exxon
+30.3324764,restaurant,-97.7052418,Denny's
+30.3359684,fuel,-97.7012871,Shell
+30.3320996,fast_food,-97.7035413,Burger King
+30.3182934,fuel,-97.7079782,Shell
+30.3161337,restaurant,-97.7083756,Baby Acapulco
+30.3208467,restaurant,-97.7060497,Texas Land & Cattle Steakhouse
+30.3186815,fuel,-97.7066751,Chevron
+30.3132316,fast_food,-97.7073136,McDonald's
+30.3127254,pharmacy,-97.7073722,Walgreen's
+30.2954681,fast_food,-97.718676,Short Stop
+30.2944218,fuel,-97.7193471,Chevron
+30.2954119,fuel,-97.7198553,Shell
+30.2942474,restaurant,-97.7205589,Cafe Hornitos
+30.2886161,restaurant,-97.7230412,Star Seeds Cafe
+30.2872884,restaurant,-97.7250739,Aster's Ethiopian Restaurant
+30.2767055,restaurant,-97.7296476,Denny's
+30.2667855,fuel,-97.7335697,Shell
+30.2662228,fast_food,-97.733687,Wendy's
+30.2644475,fuel,-97.7344171,Chevron
+30.3587097,fast_food,-97.7156957,Taco Cabanna
+30.3759961,fuel,-97.7263411,Texaco
+30.3766234,fuel,-97.7252505,Chevron
+30.415242,bank,-97.7074188,United Heritage Credit Union
+30.4124945,pub,-97.7097916,The Hideout Pub
+30.2398797,restaurant,-97.7531192,New India Cuisine
+30.2394603,bank,-97.7533767,Wells Fargo Bank
+30.2410545,restaurant,-97.7528939,Southside Flying Pizza
+30.2412899,restaurant,-97.7520837,Vinaigrette
+30.23371,restaurant,-97.7930115,Dong Nai
+30.2349266,restaurant,-97.7573033,Habana Restaurant and Bar
+30.3366014,restaurant,-97.7177159,La Preferida Grill
+30.3340239,restaurant,-97.7165344,Arirang
+30.3301392,fuel,-97.7153155,Shell
+30.3291676,fast_food,-97.7152526,Jack in the Box
+30.3236815,bank,-97.7159228,Wells Fargo
+30.3215259,fast_food,-97.714394,Panda Express
+30.3211598,fast_food,-97.7141323,Wendy's
+30.3299172,fuel,-97.7289884,Texaco
+30.33092,fuel,-97.73132,Shell
+30.3258326,fuel,-97.726767,Shell
+30.2325951,restaurant,-97.7406066,Tandoori Bistro
+30.2294109,restaurant,-97.7293306,Java Noodles
+30.3593073,restaurant,-97.7339922,Korea House
+30.2307782,restaurant,-97.8026944,Tien Jin Chinese Restaurant
+30.3361676,restaurant,-97.7210636,Han Yang Market Cafe
+30.2641976,restaurant,-97.7467468,III Forks
+30.2545513,fuel,-97.73721,Chevron
+30.3617837,restaurant,-97.7153938,Sunflower Restaurant
+30.361094,restaurant,-97.7156191,Din Ho Chinese BBQ
+30.2317755,cafe,-97.7592299,Amy's Ice Creams
+30.2331421,restaurant,-97.7586735,El Gallo Mexican Restaurant
+30.2609714,restaurant,-97.7373575,IHOP
+30.2637792,pub,-97.7380295,Moonshine Bar & Grill
+30.2668401,bar,-97.736869,Emo's
+30.267755,bar,-97.7365068,Beer Land
+30.26794,bar,-97.7364445,Red Eyed Fly
+30.2687136,restaurant,-97.7365652,Jaimes Spanish Village
+30.2696184,bar,-97.7363666,Cheer Up Charlie's
+30.2665213,bar,-97.7377332,Flamingo Cantina
+30.2665522,restaurant,-97.7369406,El Sol Y La Luna
+30.2665547,restaurant,-97.7378522,Hoek's Pizza
+30.2665898,bar,-97.7379787,Dirty Dog Bar
+30.266636,bar,-97.7381443,Coyote Ugly
+30.266712,bar,-97.7385615,Pete's Dueling Piano Bar
+30.2670389,restaurant,-97.7386841,Roppolo's Pizza
+30.2671072,bar,-97.7389289,Mooseknuckle
+30.2672622,restaurant,-97.7394843,Iron Cactus
+30.2670792,bar,-97.73981,Blind Pig
+30.267301,cinema,-97.7396232,Alamo Drafthouse Cinema - The Ritz
+30.2673305,fast_food,-97.739729,Roppolo's Pizza
+30.2673492,bar,-97.739796,Shakespeare's
+30.2673807,restaurant,-97.7399087,Old Pecan Street Cafe
+30.2670807,bar,-97.74004,311
+30.2674486,bar,-97.7401125,Vice
+30.2675896,restaurant,-97.7406574,Bikinis Sports Bar & Grill
+30.267299,bar,-97.7405942,Darwin's
+30.2672482,bar,-97.7407594,Soho
+30.2671957,bar,-97.7407252,Chuggin' Monkey
+30.2676222,nightclub,-97.7407745,Parish
+30.2673138,restaurant,-97.7409874,Marisco Grill
+30.2674314,bar,-97.7412007,Buffalo Billiards
+30.2677567,restaurant,-97.7412563,Eureka
+30.2677181,bar,-97.7411179,B. D. Riley's Irish Pub & Restaurant
+30.2680832,restaurant,-97.7421017,Louie's
+30.2685859,bar,-97.7454268,Hi-Lo
+30.2686611,restaurant,-97.7454947,Belmont
+30.2687228,restaurant,-97.745845,Maiko Sushi
+30.268762,bank,-97.7462232,Compass Bank
+30.2696906,bar,-97.7481472,Little Woodrow's
+30.2699721,restaurant,-97.7490098,Union Park
+30.2700147,bar,-97.7491454,Momo's
+30.271858,fast_food,-97.7544087,Amy's Ice Cream
+30.2743545,atm,-97.763779,BBVA Compass
+30.27407,bar,-97.7634339,Donn's Depot
+30.2713381,car_rental,-97.7585847,Enterprise Car Rental
+30.2717214,restaurant,-97.7577953,Juanita's Tacos
+30.2708184,restaurant,-97.7563315,Corazon
+30.2699007,cafe,-97.7540185,Starbucks
+30.2695924,bar,-97.7530788,Tinest Bar in Texas
+30.2687102,atm,-97.7494992,Citi Bank
+30.2661815,bar,-97.7403564,Antone's
+30.2674644,bar,-97.7453298,Lucky Lounge
+30.2671661,restaurant,-97.7440158,Chinatown
+30.2675086,bar,-97.7439557,Roial
+30.2670884,bar,-97.7438191,Gruv
+30.2670626,bar,-97.7435033,Lanai
+30.2673907,pharmacy,-97.7433241,CVS
+30.2667198,bar,-97.7422828,Canvas
+30.2671032,atm,-97.7415445,Prosperity Bank  ATM
+30.2665872,bar,-97.7420908,HandleBar
+30.2662223,restaurant,-97.7405459,Eddie V's
+30.2679988,cafe,-97.7493626,Juan Pelota Cafe
+30.2656731,restaurant,-97.7482531,Malaga Tapas
+30.2654151,restaurant,-97.748667,Leaf
+30.2567056,atm,-97.746684,Wells Fargo ATM
+30.2551397,fast_food,-97.7453102,Thundercloud Subs
+30.2565437,bar,-97.7474697,Ego's
+30.2374831,fast_food,-97.7552424,Red Cap Chick
+30.2269931,fuel,-97.7620977,Shamrock
+30.2266199,restaurant,-97.7622847,El Flaco Cafe
+30.2268623,bar,-97.7615678,Stompin' Grounds Lounge
+30.2530722,fuel,-97.7628834,Texaco
+30.5108476,restaurant,-97.6941667,Teji's Indian Restaurant
+30.5094486,cafe,-97.6798958,Round Rock Donuts
+30.479011,restaurant,-97.6780761,Pho Hoang
+30.4833474,restaurant,-97.6728082,Chola Indian Restaurant
+30.5083173,restaurant,-97.6876569,Sichuan Garden
+30.2612105,bar,-97.7397373,Chain Drive
+30.2643747,bar,-97.7413623,Max's Wine Dive
+30.2641473,restaurant,-97.7414463,Pirana Killer Sushi
+30.2641642,restaurant,-97.7405978,Fogo De Chao
+30.2632742,bar,-97.7409562,Submerged
+30.2636152,restaurant,-97.741057,Fleming's Steakhouse
+30.2634701,restaurant,-97.7417011,Mongolian Grille
+30.2638474,cafe,-97.7418971,Cafe Crepe
+30.2641304,restaurant,-97.7426868,Cedar Door
+30.2747296,fuel,-97.7522018,7-11
+30.277145,fuel,-97.7514959,Conoco
+30.2775856,cafe,-97.7515112,Austin Java
+30.2765454,cafe,-97.7507791,Fete Accompli
+30.2764369,fast_food,-97.7504432,Thundercloud Subs
+30.2767346,restaurant,-97.750411,House Park Bar-B-Que
+30.2763032,restaurant,-97.7486205,Austin Pizza
+30.2706093,restaurant,-97.7495646,Aquarelle Restaurant Français
+30.2699904,restaurant,-97.7510238,Frank & Angie's Pizzeria
+30.2697527,restaurant,-97.7509303,Lucy’s Retired Surfer Bar
+30.2694073,restaurant,-97.7436129,Perry's Steakhouse
+30.2701619,cafe,-97.7432887,The Amsterdam
+30.2703022,fast_food,-97.7417493,Subway
+30.271294,restaurant,-97.7418546,Quattro Gatti Ristorante
+30.2690633,restaurant,-97.7421993,Roaring Fork
+30.2717121,fast_food,-97.7416871,Quiznos Sub Sandwich Restaurant
+30.2668736,bar,-97.7434943,Sky Lounge
+30.2657263,bar,-97.7440439,Cork & Co.
+30.2649307,restaurant,-97.7437197,Copa Bar & Grill
+30.334053,pharmacy,-97.7395024,Walgreens
+30.347507,bar,-97.7354817,Dallas Nightclub
+30.3567746,restaurant,-97.7312443,Barletts
+30.3517455,restaurant,-97.7224631,La Casita
+30.3437298,fuel,-97.7148333,Corner Store
+30.3402742,restaurant,-97.716974,Carnes n Pollos
+30.3366404,pharmacy,-97.7203949,Walgreens
+30.336002,car_rental,-97.7194277,Enterprise Car Rental
+30.3337186,bar,-97.721924,Yellow Rose
+30.3323742,restaurant,-97.722685,Threadgill's
+30.3236878,fast_food,-97.7283249,McDonald's
+30.3212445,fuel,-97.728965,Phillips 66
+30.3188317,fuel,-97.7305297,7-11
+30.3133675,restaurant,-97.7383672,Chili's
+30.3123606,fast_food,-97.7386659,Chipotle Mexican Grill
+30.3089652,pharmacy,-97.741148,Peoples Pharmacy
+30.3041548,fuel,-97.7435652,Valero
+30.302703,cafe,-97.7452903,34th St Cafe
+30.3087503,fuel,-97.7153206,Shamrock
+30.3033701,restaurant,-97.7446209,La Madeleine
+30.3077757,fuel,-97.7154407,Shell
+30.3097277,restaurant,-97.7152858,Jalapeno Joe's
+30.3107651,restaurant,-97.7151814,Potro Salvage Bar & Grill
+30.3168803,restaurant,-97.7140493,Burger Tex
+30.3508346,fuel,-97.7085908,Texaco
+30.3541419,fuel,-97.7042034,Chevron
+30.3555871,fast_food,-97.7032735,Jack in the Box
+30.3550729,restaurant,-97.7029139,Tacos Y Mas
+30.3563231,fast_food,-97.7021946,Dairy Queen
+30.3581007,fuel,-97.7003142,7-11
+30.3579589,fuel,-97.6996515,Food Mart
+30.3584687,restaurant,-97.6992611,Mandarin House
+30.3616028,fast_food,-97.6974372,KFC
+30.3626623,fast_food,-97.6967642,Sonic Drive-in
+30.363181,fuel,-97.6963737,H-E-B Gas
+30.3641562,restaurant,-97.6960244,El Tacolote
+30.3652156,fast_food,-97.695449,Burger King
+30.36565,fast_food,-97.6959165,Golden Chick
+30.3674231,restaurant,-97.6951921,Golden Corral
+30.3675207,fast_food,-97.6940413,Wendy's
+30.3684825,bank,-97.6944985,Wells Fargo
+30.3679329,fast_food,-97.6937998,Popeye's
+30.3682423,bank,-97.6936153,Chase Bank
+30.3701649,restaurant,-97.6936258,T&S Chinese
+30.3707566,fuel,-97.692279,7-11
+30.3739964,fuel,-97.6912275,Shell
+30.3737944,bar,-97.6905616,El Tajuana Bar
+30.3751992,restaurant,-97.6906032,Chuy's
+30.3800463,fuel,-97.6878512,Shamrock
+30.4133516,fast_food,-97.6896142,KFC
+30.4131703,bank,-97.6890218,Chase Bank
+30.4110771,bank,-97.687426,Wells Fargo
+30.4118353,restaurant,-97.6749178,Red Robin
+30.4172896,restaurant,-97.6718576,Chili's
+30.4168087,restaurant,-97.6718721,Johnny Carino's Italian
+30.4142322,fast_food,-97.6721437,Chick-fil-A
+30.4130868,bank,-97.6913641,1st National Bank
+30.4133557,restaurant,-97.6919876,Ryan's
+30.4137717,fast_food,-97.6928189,Taco Bell
+30.4153143,fuel,-97.6957915,Chevron
+30.4160088,fuel,-97.6955985,Texaco
+30.4148791,fast_food,-97.6961329,Sonic Drive-in
+30.418322,fast_food,-97.7020169,Panda Express
+30.4162809,restaurant,-97.6978215,Pok-E-Joe's BBQ
+30.4462553,bar,-97.8068296,Anderson Mill Tavern
+30.4608074,cafe,-97.7946052,Starbucks
+30.4783171,fast_food,-97.8005447,Chipotle Mexican Grill
+30.4779627,restaurant,-97.8004142,Mama Fu's
+30.4473524,restaurant,-97.787084,Kerby Lane Cafe
+30.4474424,fast_food,-97.7890946,Jimmy John's
+30.4459454,restaurant,-97.7858306,Double Dave's Pizza
+30.4463338,fast_food,-97.7863855,Quizno's
+30.44043,bank,-97.7791851,A+ Credit Union
+30.3483353,cafe,-97.5584251,Cafe 290
+30.3490389,fuel,-97.5578619,Shell
+30.3491768,fast_food,-97.5583663,Subway
+30.3484151,restaurant,-97.5568616,Texas Traditional BBQ
+30.3485529,fuel,-97.5562228,Valero
+30.3483861,fast_food,-97.5552225,Sonic Drive-in
+30.340849,restaurant,-97.5570466,Ramos Mexican
+30.3414946,restaurant,-97.5573996,La Mexica
+30.3484514,restaurant,-97.5589126,La Plaza Mexican
+30.3515648,fuel,-97.4155934,Valero
+30.3526645,fuel,-97.4113796,Exxon
+30.3497977,restaurant,-97.3861835,Southside Market & BBQ
+30.349104,fast_food,-97.3853203,Sonic
+30.3508025,fuel,-97.4748949,Shell
+30.3486633,fuel,-97.3847528,Shell
+30.3482911,fast_food,-97.3845599,Dairy Queen
+30.3482813,restaurant,-97.3833342,Guadalajara
+30.347919,fuel,-97.3827895,Citgo
+30.3465414,pharmacy,-97.3840632,H-E-B
+30.3406517,fast_food,-97.3755943,Golden Chick
+30.3375566,fast_food,-97.3724393,McDonald's
+30.3371648,fuel,-97.3713385,Exxon
+30.3368823,restaurant,-97.3702109,Meyer's Elgin Smokehouse
+30.3340114,fuel,-97.3607346,Texaco
+30.3116924,fuel,-97.3057563,Chevron
+30.2945066,fuel,-97.2578462,Valero
+30.356038,fuel,-97.3839566,Shell
+30.35345,fuel,-97.3749301,Citgo
+30.3517483,fuel,-97.3717127,Shell
+30.3499259,bank,-97.3710512,First State Bank
+30.3492372,pub,-97.3708152,Quoffer's Pub
+30.3480178,cafe,-97.3703245,City Cafe
+30.3466295,restaurant,-97.370191,Superior Burger Bar
+30.3463668,restaurant,-97.3696382,El Maguey
+30.3450348,fuel,-97.3690978,Texaco
+30.3453189,restaurant,-97.3707872,Crosstown Bar-B-Que
+30.3458657,cafe,-97.3710233,Regulators Sports Bar & Grill
+30.3506044,bank,-97.3883961,First National Bank
+30.2828809,restaurant,-97.7422633,Bite Mi
+30.2896647,restaurant,-97.7415713,Madam Mam's Noodles and More
+30.2307085,restaurant,-97.7348261,Hai Ky
+30.4307673,restaurant,-97.7638954,Dimassi's Mediterranean Buffet
+30.2829388,cafe,-97.7449006,Conscious Cravings
+30.2833706,food_court,-97.7413868,Dobie Tower Food Court
+30.2874594,fast_food,-97.7369076,Double Dave's Pizza Stand
+30.2637439,restaurant,-97.7248744,Casa Colombia
+30.2600696,restaurant,-97.7121017,El Zunzal
+30.2666443,bar,-97.74564,Rain
+30.2665655,bar,-97.7453718,Oilcan Harry's
+30.2704018,bar,-97.7443955,Iron Bear
+30.266973,cafe,-97.7456939,Halcyon
+30.2285706,bar,-97.7824989,Town n Country
+30.4445996,restaurant,-97.6646566,Machu Picchu
+30.4472402,restaurant,-97.7909658,Tino's Greek Cafe
+30.4322486,restaurant,-97.7709847,Chen's Noodle House
+30.4462736,restaurant,-97.7910141,Reale's Italian Cafe
+30.4449463,restaurant,-97.7889917,Hoover's Cooking
+30.34478,place_of_worship,-97.5425405,Eternal Faith Baptist Church
+30.3729305,restaurant,-97.7241083,Madras Pavilion
+30.3734303,restaurant,-97.7247091,Mikado Ryotei
+30.3736062,restaurant,-97.7255031,Thai House
+30.240435,restaurant,-97.7532506,Lucy's Fried Chicken
+30.336925,atm,-97.7569077,Chase ATM
+30.3179356,bar,-97.7222217,The Tigress
+30.3174559,restaurant,-97.7221123,Phara's
+30.2649108,cafe,-97.746939,Austin Java Cafe and Coffeehouse
+30.553759,restaurant,-97.855123,Luigi's
+30.5417381,place_of_worship,-97.8627619,Crystal Lake Baptist Church
+30.5565677,car_wash,-97.8478542,Connie's Car Wash
+30.560307,library,-97.8622362,Leander Public Library
+30.3947579,restaurant,-97.7277708,Sushi Zushi
+30.5008326,place_of_worship,-97.6985073,Baitul Muqeet Mosque
+30.3586809,fast_food,-97.7370696,Whataburger
+30.3581318,bank,-97.7363386,Chase Bank
+30.3690209,bar,-97.7271659,Buddy's Place
+30.428848,fast_food,-97.7603887,Subway
+30.4306811,restaurant,-97.7643416,Mongolian Grille
+30.4253904,veterinary,-97.7530864,Emergency Animal Clinic
+30.5682069,fuel,-97.432901,Texaco
+30.5677976,fast_food,-97.4278057,Golden Chick
+30.5675966,cafe,-97.4215263,West End Cafe
+30.5680777,fuel,-97.4199752,Shamrock
+30.5675966,restaurant,-97.4237612,Randy's Ice House
+30.5719153,fuel,-97.4101501,Shell
+30.5729544,fuel,-97.4096696,Citgo
+30.5829122,pharmacy,-97.4103373,Walgreens
+30.582575,pharmacy,-97.4118661,CVS
+30.581199,fuel,-97.4106026,Texaco
+30.5842859,fuel,-97.4109096,Shell
+30.5846107,fast_food,-97.4117438,Dairy Queen
+30.5868609,fast_food,-97.4120493,Taco Bell
+30.5875549,restaurant,-97.4121257,Pizza Hut
+30.583839,fast_food,-97.4105502,Sonic
+30.5897905,fast_food,-97.4124821,McDonald's
+30.5943929,fast_food,-97.4132544,Jack in the Box
+30.5959805,restaurant,-97.4153544,Sirloin Stockade
+30.2366541,fast_food,-97.7938223,Freebird's Burrito
+30.249266,restaurant,-97.7688081,Lick Ice Creams
+30.2475073,restaurant,-97.7693418,The Flying Carpet: Moroccan Food
+30.358607,restaurant,-97.7346045,ChenZ (Hotpot and Noodles)
+30.495589,school,-97.7389169,Great Oaks Elementary
+30.3586499,restaurant,-97.7350186,Cover 3
+30.3585851,restaurant,-97.7349059,Chipotle Mexican Grill
+30.359865,cafe,-97.7379073,Starbucks
+30.3578376,restaurant,-97.7329828,Pho Thaison Vietnamese Cuisine
+29.9960433,cafe,-98.0966771,Wimberley cafe
+29.99543,restaurant,-98.0940592,Burger Barn
+29.9968052,restaurant,-98.0960763,Ino'z Brew N Chew
+29.9959132,restaurant,-98.0961835,Cypress Creek
+30.2012416,cafe,-97.7684727,Starbucks Coffee Company
+30.413123,fast_food,-97.6878686,Subway
+30.4193127,bar,-97.7056784,Weirdo's
+30.4121422,fast_food,-97.6907063,Taco Shack
+30.4121329,fast_food,-97.6900143,Wing stop
+30.4143397,fast_food,-97.689156,Food Shui
+30.4143859,fast_food,-97.6892901,Domino's Pizza
+30.4219911,restaurant,-97.7023364,Thundercloud subs
+30.4143996,restaurant,-97.6893674,Original Pancake house
+30.4158015,fast_food,-97.6978625,Curry in a hurry
+30.4143165,police,-97.6962902,Austin PD North
+30.4120497,fast_food,-97.6897354,Which Witch
+30.4155934,fast_food,-97.6972402,Gatti's
+30.4221253,restaurant,-97.7018858,Thomas Super Buffet
+30.4132895,cafe,-97.688169,starbucks
+30.4145108,pharmacy,-97.6903469,Walgreens
+30.413086,fast_food,-97.6876111,Chipotle
+30.6190753,restaurant,-97.6940997,Paisano's Trattoria & Pizzeria
+30.6194631,veterinary,-97.6930912,Animal Hospital of Georgetown
+30.6376225,townhall,-97.6768585,Georgetown City Hall
+30.6376225,townhall,-97.6768585,Georgetown City Hall
+30.633473,restaurant,-97.6773627,Dos Salsas
+30.6361086,police,-97.6805707,Georgetown Police Station
+30.4461485,restaurant,-97.6854136,La Brisa
+30.4463104,restaurant,-97.6856175,Four Seasons
+30.4354046,fuel,-97.6749322,Valero
+30.2085208,restaurant,-97.9726176,Nutty Brown Cafe
+30.4188075,cafe,-97.7027767,Starbucks
+30.428533,pub,-97.7499012,Riatta Bar and Grill
+30.4035652,school,-97.7046332,Austin Community College
+30.4287281,cafe,-97.7504309,Minh's Cafe
+30.4237171,restaurant,-97.7020476,Opal Divine's Marina
+30.4195631,fire_station,-97.7013073,Austin Fire Station 28
+30.2306304,pub,-97.8177903,Doc's Backyard
+30.4081193,fuel,-97.6975439,Exxon
+30.407853,fuel,-97.6967251,Shell
+30.4075433,restaurant,-97.697678,Pizza Paradise
+30.4030836,restaurant,-97.7237057,The Park
+30.4023299,restaurant,-97.7260086,North
+30.4003772,restaurant,-97.7270333,California Pizza Kitchen
+30.4562471,restaurant,-97.6611781,Thundercloud Sub
+30.4181803,restaurant,-97.6703209,Masala Wok
+30.4178741,restaurant,-97.6703627,Freebirds
+30.2608187,bar,-97.7382003,Bar 96
+30.2655291,restaurant,-97.7454598,Cantina Laredo
+30.2699463,bar,-97.7502351,Dogwood
+30.2702132,bar,-97.7499377,The Brew Exchange
+30.2703034,bar,-97.7502191,J Blacks
+30.2697777,bar,-97.7493957,Key Bar
+30.2702734,bar,-97.750077,The Ranch
+30.4387946,restaurant,-97.6712342,Inka Chicken
+30.197263,pharmacy,-97.9983351,CVS Pharmacy
+30.229395,fast_food,-97.8208935,Subway
+30.4393668,restaurant,-97.697154,Taco Bell
+30.4394456,pharmacy,-97.6963869,Walgreens
+30.4392675,restaurant,-97.6977361,McDonalds
+30.4470142,fast_food,-97.6383816,Taco Bell
+30.2008383,fast_food,-97.8758011,Subway
+30.3448199,swimming_pool,-97.9116073,Bella Mar Pool
+30.3445067,swimming_pool,-97.9116105,Bella Mar Splash Pool
+30.2112289,car_wash,-97.9674033,Cedar Valley Car Wash
+30.211259,fuel,-97.968031,Exxon, Cedar Valley Grocery
+30.2127031,fast_food,-97.9665585,Sonic Drive-in
+30.1921615,pharmacy,-98.0849498,Dripping Springs Pharmacy
+30.2110572,fuel,-97.9679203,Cedar Valley Grocery
+30.1911891,fast_food,-98.0841838,Sonic
+30.462725,restaurant,-97.8156287,Taqueria Guadalajara
+30.4620895,fuel,-97.8175227,Valero
+30.4622885,fast_food,-97.8172121,Mr. Gatti's Pizza
+30.4572382,pharmacy,-97.8228024,CVS
+30.4568981,bank,-97.8235243,Compass Bank
+30.458063,bank,-97.8238685,Capital One
+30.4569343,restaurant,-97.8252325,Johnny Carino's Italian
+30.4564604,fast_food,-97.8256563,Wendy's
+30.4588409,pharmacy,-97.8232515,Walgreens
+30.4561625,bank,-97.8243497,Wells Fargo
+30.4946608,fast_food,-97.6767258,Cici's Pizza
+30.2036296,restaurant,-97.9841317,Trudy's
+30.4649031,school,-97.643599,Windermere Primary School
+30.4674831,swimming_pool,-97.6399297,Windermere HOA North Pool
+30.1909686,fast_food,-98.0864458,Taco Bell
+30.1967912,fuel,-98.0002296,Polo Club Shell
+30.1967958,fast_food,-98.0005246,Burger King
+30.1969581,car_wash,-98.0006265,Polo Club Shell Car Wash
+30.3549623,fuel,-97.9603062,Exxon
+30.3493055,fuel,-97.9632432,Shell
+30.2367204,fuel,-97.8777383,Exxon
+30.2416793,fuel,-97.8811581,Valero
+30.2429144,fast_food,-97.8823329,Sonic
+30.2357219,car_rental,-97.8743993,Avis & Budget
+30.2295451,fuel,-97.8880717,Exxon
+30.2346898,fuel,-97.9116295,Texaco
+30.2307409,fuel,-97.9345061,Valero
+30.2283864,fuel,-97.9419009,Circle K
+30.2219597,fuel,-97.9565539,Chevron
+30.4002542,restaurant,-97.7264025,Cake Ball
+30.2329709,fast_food,-97.8248598,Chick-fil-A
+30.2140419,fuel,-97.8297857,Chevron
+30.2133512,fuel,-97.8302203,Exxon
+30.2314411,bus_station,-97.883233,Acc Pinnacle South Entrance
+30.2317794,school,-97.8834154,Austin Community College Book Store
+30.2269576,hospital,-97.8916002,Seaton Southwest Hospital
+30.201837,bank,-97.8805281,Wells Fargo
+30.201596,restaurant,-97.879981,Santa Rita Cantina
+30.2475166,fuel,-97.8886391,Shell
+30.1941065,fuel,-97.9240349,Shamrock
+30.1929566,fuel,-97.9252366,Texaco
+30.1932609,swimming_pool,-97.8851978,Swimming Pool
+30.2980674,restaurant,-98.0071148,Verdes Mexican Parilla
+30.3089941,school,-97.9681913,Bee Cave Elementary
+30.4929881,place_of_worship,-97.735683,The Church of Jesus Christ of Latter-day Saints
+30.4956367,fire_station,-97.7339986,Sam Bass Fire Department
+30.4857167,car_wash,-97.7330974,Sparkling Carwash
+30.3558501,restaurant,-97.7334559,Noodles & Company
+30.3529801,bank,-97.7335632,Chase
+30.5043208,school,-97.7518491,Patsy Sommer Elementary School
+30.5105741,school,-97.7382066,Kids Day Out
+30.5105002,place_of_worship,-97.7379389,Hope Bible Fellowship
+30.4582826,restaurant,-97.8222758,Noble Pig
+30.509222,library,-97.6770802,Round Rock Public Library
+30.5083393,townhall,-97.6767866,Round Rock City Hall
+30.5083127,parking,-97.6774133,Downtown Parking Garage
+30.3069716,post_office,-97.7299647,Post Office 78751
+30.2841449,cafe,-97.7183747,El Chilito Cafe y Cantina
+30.279883,restaurant,-97.7216818,Connie's Beergarden
+30.5095138,swimming_pool,-97.6682684,Lake Creek Pool
+30.5063452,parking,-97.6816847,Baca Center Parking Garage
+30.2626488,restaurant,-97.7275384,Nuevo Leon
+30.264933,bar,-97.7316207,Shangri La
+30.2648358,restaurant,-97.7313123,East Side Showroom
+30.2641778,restaurant,-97.7302877,Buenos Aires Cafe
+30.4413985,bus_station,-97.6654778,1426 Wells Branch ID 5764
+30.3883139,fast_food,-97.7430177,Taco Cabana
+30.3599589,restaurant,-97.7365175,Star of India
+30.3575762,restaurant,-97.7330568,Hopdoddy
+30.2635619,restaurant,-97.8155379,Rudy's Texas Bar-B-Q
+30.1979035,fuel,-98.1070566,Valero
+30.4612378,fast_food,-97.8162453,Papa Murphy's
+30.481681,cafe,-97.83424,Starbucks 
+30.306775,restaurant,-97.74429,Santa Rita
+30.203463,restaurant,-97.878863,Waterloo Ice House
+30.3041725,restaurant,-97.7267211,Hyde Park Bar and Grill
+30.3920958,post_office,-97.7057356,Bluebonnet Station
+30.3897041,pharmacy,-97.7398979,First Leap
+30.315053,restaurant,-97.734436,Mama Fu's
+30.315328,fast_food,-97.732985,Which Wich
+30.5298543,restaurant,-97.8142911,Rosie's Pho
+30.529815,restaurant,-97.8144172,Spicy Pickle
+30.5297688,restaurant,-97.8145647,Naanful Indian Grill
+30.5297133,restaurant,-97.8147443,Talaria
+30.3278513,cafe,-97.7394766,Monkey Nest
+30.3187523,pub,-97.7390631,Pinthouse Pizza
+30.2155487,school,-97.7468045,American Youthworks Charter School
+30.3188334,school,-97.6900755,Austin Achieve Public School (charter)
+30.5808907,swimming_pool,-97.4149021,Taylor Public Pool
+30.5828973,restaurant,-97.4131104,Gatti's Pizza
+30.5988934,school,-97.4287504,Taylor Middle School
+30.600057,fuel,-97.4180993,Murphy USA
+30.5001476,fuel,-97.6856736,7-Eleven
+30.509396,fast_food,-97.6871167,McDonald's
+30.509983,fast_food,-97.6884259,Freddy's
+30.5104775,fast_food,-97.6941011,Hoody's Subs
+30.5132643,fuel,-97.701901,Murphy's USA
+30.4457807,place_of_worship,-97.7325855,CrossPointe Church
+30.4461183,swimming_pool,-97.7335082,YMCA
+30.5176269,restaurant,-97.6672683,Little Red Wagon
+30.5180382,fuel,-97.6510517,Murphy's USA
+30.5415993,bank,-97.5582634,Wells Fargo
+30.5419134,bank,-97.5557421,Chase
+30.542782,fuel,-97.549927,Wag a Bag
+30.5431886,fuel,-97.5479368,Shell
+30.2860744,cafe,-97.7411185,Starbucks
+30.3891259,restaurant,-97.7529303,Z Tejas
+30.3910138,fast_food,-97.7485103,Amy's Ice Cream
+30.4171381,fuel,-97.7459034,Shell
+30.416539,fuel,-97.7457076,Texaco
+30.4141938,fuel,-97.7466757,Shell
+30.287522,bank,-97.741847,Wells Fargo
+30.287202,fast_food,-97.741877,Which Wich
+30.5562755,restaurant,-97.6879,Mighty Fine Burgers
+30.5566271,restaurant,-97.688029,Razoo's
+30.5565063,fast_food,-97.6879665,Which Wich
+30.5556137,restaurant,-97.6871945,Tarka
+30.2181654,fuel,-97.6890941,EXXON
+30.2956596,hospital,-97.8265122,The Hospital at Westlake Medical Center
+30.4522736,fast_food,-97.8268734,Papa Johns
+30.4529766,fast_food,-97.8275976,Torchy's Tacos
+30.3178517,bar,-97.7219593,Workhorse
+30.3172224,bar,-97.7206057,Drink Well
+30.2204769,restaurant,-97.7649008,Taqueria Chapala
+30.2241986,pub,-97.7674191,Bender Bar & Grill
+30.26351,fast_food,-97.758054,Schlotzsky's Deli
+30.2124361,swimming_pool,-97.7996921,Garrison Municipal Pool
+30.2008362,place_of_worship,-97.7929784,St. Andrew Kim Taegon Korean Church
+30.267202,restaurant,-97.740299,parkside
+30.265449,cafe,-97.740414,Starbucks
+30.265402,restaurant,-97.740157,Champions
+30.264266,restaurant,-97.741411,Mai Thai
+30.2661445,restaurant,-97.7402089,Russian House
+30.2733309,restaurant,-97.8007345,Thundercloud Subs
+30.280724,restaurant,-97.8069902,Texas Honey Ham
+30.2720214,post_office,-97.7999092,US Post Office
+30.2107183,restaurant,-97.96827,Pieous Pizza
+30.3571148,restaurant,-97.7857151,County Line on the Lake
+30.3359491,bank,-97.756927,Bank of America
+30.3348287,bank,-97.8079104,Bank of America
+30.3385048,restaurant,-97.75572,McDonalds
+30.3427145,fuel,-97.7635783,Shell
+30.3546718,cafe,-97.7563416,Starbucks
+30.3534637,atm,-97.7538646,Bank of America
+30.3546209,restaurant,-97.7563751,Quizno's Far West
+30.370864,fast_food,-97.7562015,Torchy's Tacos
+30.370621,restaurant,-97.7585108,Mangia Pizza
+30.3928794,restaurant,-97.7493748,Zoë's Kitchen
+30.4616148,restaurant,-98.1585502,Opie's Barbecue
+30.462031,fuel,-98.159666,Spicewood General Store
+30.4723418,library,-98.1564259,Spicewood Library
+30.4628448,post_office,-98.1589149,Spicewood, TX Post Office
+30.4581283,fire_station,-98.1562864,Spicewood VFD
+30.414722,fast_food,-97.705385,P. Terry's Burger Stand
+30.5118944,fuel,-97.6989656,Shell
+30.5163022,school,-97.7200111,Fern Bluff Elementary School
+30.1742901,fuel,-97.8258273,H-E-B Gas
+30.2647951,restaurant,-97.7415886,Uncle Julio's
+30.173261,fuel,-97.823473,Exxon
+30.2129341,fast_food,-97.8295451,Taco Bell
+30.1674545,fuel,-97.7879525,Valero Corner Store
+30.1676447,restaurant,-97.7899105,Bill Miller Bar-BQ
+30.1669235,fast_food,-97.7914099,Sonic
+30.1676447,fast_food,-97.7942745,Wendy's
+30.1660655,fast_food,-97.791603,Taco Bell
+30.1653559,fast_food,-97.7881832,Jack in The box
+30.1656017,cafe,-97.788159,Starbucks Coffee
+30.2310115,fast_food,-97.9342445,Subway
+30.2420511,fast_food,-97.8814318,Domino's Pizza
+30.1977649,fast_food,-98.1072939,Subway
+30.2925232,swimming_pool,-97.7026339,Ella Wooten Pool
+30.1615175,fuel,-97.9528518,Shell
+30.4255201,restaurant,-97.7169501,Tomodachi Sushi
+30.2322449,restaurant,-97.8165095,Long Horn Steak House
+30.2316562,restaurant,-97.8168528,BJ's Restaurant
+30.2261499,restaurant,-97.8195833,Fire Bowl Cafe
+30.4124069,fuel,-97.9266104,Hudson Bend Grocery
+30.411828,restaurant,-97.9271922,Don Marios
+30.4119483,restaurant,-97.9263741,Los Pinos
+30.4119737,bar,-97.927152,Frogs
+30.399377,fire_station,-97.6532374,Station 40
+30.3383262,pub,-97.718977,Black Star Co-op
+30.2700107,restaurant,-97.7418634,Chipotle Mexican Grill
+30.2692949,restaurant,-97.7425595,Cozzoli's Pizza
+30.399806,swimming_pool,-97.6831651,Swimming Pool
+30.2958404,fuel,-97.829919,Speedy Stop
+30.2996283,fuel,-97.8376102,Chevron Gas
+30.3035292,fuel,-97.8397774,Texaco Gas
+30.284794,bar,-97.7175883,Haymaker
+30.4589873,restaurant,-97.7906478,China Cafe
+30.2333843,fast_food,-97.865981,Subway
+30.2732409,cafe,-97.8005516,Trianon Coffee
+30.2216291,bank,-97.8389963,Frost Bank
+30.2935486,cafe,-97.7160528,Cherrywood Coffee House
+30.2344867,fast_food,-97.8741168,Little Caesars
+30.5318732,dentist,-97.7800583,G' Dental
+30.2338174,bank,-97.877044,Wells Fargo
+30.3636375,dentist,-97.7189262,Lone Star Pediatric Dental
+30.365968,fast_food,-97.7192638,Mi Casa
+30.3701302,cafe,-97.7213963,Mikki's Replay Cafe
+30.3823129,fast_food,-97.7232496,Phở Hồng
+30.3659072,restaurant,-97.7198348,Sea Dragon
+30.3754796,fast_food,-97.729333,Texas Steak Out
+30.3928192,post_office,-97.7260586,The UPS Store
+30.3723167,restaurant,-97.7271869,chili's
+30.3714622,car_rental,-97.7277035,Avis/Budget
+30.4020096,fast_food,-97.7466265,Austin's Pizza
+30.4012408,fast_food,-97.7466002,Jimmy John's
+30.401983,cafe,-97.7468743,Starbucks
+30.4019782,cafe,-97.7469768,Signature Cafe
+30.2362004,restaurant,-97.8218194,Serranos
+30.2351785,restaurant,-97.8210362,Applebee's
+30.2292042,restaurant,-97.8210603,Chipotle Mexican Grill
+30.2271439,fast_food,-97.8211274,Mighty Fine Burgers
+30.4452627,restaurant,-97.744627,Ajishin
+30.4475799,fast_food,-97.8108431,Crown Donuts
+30.444632,restaurant,-97.7442635,Margaritas
+30.3595801,cafe,-97.7356985,San Francisco Bakery & Cafe
+30.4442311,fast_food,-97.7440021,Schlotzsky's Deli
+30.4475633,fast_food,-97.8112295,Subway
+30.1903804,public_building,-97.768019,Texas DPS Drivers License Office
+30.1908805,fast_food,-97.7690657,Taco Bell
+30.1912415,fast_food,-97.7688112,McDonald's
+30.190619,fuel,-97.7693058,Exxon
+30.1884983,fast_food,-97.7668403,Sonic
+30.1898334,fast_food,-98.0821857,Thundercloud Subs
+30.1908471,car_wash,-98.0822099,H-E-B Car Wash
+30.4102678,restaurant,-97.6758278,Ho Ho Chinese B.B.Q.
+30.4382624,restaurant,-97.7588431,SONIC Drive-In
+30.1897762,fast_food,-98.0824708,Hill Country Ranch Pizzeria
+30.1947451,restaurant,-98.103067,RailRoad BBQ
+30.4437848,fuel,-97.8325137,Chevron
+30.4802439,bank,-97.6601008,Chase
+30.0046371,fuel,-98.1021714,Exxon
+30.0016901,fuel,-98.1015304,Shamrock
+30.2914546,bank,-97.8252439,Chase Bank
+30.2743682,fast_food,-97.8016479,Howdy Donuts
+30.2805964,fast_food,-97.8068663,subway
+30.45029,fuel,-97.6948872,Fasttrends Inc.
+30.192444,post_office,-98.0853713,The UPS Store
+30.2586145,restaurant,-97.7385885,Art of Tacos
+30.4753446,cinema,-97.8040159,Alamo Drafthouse Cinema
+30.284113,place_of_worship,-97.7094305,Redeemer Presbyterian Church
+30.3733402,fast_food,-97.7283718,Big Daddy's
+30.3480396,restaurant,-97.7147153,El Nuevo Mexico
+30.3731148,fast_food,-97.7285118,Subway
+30.348118,restaurant,-97.7148774,888 Restaurant
+30.4340029,restaurant,-97.7722011,Papa Murphy's
+30.4473688,restaurant,-97.7889237,Pei Wei
+30.4335892,library,-97.7728925,Spicewood Springs Library
+30.43416,bank,-97.7721646,Chase
+30.389633,restaurant,-97.7529925,Eddie Z's
+30.3155063,bar,-97.734038,Flying Saucer Pub
+30.1920413,bank,-97.8451031,Austin Telco Community Credit Union - Brodie Lane Branch
+30.3951748,restaurant,-97.7510323,Newk's
+30.357794,fast_food,-97.730943,Donut Crown
+30.3654581,restaurant,-97.7289338,Sarovar
+30.3548047,fast_food,-97.728766,Shipley Do-Nuts
+30.3662779,bar,-97.7291769,Common Interest
+30.5596494,fuel,-97.6889967,H-E-B Gas
+30.5170398,doctors,-97.8526666,Zest Family Practice
+30.1742796,fast_food,-97.8266416,McDonald's
+30.1794926,fuel,-97.8404322,Shell
+30.175059,fast_food,-97.8236443,Popeye's
+30.1754777,fast_food,-97.8234248,Sonic
+30.1759443,fuel,-97.822978,Texaco
+30.1752111,fast_food,-97.8223729,Taco Cabana
+30.1771955,car_wash,-97.8211787,Car Wash
+30.1731629,bank,-97.8245194,Bank of America
+30.1713079,fast_food,-97.8231381,ThunderCloud Subs
+30.1732139,fast_food,-97.8227706,Burger King
+30.1719164,fuel,-97.7995862,TETCO
+30.1709564,car_wash,-97.7985214,Car Wash
+30.1678537,fast_food,-97.7948682,Panda Express
+30.1672971,bank,-97.7937846,Capital One
+30.1668241,bank,-97.7920063,Wells Fargo
+30.1676427,bank,-97.7904291,Chase
+30.1666339,fuel,-97.7890022,Walmart
+30.3003076,pharmacy,-97.7196039,H-E-B Pharmacy
+30.1884873,pharmacy,-97.7692368,H-E-B Pharmacy
+30.2594408,pharmacy,-97.7118318,H-E-B Pharmacy
+30.4344019,pharmacy,-97.7724148,H-E-B Pharmacy
+30.4049837,pharmacy,-97.6723013,H-E-B Pharmacy
+30.4429827,pharmacy,-97.6647791,H-E-B Pharmacy
+30.2391235,pharmacy,-97.755375,H-E-B Pharmacy
+30.2353505,pharmacy,-97.8740286,H-E-B Pharmacy
+30.2027985,pharmacy,-97.8771913,H-E-B Pharmacy
+30.3124268,pharmacy,-97.6649452,H-E-B Pharmacy
+30.1753537,pharmacy,-97.8246195,H-E-B Pharmacy
+30.5224769,pharmacy,-97.8288766,H-E-B Pharmacy
+30.364409,pharmacy,-97.6981724,H-E-B Pharmacy
+30.3986607,pharmacy,-97.7479711,H-E-B Pharmacy
+30.4419262,pharmacy,-97.7424205,H-E-B Pharmacy
+30.403899,pharmacy,-97.8519975,H-E-B Pharmacy
+30.2160177,pharmacy,-97.831538,H-E-B Pharmacy
+30.2919758,pharmacy,-97.825335,H-E-B Pharmacy
+30.1102651,pharmacy,-97.3349892,H-E-B Pharmacy
+30.1896404,pharmacy,-98.0807237,H-E-B Pharmacy
+30.6341271,pharmacy,-97.6888842,H-E-B Pharmacy
+30.2910132,townhall,-97.79964,City of West Lake Hills
+30.2927021,fire_station,-97.7974011,West Lake Hills Fire Station
+30.4184573,place_of_worship,-97.743367,Austin Taiwanese Presbyterian Church
+30.4284769,restaurant,-97.7603485,Yummi's Tacos
+30.4533746,pharmacy,-97.8259343,H-E-B Pharmacy
+30.5835907,pharmacy,-97.8580856,H-E-B Pharmacy
+30.4811289,pharmacy,-97.6598063,H-E-B Pharmacy
+30.5192644,pharmacy,-97.6592832,H-E-B Pharmacy
+30.4989931,pharmacy,-97.6154823,H-E-B Pharmacy
+30.5000498,pharmacy,-97.7230968,H-E-B Pharmacy
+30.5613031,pharmacy,-97.6886212,H-E-B Pharmacy
+30.5593584,car_wash,-97.688868,H-E-B Car Wash
+30.6025326,pharmacy,-97.418048,H-E-B Pharmacy
+30.3246632,restaurant,-97.7402185,Austin Diner
+30.4481657,pharmacy,-97.7881576,Walgreens
+30.2266907,post_office,-97.8215759,FedEx Office Print and Ship Center
+30.227957,restaurant,-97.8207259,Zoës Kitchen
+30.4695534,restaurant,-97.5953842,Chili's
+30.4841289,fast_food,-97.5836917,El Taquito
+30.4639113,fast_food,-97.597549,Jersey Mike's Subs
+30.4664595,dentist,-97.5988964,Kids Dental Smiles
+30.4696718,restaurant,-97.5958785,Morelia
+30.4692596,fast_food,-97.5963832,Russo's New York Pizza
+30.4691241,restaurant,-97.5960728,Shogun
+30.4667109,doctors,-97.5996303,Seton Family of Doctors at Stone Hill
+30.4710063,bank,-97.5946488,RBFCU
+30.4704455,hospital,-97.5949405,St. David's Emergency Center
+30.2348237,fast_food,-97.8265042,Potbelly Sandwich Works
+30.3064625,dentist,-97.9358835,Hill Country Dentists
+30.3668971,dentist,-98.071401,Anderson Dental Clinic
+30.3688082,restaurant,-98.0725218,It's All Good BBQ
+30.3685667,restaurant,-98.0724427,Little Country Diner
+30.3723477,restaurant,-98.0771549,R.O.'s Outpost BBQ
+30.4457069,fast_food,-97.7440855,Chipotle
+30.4456458,fast_food,-97.7440487,Eggroll Express
+30.4454731,pub,-97.7447105,Little Woodrow's
+30.381763,bank,-97.687061,Southwestern National Bank
+30.4043549,dentist,-97.6760208,Tech Ridge Dental
+30.4041786,fast_food,-97.6760338,Winstein Bros Bagels
+30.1959849,fuel,-97.9984957,Valero Corner Store Gas
+30.1878834,library,-97.5605691,Garfield Library
+30.3039924,kindergarten,-97.7649971,Casis Elementary 
+30.2955327,fire_station,-97.7671429,Tarrytown Firestation
+30.244574,parking,-97.8091618,South Barton Creek Greenbelt Parking
+30.2445156,restaurant,-97.7226469,The Unconventional Oven
+30.202475,fuel,-97.638963,Exxon
+30.241132,pharmacy,-97.727009,Walgreens
+30.250154,restaurant,-97.754683,Sway Thai
+30.2455664,restaurant,-97.7305892,Draft Pick
+30.278312,bank,-97.745476,Wells Fargo
+30.278064,cafe,-97.744405,Starbucks
+30.269441,bank,-97.739843,PlainsCapital Bank
+30.269053,bar,-97.741148,CU29 Cocktail Bar
+30.268835,cafe,-97.741283,Slake Cafe
+30.10816,bank,-97.340505,Austin Telco Federal Credit Union
+30.2492274,restaurant,-97.7495768,Home Slice Pizza
+30.2489829,restaurant,-97.7496114,More Home Slice Pizza
+30.2305806,fast_food,-97.7875575,Long John Silver's
+30.420574,fast_food,-97.8464427,Whataburger
+30.4226548,fast_food,-97.8453934,Schlotzsky's Deli
+30.0875655,fast_food,-97.8221888,KFC
+30.0877421,fast_food,-97.822184,Long John Silver's
+30.5324018,pharmacy,-97.7847043,H-E-B Pharmacy
+30.266666,atm,-97.7420565,Bitcoin ATM
+30.5189072,marketplace,-97.6675532,Drip n Rip Vapes Vapor Electronic Cigarettes Shop
+30.2659603,post_office,-97.7432822,FedEx Office Print and Ship Center
+30.2646952,restaurant,-97.7306252,Gonzo Juice
+30.5581678,fuel,-97.8418232,Chevron
+30.2235953,atm,-97.7671829,Bitcoin ATM
+30.262526,fast_food,-97.7575163,Taco Bell
+30.2621525,car_rental,-97.757671,Enterprise
+30.2615766,fast_food,-97.758574,P. Terry's Burger Stand
+30.2612808,fast_food,-97.7579447,Jack in the Box
+30.2541603,fuel,-97.7629578,Exxon
+30.2591718,fuel,-97.7591983,Signature Gas
+30.2540605,fast_food,-97.763031,Papa John's
+30.2386188,fast_food,-97.7885844,In-N-Out Burger
+30.2390684,restaurant,-97.7880157,Golden Corral
+30.2377151,restaurant,-97.7897162,Red Lobster
+30.2363201,bank,-97.7917091,Wells Fargo
+30.3387798,fast_food,-97.7187171,Subway
+30.3309837,fast_food,-97.7234419,Donut Taco Palace 3
+30.4082416,veterinary,-97.7474067,Arbor Animal Clinic
+30.2798438,bar,-97.7421243,Dive
+30.2790333,restaurant,-97.7423871,Clay Pit
+30.2796912,cafe,-97.7419338,Arturo's
+30.3178706,fuel,-97.8637583,Shell
+30.1995433,cinema,-97.8687365,Alamo Drafthouse Cinema
+30.2001043,fast_food,-97.8634901,Wendy's
+30.1991724,pharmacy,-97.8642143,Walgreens
+30.2007436,fast_food,-97.8646246,Which Wich Superior
+30.3412381,restaurant,-97.557858,Big Country Grill
+30.4340281,pharmacy,-97.7712134,Liberty Pharmacy
+30.421222,fast_food,-97.8461319,Chicken Express
+30.3815593,restaurant,-97.9447599,Sobani
+30.1998804,bank,-97.8649381,United Heritage Credit Union
+30.199749,clinic,-97.8710282,Austin Diagnostic Clinic: ADC Circle C
+30.3067206,police,-97.9461972,Bee Cave Police Department
+30.2973142,community_center,-97.7485381,Senior Citizens Center
+30.2771154,restaurant,-97.7130932,Caribbean Food Trailer
+30.2733072,restaurant,-97.7593133,Stubb's
+30.5351325,fast_food,-97.6906905,McDonald's
+30.5364116,restaurant,-97.693856,Rudy's Texas Bar-B-Q
+30.5306218,fast_food,-97.6904136,Gatti's Pizza
+30.5314241,clinic,-97.6902475,Scott & White - Round Rock Nephrology and Dialysis Center
+30.0285237,fuel,-97.8511183,Shell
+30.0280747,fast_food,-97.8514064,Schlotzsky's Deli
+30.4434801,fast_food,-97.7415569,McDonald's
+30.2628814,restaurant,-97.7581779,Flour and Wine
+30.6461776,Fine Wine & Liquor,-97.678988,Twin Liquors #45
+30.2076883,fast_food,-97.8155813,Bamboo Bistro South
+30.4444398,restaurant,-97.7890813,A+A Sichuan China
+30.2360522,fast_food,-97.7952987,Bombay Bistro on South Lamar Boulevard
+30.4992507,restaurant,-97.7776065,Brooklyn Heights Pizzeria
+30.4107653,restaurant,-97.6753659,Hoa My
+30.2306336,restaurant,-97.8172074,IM Thai Cuisine
+30.2869407,cafe,-97.7449912,Fresh Health Cafe
+30.3549924,restaurant,-97.7556362,Indian Palace
+30.193437,restaurant,-97.8429024,Nanami Sushi Bar & Grill
+30.4573699,restaurant,-97.8247654,Nagoya Steak & Sushi
+30.4113764,restaurant,-97.6757528,Chang Thai Thai Cuisine
+30.2828492,restaurant,-97.7422705,Emo's Kitchen
+30.4471357,restaurant,-97.7908518,Nanking Restaurant
+30.2126814,restaurant,-97.8302101,Ocean China Restaurant
+30.4176676,restaurant,-97.7458767,Super China Restaurant
+30.4419354,restaurant,-97.7444107,Prima Pizza Pasta
+30.4929898,restaurant,-97.7269717,Sushi.com
+30.4952762,restaurant,-97.6540163,Thai Spoon
+30.1666541,restaurant,-97.7879909,Thai Passion - South
+30.2867283,restaurant,-97.7449806,Tower Pizza Bistro
+30.2004116,restaurant,-97.7637844,Umi Sushi Bar & Grill
+30.3026246,cafe,-97.7385591,YaYa Cafe
+30.0881794,restaurant,-97.8224767,IM Thai Cuisine Buda
+30.026392,college,-97.8700761,Austin Community College - Hays Campus
+30.1933192,fast_food,-97.7783978,Jack in the Box
+30.1928254,fast_food,-97.7793526,Popeye's
+29.9888745,restaurant,-97.8765374,Texas Pie Company
+30.2008883,yes,-97.8760776,European Wax Center
+30.2004731,post_box,-97.8697628,Austin Mail Express
+30.200414,fast_food,-97.8693671,Zpizza
+30.2003859,cafe,-97.8690854,The coffee Bean
+30.2003352,fast_food,-97.8687809,TCBY
+30.2002029,fast_food,-97.8685106,Burgerfi
+30.2004295,dentist,-97.868636,Matthew Home Dentistry
+30.0140154,fast_food,-97.8588615,Carl's Jr.
+30.235431,fast_food,-97.723558,Burger King
+30.235731,fast_food,-97.724131,McDonald's
+30.242855,fast_food,-97.7296,Church's Chicken
+30.4471751,restaurant,-97.6076416,Great Wall Express
+30.5331048,restaurant,-97.6159718,Great Wall Express
+30.2906805,restaurant,-97.742035,Greengos
+30.48325,fast_food,-97.68188,Chipotle
+30.4833981,cafe,-97.6818121,Fire Bowl Cafe
+30.4834991,restaurant,-97.681747,Wingstop
+30.0978463,fast_food,-97.8757607,Sonic
+30.0982654,fuel,-97.8755017,Shell
+30.0973964,veterinary,-97.8763618,Cornerstone Animal Hospital
+30.0982465,fast_food,-97.875217,Schlotzsky's Deli
+30.2262057,place_of_worship,-97.9495058,Mt. Olive Lutheran Church and Preschool
+30.2214658,bank,-97.9558563,Lone Star Bank
+30.2223583,restaurant,-97.9566888,Taqueria La Escondida 2
+30.2152705,restaurant,-97.7678877,Villa Mexico
+30.3190236,fast_food,-97.7389184,Noble Sandwitch Company
+30.3207944,fast_food,-97.7390559,Sonic
+30.2367199,restaurant,-97.7908699,Pluckers Wing Bar
+30.2379018,clinic,-97.7892431,ProMed
+30.2376538,cafe,-97.7925576,Starbucks
+30.2541778,school,-97.8439959,Regents School of Austin
+30.2371532,restaurant,-97.7922625,Olive Garden
+30.2380402,pharmacy,-97.789089,People's Pharmacy
+30.1426786,fast_food,-97.8336133,Gatti's Pizza
+30.3290494,fuel,-97.6599188,Chevron
+30.3291333,fast_food,-97.6583392,Jack in the Box
+30.3291468,restaurant,-97.6578963,Waffle House
+30.3291779,restaurant,-97.6589922,Bill Miller
+30.3009339,doctors,-97.7211338,Back N Place Chiropractic
+30.3000283,dentist,-97.7210869,Castle Dental
+30.29957,restaurant,-97.7213026,Freebirds World Burrito
+30.3011027,restaurant,-97.7213632,Jason's Deli
+30.2910977,restaurant,-97.7267131,Jimmy John's
+30.2915794,bank,-97.7264185,Wells Fargo
+29.9888001,bar,-97.8760509,Dark Horse Tavern
+30.0871849,fast_food,-97.8213931,Domino's Pizza
+30.088252,restaurant,-97.8224814,Pizza Hut
+30.0863595,fast_food,-97.8228471,Little Caesars
+30.2716654,charging_station,-97.7139776,Charge Point Charging Station
+30.2716895,charging_station,-97.7139788,Charge Point Charging Station
+30.3590366,fast_food,-97.7390572,Jimmy John's Gourmet Sandwiches
+30.3587973,restaurant,-97.7390819,Mr Gatti's Pizza
+30.01341,fast_food,-97.8636046,Little Caesars
+30.3060312,fast_food,-97.7084718,Jamba Juice
+30.305846,fast_food,-97.7080829,WhichWich
+30.3060799,fast_food,-97.7083377,Papa John's
+30.3062603,restaurant,-97.7076229,BoneHeads
+30.3059317,restaurant,-97.7082733,Tinos
+30.3059108,fast_food,-97.7079434,Starbucks
+30.3056758,fast_food,-97.7079979,Chipotle Mexican Grill
+30.3059803,restaurant,-97.7081097,Pad Thai
+30.3130568,fuel,-97.7045351,Shell
+30.312811,fuel,-97.7050096,Texaco
+30.4526411,restaurant,-97.8265282,Rudino's Grinders
+30.462314,restaurant,-97.8140845,R/C Fowler's
+30.4626411,restaurant,-97.815913,Stuffed Cajun
+30.3065723,fast_food,-97.707427,SmashBurger
+30.0890886,fast_food,-97.8173301,McDonald's
+30.0890097,fuel,-97.8173399,Chevron
+30.0122538,fast_food,-97.8623171,Panda Express
+30.0108043,restaurant,-97.8630727,Applebee's
+30.0103926,restaurant,-97.8632811,IHOP
+30.3052153,restaurant,-97.7083208,How do you roll?
+30.0002371,restaurant,-97.8609439,Fox's Pizza Den
+30.3053213,dentist,-97.7082594,Central Texas Pediatric Dentistry
+30.3052153,restaurant,-97.7083208,How do you roll?
+30.3051194,doctors,-97.7083785,Optometrist
+30.3052895,dentist,-97.7082797,Dental Smiles Family and Cosmetic
+30.4889714,place_of_worship,-97.7639164,Saint Vincint de Paul Catholic Church
+30.4823785,fast_food,-97.6724907,Subway
+30.2652141,bus_station,-97.7506665,Seaholm Station Southbound
+30.2839299,restaurant,-97.7421513,Thai How Are You
+30.2839994,restaurant,-97.7421191,Teji's
+30.280221,restaurant,-97.7211343,Austin Daily Press
+30.2292699,fuel,-97.8645769,Exxon
+30.2298762,bank,-97.8634924,A+ Federal Credit Union
+30.2326605,post_office,-97.8648048,PostalAnnex+
+30.2330122,restaurant,-97.865479,Flores Mexican
+30.2331909,car_rental,-97.865562,Hertz Car Rental
+30.0143709,cafe,-97.8586208,Dunkin Donuts,Baskin Robins
+30.4775457,fast_food,-97.6720068,Five Guys
+30.2133613,pharmacy,-97.8572863,Costco
+30.2224344,fast_food,-97.8382427,P. Terry's Burger Stand
+30.2224924,fast_food,-97.8405797,Panda Express
+30.2238387,fuel,-97.8419756,Valero
+30.2236542,fuel,-97.8409474,Shell
+30.2221147,cafe,-97.8373142,Starbucks
+30.2237887,fast_food,-97.8391387,Jersey Mike՚s Subs
+30.2214073,bank,-97.8369565,Chase
+30.3262343,public_building,-97.7246684,Texas DPS Drivers License Office
+30.2436161,restaurant,-97.8826499,Jack Allen's
+30.5172946,restaurant,-97.852787,Glorias Mexican Food
+30.3170802,restaurant,-97.7195557,Foreign & Domestic
+30.1928966,restaurant,-98.0831245,Ko Lantern
+30.4177189,pharmacy,-97.7027376,H-E-B Pharmacy
+30.4971267,fuel,-97.6164239,Exxon
+30.2366306,pharmacy,-97.7228495,H-E-B Pharmacy
+30.352091,pharmacy,-97.7551726,H-E-B Pharmacy
+30.228369,restaurant,-97.8627558,Hecho En Mexico
+30.2205696,bank,-97.8376669,Wells Fargo
+30.2198535,fast_food,-97.8355517,Taco Cabana
+30.2185926,pharmacy,-97.8364137,CVS
+30.393764,fast_food,-97.750922,Noodles & Company
+30.432403,fire_station,-97.7788836,Firs station on four iron dr
+30.4335185,fuel,-97.7709613,Valero gas station
+30.4304857,restaurant,-97.7641522,Pizza hut
+30.0159265,pharmacy,-97.8609032,H-E-B Pharmacy
+30.0883826,pharmacy,-97.82144,H-E-B Pharmacy
+30.3009227,pharmacy,-97.6979674,H-E-B Pharmacy
+30.2347106,fuel,-97.7228866,H-E-B Gas
+30.2351045,car_wash,-97.7232299,H-E-B Car Wash
+30.2726325,bicycle_rental,-97.7412692,Capitol Station / Congress & 11th
+30.3626624,restaurant,-97.7185807,Pollo Regio
+30.2840559,restaurant,-97.721778,El Sapo
+30.2847133,restaurant,-97.7149412,Taco Mex
+30.3521846,place_of_worship,-97.7209945,Redeemer Lutheran Church
+30.2909325,restaurant,-97.7216786,Taqueria Los Altos
+30.2792485,restaurant,-97.6871767,Country Boyz
+30.4053543,bank,-97.7229394,Chase
+30.2905464,bank,-97.8273074,University Federal Credit Union
+30.2740521,school,-97.8154971,Westlake High School - Field 3
+30.2764768,arts_centre,-97.8157521,Westlake Community Performing Arts Center
+30.351522,college,-97.69291,Istanbul
+30.4046817,dentist,-97.6733163,Castle Dental
+30.4045165,fast_food,-97.6733114,Little Caesars
+30.4054385,doctors,-97.6742927,Care Spot
+30.4187908,post_office,-97.700954,FedEx
+30.4188303,fast_food,-97.7010765,N'Star Donut
+30.4054433,fast_food,-97.6740146,Subway
+30.4071456,cafe,-97.6791061,Shahi Cafe
+30.2701113,restaurant,-97.7312923,Franklin Barbecue
+30.267129,bar,-97.7390069,The Jackalope
+30.2496642,restaurant,-97.7499575,Hopdoddy
+30.2837405,restaurant,-97.7212605,Salty Sow
+30.2508227,restaurant,-97.7542645,Torchy's Tacos
+30.2954347,cafe,-97.7842475,Mozart's Coffee Roasters
+30.251089,cafe,-97.7493549,Jo's Coffee
+30.3106073,cafe,-97.7400068,Houndstooth
+30.3107699,restaurant,-97.7398856,Uchiko
+30.3104716,restaurant,-97.7401083,Tacodeli
+30.2575513,restaurant,-97.7597642,Uchi
+30.2868316,bar,-97.7411484,Cactus Cafe
+30.2604906,bar,-97.7383075,Bungalow
+30.2603206,bar,-97.7384009,Container Bar
+30.2600133,bar,-97.7385023,Clive Bar
+30.25962,restaurant,-97.7381246,No Va Kitchen & Bar
+30.2595204,bar,-97.7382816,Icenhauer's
+30.2597643,bar,-97.7386037,THE BLACKHEART
+30.2588937,pub,-97.738379,Banger's Sausage House & Beer Garden
+30.2587408,bar,-97.73855,Lucille
+30.2579578,pub,-97.7388721,Craft Pride
+30.2584292,bar,-97.7386658,Half Step
+30.2581501,bar,-97.7388025,Javelina
+30.2508288,restaurant,-97.7489794,Lucky Robot
+30.2505001,bar,-97.7490664,The Continental Club
+30.2503043,restaurant,-97.7491227,Botticelli's
+30.2797982,cafe,-97.7196272,Bennu Coffee
+30.2557972,cinema,-97.7636306,Alamo Drafthouse
+30.242444,restaurant,-97.7831164,Sherlock's Baker Street Pub
+30.3032902,fast_food,-97.6989317,Torchy's Tacos
+30.2584147,restaurant,-97.7876984,Tacodeli
+30.2444789,restaurant,-97.7519802,Magnolia Cafe
+30.311079,pub,-97.742891,Draught House
+30.2422208,cafe,-97.783469,Kerbey Lane
+30.2700576,bar,-97.7360877,Mohawk
+30.3532415,restaurant,-97.7256708,East Side Pies
+30.2687797,restaurant,-97.7240795,East Side Pies
+30.3148694,restaurant,-97.7153301,East Side Pies
+30.247541,restaurant,-97.774965,East Side King
+30.2900325,pub,-97.7416188,Hole in the Wall
+30.2628843,restaurant,-97.7250289,East Side King
+30.2897847,restaurant,-97.7416269,Fuzzy's Taco Shop
+30.2900348,restaurant,-97.7418173,East Side King
+30.3614244,restaurant,-97.7152647,Ramen Tatsu-Ya
+30.2680571,fast_food,-97.7387394,Chi'Lantro
+30.2610555,restaurant,-97.7351957,la Barbecue
+30.2839939,restaurant,-97.7194995,Eastside Cafe
+30.2665007,bar,-97.7376596,Casino El Camino
+30.2491852,restaurant,-97.7684454,Barley Swine
+30.2582972,restaurant,-97.7386792,G'Raj Mahal
+30.2643637,bar,-97.7307275,Violet Crown
+30.2642316,restaurant,-97.7307892,Via 313
+30.2578889,restaurant,-97.7386911,Via 313
+30.2650419,cafe,-97.7460802,Jo's Coffee
+30.2326024,cafe,-97.7562269,Jo's Coffee
+30.3487955,restaurant,-97.7350656,Tacodeli
+30.2662841,cafe,-97.7431138,Houndstooth
+30.2631486,restaurant,-97.7263132,Qui
+30.2696325,bar,-97.7498966,Kung Fu Saloon
+30.264414,theatre,-97.7724379,Zilker Hillside Theater
+30.2643375,boat_rental,-97.7674691,Zilker Park Boat Rental
+30.0639549,school,-97.8189254,Tom Green Elementary
+30.3600465,cinema,-97.7348892,Alamo Drafthouse
+30.3354326,pharmacy,-97.7584278,Randalls Pharmacy
+30.1845604,pharmacy,-97.8475973,Randalls Pharmacy
+30.371798,pharmacy,-97.7581427,Randalls Pharmacy
+30.2837684,pharmacy,-97.7761823,Randalls Pharmacy
+30.2227776,pharmacy,-97.8368491,Randalls Pharmacy
+30.2642837,cafe,-97.7277618,Vintage Heart Coffee
+30.262574,bar,-97.7270591,The White Horse
+30.2617215,bar,-97.7247308,Yellow Jacket Social Club
+30.2648186,restaurant,-97.7411682,Vince Young Steakhouse
+30.3892248,pharmacy,-97.8839252,Randalls Pharmacy
+30.2657807,restaurant,-97.7439043,Manuel's
+30.2294299,pharmacy,-97.7904375,Randalls Pharmacy
+30.4954095,pharmacy,-97.6543265,Randalls Pharmacy
+30.3065517,pharmacy,-97.7493541,Randalls Pharmacy
+30.275626,pharmacy,-97.7991902,Randalls Pharmacy
+30.4832966,pharmacy,-97.8298185,Randalls Pharmacy
+30.2881428,place_of_worship,-97.6976702,Bahá'í Faith of Austin, Texas
+30.246835,place_of_worship,-97.7529925,Saint Annie African Methodist Episcopal Church
+30.0304583,cinema,-97.8535464,EVO Entertainment
+30.3167177,bar,-97.7142604,Barfly's
+30.2744128,restaurant,-97.7644753,Sushi Zushi
+30.2727661,restaurant,-97.7605957,Tacos and Tequila
+30.2743717,fast_food,-97.7644053,Subway
+30.2428085,fuel,-97.7517589,Shell
+30.2430919,fuel,-97.7516876,7-Eleven
+30.3140597,fuel,-97.7190809,Snappy Mart
+30.2630554,restaurant,-97.7244128,El Chilito
+30.2616837,restaurant,-97.7243672,Tamale House East
+30.2415181,cafe,-97.7267678,The Buzz Mill
+30.3047499,fuel,-97.6989301,Exxon
+30.3435217,place_of_worship,-97.7075565,Eckankar Center of Austin
+30.3046116,restaurant,-97.7264005,Julio's Cafe
+30.3179086,fast_food,-97.7214959,The Vegan Nom
+30.3069687,restaurant,-97.7353169,Vino Vino
+30.2652966,restaurant,-97.7455299,Bar Chi Sushi
+30.2657411,cafe,-97.7461513,Which Wich?
+30.2658493,cafe,-97.7465097,Starbucks
+30.2651262,restaurant,-97.7463264,Taverna
+30.2650023,restaurant,-97.7459789,Cru
+30.2655978,cafe,-97.7456771,Daily Juice
+30.2649727,atm,-97.7458302,Wells Fargo
+30.2656885,restaurant,-97.7484551,No. 28
+30.2651799,restaurant,-97.7479269,Lamberts
+30.2652637,cafe,-97.7481889,Cafe Ruckus
+30.265572,restaurant,-97.7477644,La Condesa
+30.2656508,cinema,-97.7480751,Violet Crowne
+30.267102,bar,-97.749611,Trifecta On 3rd
+30.2671943,restaurant,-97.7498635,Mulberry
+30.2667395,theatre,-97.7498639,Austin Music Hall
+30.2675522,fast_food,-97.7494041,Thundercloud Subs
+30.1857287,fuel,-97.8168663,Valero
+30.1864977,fuel,-97.816562,Chevron
+29.9316775,fire_station,-97.2968953,3-N-1 VFD Rosanky Fire Station
+29.9320331,community_centre,-97.2960209,Rosanky Community Center
+30.2498056,restaurant,-97.754687,Elizabeth Street Cafe
+30.242618,restaurant,-97.7593004,G's Dynamite Deli
+30.2582402,restaurant,-97.7487942,Threadgill's
+30.229239,pub,-97.7675241,Porter House
+30.2491713,restaurant,-97.768542,Henri's Cheese
+30.2489743,restaurant,-97.7689416,El Meson
+30.2546763,restaurant,-97.7620403,Odd Duck
+30.2547389,restaurant,-97.7626492,Maudie's Too
+30.2525772,fast_food,-97.7642612,Verts Kebap
+30.2523316,restaurant,-97.7644892,Barlata
+30.516345,place_of_worship,-97.683218,First United Methodist Church
+29.9345687,fuel,-97.8188918,Shell
+29.9811519,restaurant,-97.8684007,Kyle Donuts
+30.0116238,fast_food,-97.8602261,Popeye's
+29.981504,restaurant,-97.868073,Garcia's
+30.0148952,fast_food,-97.8582412,Taco Bell
+30.2817337,fast_food,-97.743162,Chick-fil-A
+30.2204612,fast_food,-97.7570688,Chick-fil-A
+30.2098936,place_of_worship,-97.8083357,Berkeley United Methodist Church
+30.2271038,place_of_worship,-97.7910429,Woodlawn Baptist Church
+30.2144972,fast_food,-97.7342912,McDonald's
+30.2138806,post_office,-97.7322635,USPS
+30.2196877,post_office,-97.7562097,FedEx Office Print & Ship Center
+30.220093,bank,-97.7566819,Wells Fargo
+30.2213762,fast_food,-97.7567047,Subway
+30.2242156,fast_food,-97.7642864,P. Terry's Burger Stand
+30.217749,fast_food,-97.689724,Subway
+30.560226,bank,-97.6871655,Chase
+30.5598703,fast_food,-97.6843331,McDonald's
+30.5595054,pharmacy,-97.6856313,Walgreens
+30.303249,fuel,-97.7641443,Shell
+30.2658798,bicycle_rental,-97.7682288,Bike Rent @ Zilker Park
+30.3670216,fast_food,-97.7275902,P. Terry's Burger Stand
+30.1102742,restaurant,-97.3555535,Chili's
+30.1117777,fast_food,-97.3524046,Chick-fil-A
+30.1103438,fast_food,-97.3549688,Panda Express
+30.1102928,bank,-97.3533917,Roscoe State Bank
+30.108237,bank,-97.357238,Greater TEXAS Federal Credit Union
+30.1611386,ice_cream,-97.7915461,Amy's Ice Cream
+30.1612482,restaurant,-97.7916799,Zorba Greek Diner
+30.2905051,fast_food,-97.8263202,Tacodeli
+30.2712335,fast_food,-97.7418768,Planet Sub
+30.2676562,bar,-97.7408963,Bourbon Girl
+30.267686,bar,-97.7410028,Friends Bar
+30.2675688,bar,-97.7405829,Recess Arcade Bar
+30.2676594,pub,-97.7389772,The Chicago House
+30.2669612,bar,-97.7384055,Buckshot 6th St
+30.2670224,bar,-97.7386248,Cheers Shot Bar
+30.2671673,restaurant,-97.7391442,Chupacabra Cantina
+30.2671481,restaurant,-97.7390753,Peckerheads on Sixth
+30.2677385,bar,-97.7384416,MugShots
+30.2670878,nightclub,-97.7388595,The 512 on 6th
+30.2669974,nightclub,-97.7385355,Vulcan Gas Company
+30.2647151,restaurant,-97.7410729,Rio Grande Mexican
+30.2674669,nightclub,-97.7402177,Amped Austin
+30.2674385,nightclub,-97.740116,KRAVE
+30.2674088,bar,-97.7400096,The Dizzy Rooster
+30.266411,restaurant,-97.7364345,Geisha Sushi & Grill
+30.2672572,nightclub,-97.7367597,Plush
+30.2670555,restaurant,-97.7359806,Koriente Restaurant
+30.2671346,nightclub,-97.7362621,Red 7
+30.2662204,theatre,-97.7374511,Esther's Follies
+30.266464,nightclub,-97.737528,The Velveeta Room
+30.5165753,dentist,-97.6907137,Chisholm Trail Dental Health
+30.013159,fast_food,-97.8624167,Five Guys
+30.5850894,toilets,-98.1702065,Office Restroom
+30.5854141,compressed_air,-98.1706192,Air Station
+30.4835706,restaurant,-97.6817012,Maggi Moo's
+30.0128547,restaurant,-97.8626751,Mama Fu's Asian House
+30.2539965,restaurant,-97.7631485,Ramen Tatsu-ya
+30.2520294,restaurant,-97.7638486,Chilantro
+30.306675,fuel,-97.7243642,Shell
+30.086964,pharmacy,-97.8246306,Walmart Pharmacy
+30.1097381,restaurant,-97.3209889,Brewhouse
+30.1112603,parking,-97.2690773,Trailhead
+30.2878053,restaurant,-97.7033737,Contigo
+30.3061969,place_of_worship,-97.7234087,Palri Pema Od Ling Buddhist Temple
+30.453921,restaurant,-97.772406,Shandeez Grill
+30.4526852,bar,-97.7812614,Stompin Grounds
+30.2452827,bank,-97.7509611,Chase
+30.2414943,pub,-97.760365,G & S Lounge
+30.2452596,bar,-97.7688434,ABGB
+30.2332215,restaurant,-97.7425765,Denny's
+30.2451066,restaurant,-97.7688916,ABGB
+30.2336572,cafe,-97.7423539,Starbucks
+30.2603566,fast_food,-97.7581172,Mcdonalds
+30.5247402,fast_food,-97.8196119,Chipotle
+30.52485,fast_food,-97.8192297,Menchies
+30.5265894,fuel,-97.8175436,Costco Gas
+30.5269536,cafe,-97.8144295,Starbucks
+30.5270237,restaurant,-97.8157223,Mighty Fine Burger
+30.5260921,fast_food,-97.8155515,Gigi's Cupcakes
+30.5262602,fast_food,-97.8149742,Carl's Jr.
+30.5248256,fast_food,-97.8193925,Jamba Juice
+30.5250451,fast_food,-97.8207586,Pieology
+30.5252219,restaurant,-97.8200791,Sushi Fever
+30.5252097,fast_food,-97.8202702,Jimmy John's
+30.5251792,fast_food,-97.8203976,Vert's Kabab
+30.523537,restaurant,-97.8236445,1431 Cafe
+30.5230823,restaurant,-97.8251175,C R Surf & Turf
+30.523138,nightclub,-97.8269154,Wild West
+30.5223848,restaurant,-97.8271729,Fuzzy's Taco Shop
+30.5229347,restaurant,-97.8259552,Kung Fu Buffet
+30.2644493,cafe,-97.7330414,Wright Bros. Brew & Brew
+30.2180334,cafe,-97.7964286,Strange Brew
+30.112017,fast_food,-97.353833,Subway
+30.2115809,fast_food,-97.7132467,Jack in the Box
+30.2131254,fast_food,-97.7124681,Wendy's
+30.2172052,restaurant,-97.6917916,Denny's
+30.260289,theatre,-97.751111,The Long Center
+30.397335,parking,-97.880663,Tom Hughes Park
+30.260505,cafe,-97.733706,Cenote
+30.5409978,charging_station,-97.5633096,ChargePoint
+30.6376313,cafe,-97.6774594,Cianfrani Coffee Company
+30.6310183,fast_food,-97.6932079,Taco Cabana
+30.6460467,fast_food,-97.678784,Sonic
+30.6650484,pharmacy,-97.6944966,Walgreens
+30.6648177,fuel,-97.6930643,Shell
+30.6389323,restaurant,-97.6776981,Nancy's Sky Garden
+30.6422462,restaurant,-97.6786383,El Monumento
+30.6387869,restaurant,-97.6785283,Monument Cafe
+30.6363406,restaurant,-97.6758461,Eats on 8th
+30.2079458,cafe,-97.8154229,Starbucks
+30.2705148,restaurant,-97.7507367,The Grove
+30.2703425,restaurant,-97.7503681,Benji's
+30.359708,restaurant,-97.7359092,Mighty Bird
+30.3558668,restaurant,-97.7336445,Which Wich
+30.3566054,restaurant,-97.7353057,Yogurtland
+30.3562929,restaurant,-97.7322891,Schlotskys
+30.2669654,bar,-97.7448469,Highland Lounge
+30.2770108,fountain,-97.7170852,Chestnut Splash Pad
+30.2773085,place_of_worship,-97.7151508,New Hope Missionary Baptist Church
+30.5338284,pub,-97.7807988,Red Horn Coffee House and Brewery
+30.2802455,bar,-97.7208778,The Wheel
+30.2844226,cafe,-97.7194198,Thunderbird Coffee
+30.2843995,restaurant,-97.7203077,Hoover's Cooking
+30.2900551,studio,-97.7410455,KUT / KUTX Radio Station
+30.1692713,bar,-97.8266605,Moontower Saloon
+30.237425,vending_machine,-97.7519613,Redbox
+30.5664276,dentist,-97.6649975,Jovan Prosthodontics
+30.5081739,fast_food,-97.6867071,Jimmy John's
+30.5082028,cafe,-97.6865679,Starbucks
+30.4984281,cafe,-97.7227898,Starbucks
+30.4969913,restaurant,-97.7239557,DQ Restaurant
+30.257233,fast_food,-97.746429,Howdy Donut
+30.26482,cafe,-97.744254,Caffé Medici
+30.255974,fast_food,-97.746927,Freebirds
+30.26467,restaurant,-97.744339,Restaurant Comgress
+30.240538,restaurant,-97.726533,Taquearía Arandas
+30.234045,fuel,-97.722118,Chevron
+30.1109203,recycling,-97.7626444,Texas Organic Products (TOP)
+30.5600758,fast_food,-97.6898371,Jimmy John's
+30.5589955,restaurant,-97.6875035,Steak n' Shake
+30.1165503,restaurant,-97.4214972,Mai Thai
+30.5586303,restaurant,-97.688544,TGI Friday's
+30.1558063,place_of_worship,-97.9577882,Radha Madhav Dham
+30.1921525,fast_food,-98.0820377,TCBY
+30.1921108,fast_food,-98.082204,Schlotzsky's Deli
+30.3185782,place_of_worship,-97.8711413,Austin Ridge Bible Church
+30.2863059,restaurant,-97.7450193,Plucker's Wing Factory
+30.4941847,fast_food,-97.6544585,Little Caesars
+30.398259,restaurant,-97.7493286,Mama  Fu's
+30.3567179,dojo,-97.7371019,Austin Aikikai
+30.0120651,fast_food,-97.8599311,Wendy's
+30.4726844,fuel,-97.6409625,Exxon
