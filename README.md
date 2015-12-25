@@ -20,7 +20,7 @@ The articles that I translated in my spare time.  I hope more people in China ca
 
 **Projects:**
 
-[Give Me Some Credit](https://github.com/kevinshenyang07/notes-and-projects/blob/gh-pages/projects/Give_Me_Some_Credit/Give_Me_Some_Credit.ipynb)
+[Give Me Some Credit](https://github.com/kevinshenyang07/notes-and-projects/tree/gh-pages/projects/Give_Me_Some_Credit/Give_Me_Some_Credit.ipynb)
 
 Use random forest and gradient boosting trees to predict serious delinquencies in next two years. Tuning parameters with grid search, reaching Kaggle bechmark with basically no feature engineering.
 
