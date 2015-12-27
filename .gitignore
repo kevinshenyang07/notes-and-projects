@@ -1,3 +1,5 @@
 *images*
 *ipynb_checkpoints*
-*pyc
+*.pyc
+\instance
+./projects/Define_Data_Analyst/job_pages/*

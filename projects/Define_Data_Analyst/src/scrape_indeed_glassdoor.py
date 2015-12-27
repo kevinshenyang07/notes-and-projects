@@ -10,9 +10,9 @@ import os
 import re
 from datetime import datetime
 from pymongo import MongoClient
-import indeed
-import glassdoor
-import utils
+import indeed as indeed
+import glassdoor as glassdoor
+import utils as utils
 
 client = MongoClient()
 indeed_db = client.indeed
