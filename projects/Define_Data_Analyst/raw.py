@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import re
 
-with open("indeed.xml", 'r') as fi:
+with open("indeed_sample.xml", 'r') as fi:
     soup = BeautifulSoup(fi, 'xml')
     results = soup.results.find_all('result')
     pattern_da = re.compile(r'data|analyst', re.IGNORECASE)
