@@ -13,3 +13,9 @@ Requirement:
 2. Database: SQL(MySQL, PostgreSQL, SQL Server); NoSQL: MongoDB
 3. Big-data: Hadoop Mapreduce Hive Pig Spark
 4. Analytics: Office(Excel), SAS, Tableau
+
+####Approach2: Topic Model
+
+take a small sample first to write the appropriate cleaning process. possibly use css selector soup.select() 
+useful tags: <ul>, <br>, <table>
+not useful:  <title>, <style>, <script>

@@ -11,7 +11,7 @@ params = {
     'limit': 25,
     'latlong': 1,
     'userip': "8.19.92.134",
-    'useragent': "Mozilla/5.0%Chrome/47.0.2526.106",
+    'useragent': "Mozilla/5.0%Chrome",
     'v': 2
 }
 
@@ -49,6 +49,7 @@ def write_rows(start=0, end=None):
                 for result in soup.results.find_all('result'):
                     row = make_row(result)
                     file_out.write(row+'\n')
+
 
 make_header()
 write_rows(0, 3000)
