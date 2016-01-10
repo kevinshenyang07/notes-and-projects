@@ -6,6 +6,7 @@ from app import create_app
 
 
 def init_sc():
+
     conf = SparkConf().setAppName("prediction_model_demo")
     # upload other python files to spark cluster
     sc = SparkContext(conf=conf, pyFiles=['app.py', 'engine.py', 'pipeline.py'])
@@ -22,8 +23,8 @@ def run_server(app):
     cherrypy.config.update({
         'engine.autoreload.on': True,
         'log.screen': True,
+        'server.socket_host': '0.0.0.0',
         'server.socket_port': 5432,
-        'server.socket_host': '127.0.0.1'
         })
 
     cherrypy.engine.start()
@@ -32,8 +33,14 @@ def run_server(app):
 
 if __name__ == '__main__':
 
+    '''
     # init spark context and load libs
+    import findspark
+    findspark.init('/Users/apple/spark-1.5.1-bin-hadoop2.6')
+    '''
+
     sc = init_sc()
+
     dataset_path = os.path.join('datasets', 'ml-latest-small')
     app = create_app(sc, dataset_path)
 

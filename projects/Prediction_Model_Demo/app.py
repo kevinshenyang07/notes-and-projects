@@ -22,7 +22,7 @@ def top_ratings(user_id, count):
 @main.route("/<int:user_id>/ratings/<int:movie_id>", methods=["GET"])
 def movie_ratings(user_id, movie_id):
     logger.debug("User {} rating requested for movie {}".format(user_id, movie_id))
-    res = prediction_engine.get_movie_ratings(user_id, [movie_id])
+    res = prediction_engine.get_ratings_for_movieid(user_id, [movie_id])
     return json.dumps(res)
 
 
