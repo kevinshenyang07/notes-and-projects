@@ -13,9 +13,9 @@ Add some front-end interfaces.
 
 1. ```$ git clone  https://github.com/kevinshenyang07/notes-and-projects/tree/gh-pages/projects/Prediction_Model_Demo```
 2. Modify the pipeline.py according to the data you have.
-3. Download the pre-built spark [http://spark.apache.org/downloads.html](http://spark.apache.org/downloads.html) and unzip it to, for example, ```~/spark-1.5.1-bin-hadoop2.6```.
+3. Download the pre-built spark at [http://spark.apache.org/downloads.html](http://spark.apache.org/downloads.html) and unzip it to, for example, ```~/spark-1.5.1-bin-hadoop2.6```.
 4. To start a standalone cluster, go to the spark folder and start the master node of spark, for example ```$ sbin/start-master.sh```.
 5. In the web browser, enter ```http://localhost:8080``` and find its URL formatted as ```spark://localhost:7077```
-6. Start the worker with command ``` $ sbin/start-slaves.sh $MASTER_URL```, $MASTER_URL shoule be the URL you found.
+6. Start the workers with command ``` $ sbin/start-slaves.sh $MASTER_URL```, $MASTER_URL shoule be the URL you found.
 7. Start the demo with start_server.sh, remember to configure the cores and RAM you allocate to the executors.
-8. You might find 'cherry.error' in the log, the reason is still a mystery but it works just fine.
+8. You might find 'cherry.error' in the log, the reason is still a mystery, but it works just fine.
