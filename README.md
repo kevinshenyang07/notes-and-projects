@@ -22,17 +22,21 @@ The articles that I translated in my spare time.  I hope more people in China ca
 
 [Give Me Some Credit](https://github.com/kevinshenyang07/notes-and-projects/tree/gh-pages/projects/Give_Me_Some_Credit/Give_Me_Some_Credit.ipynb)
 
-Use random forest and gradient boosting trees to predict serious delinquencies in next two years. Parameters tuned by grid search cross-validation, the model already reaches Kaggle bechmark with minimum feature engineering.
+Use random forest and gradient boosting trees to predict serious delinquencies in next two years. Parameters tuned by grid search cross-validation, followed by cost analysis. The model already reaches Kaggle bechmark with minimum feature engineering.
 
 [Wells Fargo Text Analysis](https://github.com/kevinshenyang07/notes-and-projects/tree/gh-pages/projects/Text_Anlysis_Wells_Fargo)
 
-Use Clustering, Topic Model of LDA and Word2Vec to investigate relationships between topics and certain banks. I'm still working on an Watson Tone Analyzer API, but having some encoding problems.
+Use clustering, topic model of LDA and Word2Vec to investigate relationships between topics and certain banks. The experimental Watson Tone Analyzer API is another option but there seems to be some problems returning the data.
 
 [Geo-austin](https://github.com/kevinshenyang07/notes-and-projects/tree/gh-pages/projects/Open_Street_Map_Austin)
 
 Use BeautifulSoup to parse large file provided by Open Street Map into json, explore the data in MongoDB and finally visualize it with tableau.
 
+[Prediction Model Demo](https://github.com/kevinshenyang07/notes-and-projects/tree/gh-pages/projects/Prediction_Model_Demo)
+
+Use spark, flask and cherrypy to build a minimally viable web service.
+
 [Define Data Analyst](https://github.com/kevinshenyang07/notes-and-projects/tree/gh-pages/projects/Define_Data_Analyst)
 
-Working on it...
+Use indeed API to get the metadata of positions with keyword "data analyst", get the contents of original job pages and build corpus based on the job description and requirements. Still in progress...
 

@@ -2,31 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87296e9a-e45f-4fe9-b759-166f3edfd784" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/notes/A Sneak Peek Into Optimizely’s First Industry Benchmark Report.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/notes/CS183C-11-Technology-enabled Blitzscaling.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/notes/Choose Boring Technology.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/notes/Creating a Data-Driven Organization- Two Years On.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/Click_Through_Rate/Test(1).csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/Click_Through_Rate/Train(1).csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/Define_Data_Analyst/src/scrape_indeed_glassdoor.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/Define_Data_Analyst/test.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/Don't_Get_Kicked/Test_Data_Kick.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/Don't_Get_Kicked/Train_Data_Kick.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/Give_Me_Some_Credit/Give_Me_Some_Credit.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/Give_Me_Some_Credit/Test_Data_Credit.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/Give_Me_Some_Credit/Train_Data_Credit.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/Influencer_in_Social_Media/Social_Personality.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/Influencer_in_Social_Media/test(1).csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/Influencer_in_Social_Media/train(1).csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/Product_Classification/test(2).csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/Product_Classification/train(2).csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/Text_Anlysis_Wells_Fargo/.ipynb_checkpoints/Analysis_Watson-checkpoint.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/Text_Anlysis_Wells_Fargo/Analysis_Watson.ipynb" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/Define_Data_Analyst/README.md" afterPath="$PROJECT_DIR$/projects/Define_Data_Analyst/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/Define_Data_Analyst/raw.py" afterPath="$PROJECT_DIR$/projects/Define_Data_Analyst/raw.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/Define_Data_Analyst/scrape_indeed.py" afterPath="$PROJECT_DIR$/projects/Define_Data_Analyst/scrape_indeed.py" />
     </list>
     <ignored path="notes-and-projects.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -51,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/projects/Define_Data_Analyst/scrape_indeed.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+              <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -59,11 +37,69 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="reshape.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/projects/Open_Street_Map_Austin/reshape.py">
+      <file leaf-file-name="app.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects/Prediction_Model_Demo/app.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="engine.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects/Prediction_Model_Demo/engine.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#44#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects/Prediction_Model_Demo/server.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="start_server.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects/Prediction_Model_Demo/start_server.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pipeline.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/projects/Prediction_Model_Demo/pipeline.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.94180703">
+              <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reshape.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects/Open_Street_Map_Austin/reshape.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="202" column="0" selection-start-line="202" selection-start-column="0" selection-end-line="202" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -109,8 +145,11 @@
         <option value="$PROJECT_DIR$/projects/Define_Data_Analyst/indeed_jobs.csv" />
         <option value="$PROJECT_DIR$/projects/Define_Data_Analyst/indeed.xml" />
         <option value="$PROJECT_DIR$/projects/Define_Data_Analyst/test.py" />
-        <option value="$PROJECT_DIR$/projects/Define_Data_Analyst/scrape_indeed.py" />
         <option value="$PROJECT_DIR$/projects/Define_Data_Analyst/raw.py" />
+        <option value="$PROJECT_DIR$/projects/Open_Street_Map_Austin/reshape.py" />
+        <option value="$PROJECT_DIR$/projects/Define_Data_Analyst/scrape_indeed.py" />
+        <option value="$PROJECT_DIR$/projects/Prediction_Model_Demo/server.py" />
+        <option value="$PROJECT_DIR$/projects/Prediction_Model_Demo/engine.py" />
       </list>
     </option>
   </component>
@@ -144,16 +183,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -201,26 +230,18 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Open_Street_Map_Austin" />
+              <option name="myItemId" value="Prediction_Model_Demo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
           <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="notes-and-projects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="notes-and-projects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="projects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Define_Data_Analyst" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -231,7 +252,7 @@
     <property name="options.lastSelected" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PycharmProjects" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
@@ -576,7 +597,7 @@
     <entry file="file://$PROJECT_DIR$/projects/Define_Data_Analyst/scrape_indeed.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
@@ -586,7 +607,7 @@
     <entry file="file://$PROJECT_DIR$/projects/Open_Street_Map_Austin/reshape.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="202" column="0" selection-start-line="202" selection-start-column="0" selection-end-line="202" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -596,6 +617,54 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/Prediction_Model_Demo/start_server.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/Prediction_Model_Demo/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/Prediction_Model_Demo/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/Prediction_Model_Demo/engine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/Prediction_Model_Demo/pipeline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.94180703">
+          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
