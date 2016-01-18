@@ -2,9 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87296e9a-e45f-4fe9-b759-166f3edfd784" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/Prediction_Model_Demo/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/Prediction_Model_Demo/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/Prediction_Model_Demo/app.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/Prediction_Model_Demo/engine.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/Prediction_Model_Demo/pipeline.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/Prediction_Model_Demo/server.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/Prediction_Model_Demo/start_server.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/Prediction_Model_Demo/user_ratings.file" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/Define_Data_Analyst/indeed_jobs.txt" afterPath="$PROJECT_DIR$/projects/Define_Data_Analyst/data_analyst_jobs.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/Define_Data_Analyst/Define_Data_Analyst.ipynb" afterPath="$PROJECT_DIR$/projects/Define_Data_Analyst/Define_Data_Analyst.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/Define_Data_Analyst/scrape_indeed.py" afterPath="$PROJECT_DIR$/projects/Define_Data_Analyst/scrape_indeed.py" />
     </list>
     <ignored path="notes-and-projects.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,71 +35,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="scrape_indeed.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="scrape_indeed.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/projects/Define_Data_Analyst/scrape_indeed.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+            <state vertical-scroll-proportion="0.6447167">
+              <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projects/Prediction_Model_Demo/app.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="engine.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projects/Prediction_Model_Demo/engine.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#44#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="server.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projects/Prediction_Model_Demo/server.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="start_server.sh" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projects/Prediction_Model_Demo/start_server.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pipeline.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/projects/Prediction_Model_Demo/pipeline.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.94180703">
-              <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -147,9 +99,9 @@
         <option value="$PROJECT_DIR$/projects/Define_Data_Analyst/test.py" />
         <option value="$PROJECT_DIR$/projects/Define_Data_Analyst/raw.py" />
         <option value="$PROJECT_DIR$/projects/Open_Street_Map_Austin/reshape.py" />
-        <option value="$PROJECT_DIR$/projects/Define_Data_Analyst/scrape_indeed.py" />
         <option value="$PROJECT_DIR$/projects/Prediction_Model_Demo/server.py" />
         <option value="$PROJECT_DIR$/projects/Prediction_Model_Demo/engine.py" />
+        <option value="$PROJECT_DIR$/projects/Define_Data_Analyst/scrape_indeed.py" />
       </list>
     </option>
   </component>
@@ -184,6 +136,16 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -230,18 +192,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Prediction_Model_Demo" />
+              <option name="myItemId" value="Define_Data_Analyst" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -573,6 +525,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/projects/Define_Data_Analyst/scrape_indeed.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/anaconda/lib/python2.7/site-packages/bs4/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="5.143979">
@@ -596,8 +558,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/projects/Define_Data_Analyst/scrape_indeed.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+        <state vertical-scroll-proportion="0.6447167">
+          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
@@ -617,54 +579,6 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects/Prediction_Model_Demo/start_server.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects/Prediction_Model_Demo/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects/Prediction_Model_Demo/server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects/Prediction_Model_Demo/engine.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#44#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects/Prediction_Model_Demo/pipeline.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.94180703">
-          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
