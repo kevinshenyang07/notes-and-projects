@@ -7,7 +7,7 @@ from app import create_app
 
 def init_sc():
 
-    conf = SparkConf().setAppName("prediction_model_demo")
+    conf = SparkConf().setAppName("prediction_service_demo")
     # upload other python files to spark cluster
     sc = SparkContext(conf=conf, pyFiles=['app.py', 'engine.py', 'pipeline.py'])
     return sc

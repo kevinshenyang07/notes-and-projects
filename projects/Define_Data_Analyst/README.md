@@ -5,7 +5,9 @@ Many of us are learning all kinds of algorithms and techniques hoping one day hi
 
 Responsibility:
 
-1. 
+1. Modelling
+2. Build Data Pipline
+3. Business Impact
 
 Requirement:
 
@@ -17,5 +19,3 @@ Requirement:
 ####Approach2: Topic Model
 
 take a small sample first to write the appropriate cleaning process. possibly use css selector soup.select() 
-useful tags: <ul>, <br>, <table>
-not useful:  <title>, <style>, <script>

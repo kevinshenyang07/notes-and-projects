@@ -34,13 +34,14 @@ def make_row(tag):
 
 
 def make_header():
-    with codecs.open('indeed_jobs.txt', 'w', encoding='utf-8') as fo:
+    with codecs.open('data_analyst_python_jobs.txt', 'w', encoding='utf-8') as fo:
         head = '|'.join(cols)
         fo.write(head+'\n')
 
 
-def write_rows(start=0, end=None):
-    with codecs.open('indeed_jobs.txt', 'a', encoding='utf-8') as file_out:
+def write_rows(start=0, end=None, q='data analyst'):
+    with codecs.open('data_analyst_python_jobs.txt', 'a', encoding='utf-8') as file_out:
+        params['q'] = q
         for i in range(start, end):
             params['start'] += 25*i
             r = requests.get('http://api.indeed.com/ads/apisearch?', params)
@@ -51,8 +52,12 @@ def write_rows(start=0, end=None):
                     file_out.write(row+'\n')
 
 
-make_header()
-write_rows(0, 3000)
+if __name__ == "__main__":
+    query = "data analyst python -chief -reporter -biologist -iii -vp -modelling -clinical -programmer -malware\
+             -billing -bioinformatics -genomic -director -developer -principal -lead -security -engineer -senior\
+             -gis -architect -sr -geospatial -strategist -spatial"
+    make_header()
+    write_rows(0, 50, query)
 
 
 
