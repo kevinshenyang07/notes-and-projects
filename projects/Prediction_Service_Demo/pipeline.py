@@ -26,16 +26,16 @@ class Pipeline:
     def reshape_ratings(self, file_name):
 
         fileRDD = self.__load_csv(file_name)
-        ratingsRDD = fileRDD.map(lambda x: (int(x[0]),int(x[1]),float(x[2])))\
+        ratingsRDD = fileRDD.map(lambda x: (x[1],x[2],int(x[3])))\
                             .cache()
         return ratingsRDD
 
-    def reshape_movies(self, file_name):
+    def reshape_businesses(self, file_name):
 
         fileRDD = self.__load_csv(file_name)
-        moviesRDD = fileRDD.map(lambda x: (int(x[0]),x[1],x[2])).cache()
-        titlesRDD = moviesRDD.map(lambda x: (int(x[0]),x[1])).cache()
+        businessesRDD = fileRDD.map(lambda x: (int(x[0]),x[1],x[2])).cache()
+        namesRDD = businessesRDD.map(lambda x: (int(x[0]),x[1])).cache()
 
-        return moviesRDD, titlesRDD
+        return businessesRDD, namesRDD
 
 

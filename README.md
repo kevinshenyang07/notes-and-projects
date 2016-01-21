@@ -8,7 +8,7 @@ Never stop learning, get better everyday.
 
 **Notes:**
 
-The articles that I translated in my spare time.  I hope more people in China can know how data science is evolving all around the world.
+The articles that I translated in my spare time. Hope more people in China can know how data science is evolving all around the world.
 
 [A Sneak Peek Into Optimizely’s First Industry Benchmark Report](https://github.com/kevinshenyang07/notes-and-projects/blob/gh-pages/notes/A%20Sneak%20Peek%20Into%20Optimizely%E2%80%99s%20First%20Industry%20Benchmark%20Report.pdf)
 
@@ -26,7 +26,7 @@ Use random forest and gradient boosting trees to predict serious delinquencies i
 
 [Wells Fargo Text Analysis](https://github.com/kevinshenyang07/notes-and-projects/blob/gh-pages/projects/Text_Anlysis_Wells_Fargo/Hashtags_TFIDF_KMeans_LDA_Word2Vec.ipynb)
 
-Use clustering, topic model of LDA and Word2Vec to investigate relationships between topics and certain banks. The experimental Watson Tone Analyzer API is another option but there seems to be some problems returning the data.
+Use K-means clustering, topic model of LDA and Word2Vec to investigate relationships between topics and certain banks. 
 
 [Geo-austin](https://github.com/kevinshenyang07/notes-and-projects/tree/gh-pages/projects/Open_Street_Map_Austin)
 
@@ -34,7 +34,7 @@ Use BeautifulSoup to parse large XML file provided by Open Street Map into JSON,
 
 [Prediction Service Demo](https://github.com/kevinshenyang07/notes-and-projects/tree/gh-pages/projects/Prediction_Service_Demo)
 
-Use flask and cherrypy to build a minimally viable web service, use spark and its mllib to process data and provide prediction.
+Use flask and cherrypy to build a minimally viable web service, use spark and its mllib to process data and provide recommendations on Yelp businesses.
 
 [Define Data Analyst](https://github.com/kevinshenyang07/notes-and-projects/tree/gh-pages/projects/Define_Data_Analyst)
 

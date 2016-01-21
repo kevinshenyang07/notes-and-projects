@@ -7,7 +7,7 @@ logger = logging.getLogger(__name__)
 
 def get_counts_and_averages(id_ratings):
 
-    # input is a tuple like (movie_id, ratings_iterable)
+    # input is a tuple like (business_id, ratings_iterable)
     n_ratings = len(id_ratings[1])
     avg_ratings = sum(x for x in id_ratings[1]) / float(n_ratings)
 
@@ -16,12 +16,12 @@ def get_counts_and_averages(id_ratings):
 
 class PredictionEngine:
 
-    def __init__(self, sc, ratingsRDD, moviesRDD, titlesRDD):
+    def __init__(self, sc, ratingsRDD, businessesRDD, namesRDD):
 
         self.sc = sc
         self.ratingsRDD = ratingsRDD
-        self.moviesRDD = moviesRDD
-        self.titlesRDD = titlesRDD
+        self.businessesRDD = businessesRDD
+        self.namesRDD = namesRDD
         self.__count_and_average_ratings()
 
         self.rank = 8
@@ -40,22 +40,22 @@ class PredictionEngine:
 
     def __count_and_average_ratings(self):
 
-        # updates the movies ratings counts from self.ratingsRDD
-        logger.info("Counting movie ratings...")
-        movieidRatingsRDD = self.ratingsRDD.map(lambda x: (x[1], x[2]))\
+        # updates the businesses ratings counts from self.ratingsRDD
+        logger.info("Counting business ratings...")
+        businessidRatingsRDD = self.ratingsRDD.map(lambda x: (x[1], x[2]))\
                                           .groupByKey()
-        movieidAvgRatingsRDD = movieidRatingsRDD.map(get_counts_and_averages)
-        self.moviesRatingCountsRDD = movieidAvgRatingsRDD\
+        businessidAvgRatingsRDD = businessidRatingsRDD.map(get_counts_and_averages)
+        self.businessesRatingCountsRDD = businessidAvgRatingsRDD\
                                          .map(lambda x: (x[0], x[1][0]))
 
-    def __predict_ratings(self, userMovieRDD):
+    def __predict_ratings(self, userBusinessRDD):
 
-        # get predictions for a given (userID, movieID) formatted ratingsRDD
-        # return a (movie_title, movie_rating, num_rating) formatted RDD
-        predictedRDD = self.model.predictAll(userMovieRDD)
+        # get predictions for a given (userID, businessID) formatted ratingsRDD
+        # return a (business_title, business_rating, num_rating) formatted RDD
+        predictedRDD = self.model.predictAll(userBusinessRDD)
         predictedRatingRDD = predictedRDD.map(lambda x: (x.product, x.rating))
-        ratingTitleCountRDD = predictedRatingRDD.join(self.titlesRDD)\
-                                                .join(self.moviesRatingCountsRDD)
+        ratingTitleCountRDD = predictedRatingRDD.join(self.namesRDD)\
+                                                .join(self.businessesRatingCountsRDD)
         resultRDD = ratingTitleCountRDD.map(lambda r: (r[1][0][1], r[1][0][0], r[1][1]))
 
         return resultRDD
@@ -64,7 +64,7 @@ class PredictionEngine:
 
     def add_ratings(self, ratings):
 
-        # additive ratings formatted as (user_id, movie_id, rating)
+        # additive ratings formatted as (user_id, business_id, rating)
         newRatingsRDD = self.sc.parallelize(ratings)
         self.ratingsRDD = self.ratingsRDD.union(newRatingsRDD)
 
@@ -74,10 +74,10 @@ class PredictionEngine:
 
         return ratings
 
-    def get_ratings_for_movieid(self, user_id, movie_ids):
+    def get_ratings_for_businessid(self, user_id, business_ids):
 
-        # input: user_id and list of movie ids
-        requestedRDD = self.sc.parallelize(movie_ids)\
+        # input: user_id and list of business ids
+        requestedRDD = self.sc.parallelize(business_ids)\
                               .map(lambda x: (user_id, x))
         # get predicted ratings
         ratings = self.__predict_ratings(requestedRDD).collect()
@@ -86,12 +86,12 @@ class PredictionEngine:
 
     def get_top_ratings(self, user_id, n):
 
-        # recommends top n unrated movies to user_id
-        # first get pairs of (user_id, movie_id) for user_id unrated movies
-        unratedMoviesRDD = self.moviesRDD.filter(lambda rating: not rating[1]==user_id)\
+        # recommends top n unrated businesses to user_id
+        # first get pairs of (user_id, business_id) for user_id unrated businesses
+        unratedBusinesssRDD = self.businessesRDD.filter(lambda rating: not rating[1]==user_id)\
                                          .map(lambda x: (user_id, x[0]))
         # get predicted ratings
-        ratings = self.__predict_ratings(unratedMoviesRDD)\
+        ratings = self.__predict_ratings(unratedBusinesssRDD)\
                            .filter(lambda r: r[2]>=25)\
                            .takeOrdered(n, key=lambda x: -x[1])
         return ratings

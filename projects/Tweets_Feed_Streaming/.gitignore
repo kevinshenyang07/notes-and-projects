@@ -1,0 +1,8 @@
+*images*
+*ipynb_checkpoints*
+*.pyc
+instance/
+.settings
+
+# position infro scraped from each website
+job_pages/

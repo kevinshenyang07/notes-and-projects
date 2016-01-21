@@ -41,7 +41,7 @@ if __name__ == '__main__':
 
     sc = init_sc()
 
-    dataset_path = os.path.join('datasets', 'ml-latest-small')
+    dataset_path = 'datasets'
     app = create_app(sc, dataset_path)
 
     run_server(app)

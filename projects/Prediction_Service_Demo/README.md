@@ -19,3 +19,4 @@ Add some front-end interfaces.
 6. Start the workers with command ``` $ sbin/start-slaves.sh $MASTER_URL```, $MASTER_URL shoule be the URL you found.
 7. Start the demo with start_server.sh, remember to configure the cores and RAM you allocate to the executors.
 8. You might find 'cherry.error' in the log, the reason is still a mystery, but it works just fine.
+9. Request on 0.0.0.0:5432/{user_id}/ratings/top/{n} to get top n recommedations for user {user_id}.

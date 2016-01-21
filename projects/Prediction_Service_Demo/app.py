@@ -19,10 +19,10 @@ def top_ratings(user_id, count):
     return json.dumps(res)
 
 
-@main.route("/<int:user_id>/ratings/<int:movie_id>", methods=["GET"])
-def movie_ratings(user_id, movie_id):
-    logger.debug("User {} rating requested for movie {}".format(user_id, movie_id))
-    res = prediction_engine.get_ratings_for_movieid(user_id, [movie_id])
+@main.route("/<int:user_id>/ratings/<int:business_id>", methods=["GET"])
+def business_ratings(user_id, business_id):
+    logger.debug("User {} rating requested for business {}".format(user_id, business_id))
+    res = prediction_engine.get_ratings_for_businessid(user_id, [business_id])
     return json.dumps(res)
 
 
@@ -31,7 +31,7 @@ def add_ratings(user_id):
     if request.form.keys():
         ratings_raw = request.form.keys()[0].strip().split("\n")
         ratings_list = [r.split(",") for r in ratings_raw]
-        # pack each rating with user_id and movie_id
+        # pack each rating with user_id and business_id
         res = []
         for l in ratings_list:
             if check_element(l):
@@ -49,11 +49,11 @@ def create_app(spark_context, dataset_path):
 
     # prepare the data for prediction engine
     pipeline = Pipeline(spark_context, dataset_path)
-    ratingsRDD = pipeline.reshape_ratings('ratings.csv')
-    moviesRDD, titlesRDD = pipeline.reshape_movies('movies.csv')
+    ratingsRDD = pipeline.reshape_ratings('LVratings.csv')
+    businessesRDD, namesRDD = pipeline.reshape_businesses('LVbusinesses.csv')
 
     global prediction_engine
-    prediction_engine = PredictionEngine(spark_context, ratingsRDD, moviesRDD, titlesRDD)
+    prediction_engine = PredictionEngine(spark_context, ratingsRDD, businessesRDD, namesRDD)
 
     app = Flask(__name__)
     app.register_blueprint(main)
