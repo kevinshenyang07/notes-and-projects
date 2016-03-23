@@ -22,19 +22,19 @@ The articles that I translated in my spare time. Hope more people in China can k
 
 [Give Me Some Credit](https://github.com/kevinshenyang07/notes-and-projects/tree/gh-pages/projects/Give_Me_Some_Credit/Give_Me_Some_Credit.ipynb)
 
-Use random forest and gradient boosting trees to predict serious delinquencies in next two years. Parameters tuned by grid search cross-validation, followed by cost analysis. The model already reaches Kaggle bechmark with minimum feature engineering.
+Used Random Forest and Gradient Boosting Trees to predict serious delinquencies in next two years. Tuned parameters by grid search cross-validation and achieved the model AUC of 0.865, followed by prevention cost analysis. The model already reaches Kaggle bechmark with minimum feature engineering.
 
 [Wells Fargo Text Analysis](https://github.com/kevinshenyang07/notes-and-projects/blob/gh-pages/projects/Text_Anlysis_Wells_Fargo/Hashtags_TFIDF_KMeans_LDA_Word2Vec.ipynb)
 
-Use K-means clustering, topic model of LDA and Word2Vec to investigate relationships between topics and certain banks. 
+Cleaned the tweets from scratch, used K-means Clustering, LDA Topic Model and Word2Vec to discover certain groupings and investigate differences of topics about each bank.
 
 [Geo-austin](https://github.com/kevinshenyang07/notes-and-projects/tree/gh-pages/projects/Open_Street_Map_Austin)
 
-Use BeautifulSoup to parse large XML file provided by Open Street Map into JSON, explore the data in MongoDB and visualize it with tableau.
+Clean and parse large XML file provided by Open Street Map into JSON, explore and aggregate the data in MongoDB and visualize it with tableau.
 
 [Prediction Service Demo](https://github.com/kevinshenyang07/notes-and-projects/tree/gh-pages/projects/Prediction_Service_Demo)
 
-Use flask and cherrypy to build a minimally viable web service, use spark and its mllib to process data and provide recommendations on Yelp businesses.
+With Yelp open dataset, used Flask and cherrypy to build a minimally viable web service, used Spark and Alternating Least Square to process data and provide city-wise recommendations on Yelp businesses.
 
 [Define Data Analyst](https://github.com/kevinshenyang07/notes-and-projects/tree/gh-pages/projects/Define_Data_Analyst)
 
