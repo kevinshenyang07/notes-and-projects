@@ -28,13 +28,17 @@ Used Random Forest and Gradient Boosting Trees to predict serious delinquencies 
 
 Cleaned the tweets from scratch, used K-means Clustering, LDA Topic Model and Word2Vec to discover certain groupings and investigate differences of topics about each bank.
 
-[Geo-austin](https://github.com/kevinshenyang07/notes-and-projects/tree/gh-pages/projects/Open_Street_Map_Austin)
-
-Clean and parse large XML file provided by Open Street Map into JSON, explore and aggregate the data in MongoDB and visualize it with tableau.
-
 [Prediction Service Demo](https://github.com/kevinshenyang07/notes-and-projects/tree/gh-pages/projects/Prediction_Service_Demo)
 
 With Yelp open dataset, used Flask and cherrypy to build a minimally viable web service, used Spark and Alternating Least Square to process data and provide city-wise recommendations on Yelp businesses.
+
+[MEDLINE Network Analysis](https://github.com/kevinshenyang07/notes-and-projects/blob/gh-pages/projects/MEDLINE_Network_Analysis/MEDLINE_Network_Analysis.ipynb)
+
+Studied the co-authorship of medical papers using community detection, examined the co-occurances of descriptions and keywords using chi-sqaure test, and predicted possible links using classification model and graph stats as features.
+
+[Geo-austin](https://github.com/kevinshenyang07/notes-and-projects/tree/gh-pages/projects/Open_Street_Map_Austin)
+
+Clean and parse large XML file provided by Open Street Map into JSON, explore and aggregate the data in MongoDB and visualize it with tableau.
 
 [Define Data Analyst](https://github.com/kevinshenyang07/notes-and-projects/tree/gh-pages/projects/Define_Data_Analyst)
 
