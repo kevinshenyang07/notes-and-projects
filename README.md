@@ -22,7 +22,7 @@ The articles that I translated in my spare time. Hope more people in China can k
 
 [Give Me Some Credit](https://github.com/kevinshenyang07/notes-and-projects/tree/gh-pages/projects/Give_Me_Some_Credit/Give_Me_Some_Credit.ipynb)
 
-Used Random Forest and Gradient Boosting Trees to predict serious delinquencies in next two years. Tuned parameters by grid search cross-validation and achieved the model AUC of 0.865, followed by prevention cost analysis. The model already reaches Kaggle bechmark with minimum feature engineering.
+Used Random Forest and Gradient Boosting Trees to predict serious delinquencies in next two years. Tuned parameters by grid search cross-validation, followed by prevention cost analysis. The model already reaches Kaggle bechmark with minimum feature engineering. Model AUC 86.48%
 
 [Wells Fargo Text Analysis](https://github.com/kevinshenyang07/notes-and-projects/blob/gh-pages/projects/Text_Anlysis_Wells_Fargo/Hashtags_TFIDF_KMeans_LDA_Word2Vec.ipynb)
 
@@ -34,7 +34,7 @@ With Yelp open dataset, used Flask and cherrypy to build a minimally viable web 
 
 [MEDLINE Network Analysis](https://github.com/kevinshenyang07/notes-and-projects/blob/gh-pages/projects/MEDLINE_Network_Analysis/MEDLINE_Network_Analysis.ipynb)
 
-Studied the co-authorship of medical papers using community detection, examined the co-occurances of descriptions and keywords using chi-sqaure test, and predicted possible links using classification model and graph stats as features.
+Studied the co-authorship of medical papers using community detection, examined the co-occurrences of descriptions and keywords using chi-sqaure test, and predicted possible links using graph stats as features. Model AUC 99.92%.
 
 [Geo-austin](https://github.com/kevinshenyang07/notes-and-projects/tree/gh-pages/projects/Open_Street_Map_Austin)
 
