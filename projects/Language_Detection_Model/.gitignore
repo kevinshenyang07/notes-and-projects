@@ -1,0 +1,8 @@
+txt/
+tools/
+metastore_db/
+.ipynb_checkpoints/
+
+*.pyc
+*.log
+*.test
