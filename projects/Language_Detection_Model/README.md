@@ -21,7 +21,7 @@ Since there are so many text files for each language, it would be less efficient
 Simply because it's scalable. It can be easily scaled to 100 languages and larger dataset, even the model trained in local is decent, we have the option to push it higher.
 
 ### Why TFIDF over Word2Vec and Logistic Regression over Random Forest?
-TFIDF is still little bit faster than Word2Vec and requires less memory. Both of them are good enough as a input layer. Logistic Regression is better in this case because it takes less time training and works better dealing with numerical features.
+TFIDF is still little bit faster than Word2Vec and requires less memory. Both of them are good enough as a input layer. Logistic Regression is better in this case because it takes less time training by reducing the memory footprint with LBFGS. It also works better dealing with numerical features.
 
 ### The result and possible improvement?
 Best model accuracy: 99.47%,  f-score: 0.9947.
