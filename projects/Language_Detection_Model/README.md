@@ -28,3 +28,13 @@ Best model accuracy: 99.47%,  f-score: 0.9947.
 Model stored in model/ directory.
 
 More features can be used in TFIDF model (currenly limited by local memory).
+
+### Notes:
+I did not keep all the process I had for different parameters, but I do record the results:
+
+1. Word-of-bag, 1-gram, 1000 features - 13.35% accuracy.
+2. Word-of-bag, 3-gram, 1000 features - 15.72% accuracy.
+3. Word-of-bag, 3-gram, 100000 features - 33.24% accuracy.
+4. Characters, 2-char, 100000 features - 66.49% accuracy.
+5. Characters, 3-char, 2^15 features, L2 regularization - 85.62% accuracy.
+6. Characters, 3-char, 2^15 features, L1 regularization - 99.47% accuracy.
